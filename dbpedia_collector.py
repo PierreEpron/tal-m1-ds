@@ -45,8 +45,8 @@ query_str = """
             dbp:name ?n;
             dbo:birthDate ?bd;
             dbo:birthPlace ?bp;
-            dbo:deathDate ?dd;
             dbo:abstract ?abs.
+        OPTIONAL {{ ?s dbo:deathDate ?dd. }}
         FILTER (lang(?abs) = "en" && lang(?n) = "en")
         BIND(RAND()*{c} AS ?sortKey)
     }} ORDER BY ?sortKey LIMIT 20
@@ -68,7 +68,7 @@ while True:
                 'path': r['s']['value'],
                 'birthDate': r['bd']['value'],
                 'birthPlace': r['bp']['value'],
-                'deathDate': r['dd']['value'],
+                'deathDate': r['dd']['value'] if 'dd' in r else None,
                 'abstract': r['abs']['value']
             })
 
