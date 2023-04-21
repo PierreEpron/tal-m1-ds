@@ -1,9 +1,15 @@
+from nltk.corpus import stopwords
+import nltk
+nltk.download('stopwords')
+
+
 def clean_spacy_tokens(
     doc_json,
-    stop_words=[], 
+    stop_words=stopwords.words('english'), 
     stop_pos=['ADV','PRON','CCONJ','PUNCT','PART','DET','ADP','SPACE','NUM','SYM','X'],
     min_size=2,
     lowercase=True,
+    is_alpha=True,
     keep_lemma=True
 ):
     valid_tokens = []
@@ -12,6 +18,9 @@ def clean_spacy_tokens(
 
         tok_txt = doc_json['text'][tok['start']:tok['end']]
         tok_txt = tok_txt.lower() if lowercase else tok_txt
+
+        if is_alpha and not tok_txt.isalpha():
+            continue
 
         if len(tok_txt) <= min_size:
            continue
