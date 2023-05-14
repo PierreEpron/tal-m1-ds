@@ -1,3 +1,4 @@
+import functools
 from nltk.corpus import stopwords
 import nltk
 nltk.download('stopwords')
@@ -17,6 +18,7 @@ ASTRAL_DATES = {
     'Pisces' : {'start':(2,20), 'end':(3,20)},
 }
 
+
 MONTHS = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december']
 
 def date_to_astral(date, astral_dates=ASTRAL_DATES):
@@ -27,61 +29,61 @@ def date_to_astral(date, astral_dates=ASTRAL_DATES):
         if (m == s[0] and d >= s[1]) or (m == e[0] and d <= e[1]):
             return k
 
-def clean_spacy_tokens(
+def get_spacy_tokens(doc_json):
+    return map(
+        lambda t: (doc_json['text'], t['upos'], t['lemma']), 
+        doc_json['tokens']
+    )
+
+def get_stanza_tokens(doc_json):
+    return map(
+        lambda t: (doc_json['text'][t['start']:t['end']], t['pos'], t['lemma']), 
+        functools.reduce(lambda a, b: a + b, doc_json, [])
+    )
+
+PARSERS = {
+    'spacy':get_spacy_tokens, 
+    'stanza':get_stanza_tokens
+}
+
+def clean_tokens(
+    parser='spacy',
     stop_words=stopwords.words('english'), 
     stop_pos=['ADV','PRON','CCONJ','PUNCT','PART','DET','ADP','SPACE','NUM','SYM','X'],
     min_size=2,
     lowercase=True,
     is_alpha=True,
     keep_lemma=True,
-    remove_month=True # Only work if lowercase == True:
+    remove_month=True
     ):
 
     if remove_month:
         stop_words += MONTHS
 
-    def wrapped_clean_spacy_tokens(
+    def wrapped_clean_tokens(
         doc_json
     ):
         valid_tokens = []
 
-        for tok in doc_json['tokens']:
+        for t in PARSERS[parser](doc_json):
 
-            tok_txt = doc_json['text'][tok['start']:tok['end']]
-            tok_txt = tok_txt.lower() if lowercase else tok_txt
+            t_txt = doc_json['text'][t['start']:t['end']]
+            t_txt = t_txt.lower() if lowercase else t_txt
 
-            if is_alpha and not tok_txt.isalpha():
+            if is_alpha and not t_txt.isalpha():
                 continue
 
-            if len(tok_txt) <= min_size:
+            if len(t_txt) <= min_size:
                 continue
 
-            if tok['pos'] in stop_pos:
+            if t['pos'] in stop_pos:
                 continue
 
-            if tok_txt in stop_words:
+            if t_txt.lower() in stop_words:
                 continue
 
-            valid_tokens.append(tok['lemma'] if keep_lemma else tok_txt)
+            valid_tokens.append(t['lemma'] if keep_lemma else t_txt)
 
         return valid_tokens
     
-    return wrapped_clean_spacy_tokens
-
-
-# if __name__ == '__main__':
-#     from tqdm import tqdm
-#     from src.utils import read_jsonl, write_jsonl
-#     import spacy
-
-#     MODEL_NAME = 'en_core_web_lg'
-#     INPUT_PATH = 'data/manifest.jsonl'
-#     OUTUT_PATH = f'data/{MODEL_NAME}.jsonl'
-
-#     nlp = spacy.load(MODEL_NAME)
-#     docs = read_jsonl(INPUT_PATH)
-
-#     for doc in tqdm(docs):
-#         doc['abstract'] = nlp(doc['abstract']).to_json()
-
-#     write_jsonl(OUTUT_PATH, docs)
+    return wrapped_clean_tokens
