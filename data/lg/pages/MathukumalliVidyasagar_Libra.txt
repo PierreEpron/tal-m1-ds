@@ -1,0 +1,45 @@
+Mathukumalli Vidyasagar FRS (born 29 September 1947) is a leading control theorist and a Fellow of Royal Society. He is currently  a Distinguished Professor in Electrical Engineering  at IIT Hyderabad. Previously he was the Cecil & Ida Green (II) Chair of Systems Biology Science at the University of Texas at Dallas. Prior to that he was an executive vice-president at Tata Consultancy Services (TCS) where he headed the Advanced Technology Center. Earlier, he was the director of Centre for Artificial Intelligence and Robotics (CAIR), a DRDO defence lab in Bangalore. He is the son of eminent mathematician M V Subbarao.His Erdős number is two and his Einstein number is three.
+
+
+== Early life and education ==
+He completed his bachelor's, master's and Ph. D. degrees from University of Wisconsin, Madison.
+
+
+== Career ==
+He began his career as an assistant professor at the Marquette University in 1969.
+
+
+== Awards and honors ==
+Vidyasagar received several awards and honors, including:
+
+1983: IEEE Fellow of the Institute of Electrical and Electronics Engineers (IEEE), at the age of 35, one of the youngest to receive this honor, "for contributions to the stability analysis of linear and nonlinear distributed systems"
+1984: the Frederick Emmons Terman Award from the American Society for Engineering Education
+2004: IEEE Spectrum named him as one of forty "Tech Gurus"
+2008: the IEEE Control Systems Award
+2012: Became a Fellow of Royal Society
+2012: Rufus Oldenburger Medal
+2013: John Ragazzini Education Award, American Automatic Control Council - for outstanding contributions to automatic control education through publication of textbooks and research monographs
+2015: Jawaharlal Nehru Science Fellowship, Government of India
+2017: Fellow, International Federation of Automatic Control
+2017: Named as 125 "People of Impact" during the 125th anniversary of the Department of Electrical Engineering, University of Wisconsin
+
+
+== Books ==
+1975. Feedback Systems: Input-Output Properties. with C. A. Desoer
+1978. Nonlinear Systems Analysis
+1981. Input-Output Analysis of Large-Scale Interconnected Systems: Decomposition, Well-Posedness and Stability
+1985. Control System Synthesis: A Factorization Approach
+1989. Robot dynamics and control. with Mark W. Spong
+1993. Nonlinear Systems Analysis, (Second Edition)
+1997. A Theory of Learning and Generalization: With Applications to Neural Networks and Control Systems
+2003. Learning and Generalization With Applications to Neural Networks, (Second Edition)
+2006. Robot modeling and control. with S. Hutchinson and Mark W. Spong
+2012. Computational Cancer Biology: An Interaction Networks Approach
+2014. Hidden Markov Processes: Theory and Applications to Biology
+
+
+== References ==
+
+
+== External links ==
+Home page

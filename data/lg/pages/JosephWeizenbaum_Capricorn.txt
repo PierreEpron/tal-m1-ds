@@ -1,0 +1,56 @@
+Joseph Weizenbaum (8 January 1923 – 5 March 2008) was a German American computer scientist and a professor at MIT. The Weizenbaum Award is named after him. He is considered one of the fathers of modern artificial intelligence.
+
+
+== Life and career ==
+Born in Berlin, Germany to Jewish parents, he escaped Nazi Germany in January 1936, immigrating with his family to the United States. He started studying mathematics in 1941 at Wayne State University, in Detroit, Michigan. In 1942, he interrupted his studies to serve in the U.S. Army Air Corps as a meteorologist, having been turned down for cryptology work because of his "enemy alien" status. After the war, in 1946, he returned to Wayne State, obtaining his B.S. in Mathematics in 1948, and his M.S. in 1950.Around 1952, as a research assistant at Wayne, Weizenbaum worked on analog computers and helped create a digital computer. In 1956 he worked for General Electric on ERMA, a computer system that introduced the use of the magnetically encoded fonts imprinted on the bottom border of checks, allowing automated check processing via magnetic ink character recognition (MICR).
+In 1964 he took a position at MIT. In addition to working at MIT, Weizenbaum held academic appointments at Harvard, Stanford, the University of Bremen, and other universities.
+
+
+== Psychology simulation at MIT ==
+In 1966, he published a comparatively simple program called ELIZA, named after the ingenue in George Bernard Shaw's Pygmalion, which performed natural language processing. ELIZA was written in the SLIP programming language of Weizenbaum's own creation. The program applied pattern matching rules to statements to figure out its replies. (Programs like this are now called chatbots.) Driven by a script named DOCTOR, it was capable of engaging humans in a conversation which bore a striking resemblance to one with an empathic psychologist. Weizenbaum modeled its conversational style after Carl Rogers, who introduced the use of open-ended questions to encourage patients to communicate more effectively with therapists. He was shocked that his program was taken seriously by many users, who would open their hearts to it.  Famously, when he was observing his secretary using the software - who was aware that it was a simulation - she asked Weizenbaum: "would you mind leaving the room please?". Many hailed the program as a forerunner of thinking machines, a misguided interpretation that Weizenbaum's later writing would attempt to correct.
+
+
+== Apprehensions about Artificial Intelligence ==
+He started to think philosophically about the implications of artificial intelligence and later became one of its leading critics. In an interview with MIT's The Tech, Weizenbaum elaborated on his fears, expanding them beyond the realm of mere artificial intelligence, explaining that his fears for society and the future of society were largely because of the computer itself. His belief was that the computer, at its most base level, is a fundamentally conservative force and that despite being a technological innovation, it would end up hindering social progress. Weizenbaum used his experience working with Bank of America as justification for his reasoning, saying that the computer allowed banks to deal with an ever-expanding number of checks in play that otherwise would have forced drastic changes to banking organization such as decentralization. As such, although the computer allowed the industry to become more efficient, it prevented a fundamental re-haul of the system.Despite working so closely with computers for many years, Weizenbaum frequently worried about the negative effects they would have on the world, particularly with regards to the military, calling the computer "a child of the military." When asked about the belief that a computer science professional would more often than not end up working with defense, Weizenbaum detailed his position on rhetoric, specifically euphemism, with regards to its effect on societal viewpoints. He believed that the terms "the military" and "defense" did not accurately represent the organizations and their actions. He made it clear that he did not think of himself as a pacifist, believing that there are certainly times where arms are necessary, but by referring to defense as killings and bombings, humanity as a whole would be less inclined to embrace violent reactions so quickly.
+
+
+== Difference between Deciding and Choosing ==
+His influential 1976 book Computer Power and Human Reason displays his ambivalence towards computer technology and lays out his case: the possibility of programming computers to perform one task or another that humans also perform (i.e., whether Artificial Intelligence is achievable or not) is irrelevant to the question of whether computers can be put to a given task. Instead, Weizenbaum asserts that the definition of tasks and the selection of criteria for their completion is a creative act that relies on human values, which cannot come from computers. Weizenbaum makes the crucial distinction between deciding and choosing. Deciding is a computational activity, something that can ultimately be programmed. Choice, however, is the product of judgment, not calculation. In deploying computers to make decisions that humans once made, the agent doing so has made a choice based on their values that will have particular, non-neutral consequences for the subjects who will experience the outcomes of the computerized decisions that the agent has instituted.
+
+
+== Personal life ==
+As of 1987, Weizenbaum had four children, all of them daughters.In 1996, Weizenbaum moved to Berlin and lived in the vicinity of his childhood neighborhood.Weizenbaum was buried at the Weißensee Jewish cemetery in Berlin. A memorial service was held in Berlin on 18 March 2008.
+
+
+== Legacy ==
+A German documentary film on Weizenbaum, "Weizenbaum. Rebel at Work.", was released in 2007 and later dubbed in English. The documentary film Plug & Pray on Weizenbaum and the ethics of artificial intelligence was released in 2010.The interdisciplinary German Internet Institute (Weizenbaum Institute for the Networked Society) was named after Joseph Weizenbaum.
+
+
+== Works ==
+"ELIZA — A Computer Program for the Study of Natural Language Communication between Man and Machine," Communications of the Association for Computing Machinery 9 (1966): 36-45.
+Weizenbaum, Joseph (1976). Computer Power and Human Reason: From Judgment To Calculation. San Francisco: W. H. Freeman. ISBN 978-0-716-70464-5. OCLC 1527521.
+Weizenbaum, Joseph (1984). Kurs auf den Eisberg, oder, Nur das Wunder wird uns retten, sagt der Computerexperte (in German). Zürich: Pendo. ISBN 3-85842-087-5. OCLC 15197911.
+Weizenbaum, Joseph (1997). Zur Anpassung des Designs an die digitalen Medien (in German). Leipzig: Form + Zweck. ISBN 3-85842-087-5. OCLC 39949474.
+Weizenbaum, Joseph (2001). Computermacht und Gesellschaft freie Reden (in German) (Orig.-Ausg., 1. Aufl ed.). Frankfurt am Main. ISBN 978-3-518-29155-9. OCLC 248065619.
+Islands in the Cyberstream: Seeking Havens of Reason in a Programmed Society, Sacramento: Litwin Books, 2015 ISBN 978-1-63400-000-0
+Foreword to Renewal of the Social Organism by Rudolf Steiner, Anthroposophic Press, 1985 ISBN 0-88010-126-1 (cloth) ISBN 0-88010-125-3 (pbk.)
+
+
+== See also ==
+Artificial intelligence and human dignity
+Artificial Intelligence
+Dialogue system
+Psychology
+Mike Cooley
+
+
+== References ==
+
+
+== External links ==
+
+Joseph Weizenbaum: 1988 Winner of CPSR's Norbert Wiener Award for Professional and Social Responsibility
+Obituary, The Independent, 18 March 2008
+Obituary, The Times, 24 March 2008
+Frankfurter Allgemeine Zeitung, 11.11.2010 article about a documentary that was filmed shortly before his death
+Obituary, The New York Times, 13 March 2008, contains names of spouse and children

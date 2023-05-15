@@ -1,0 +1,32 @@
+Veniamin Iosifovich Goldfarb (Russian: Гольдфарб, Вениамин Иосифович; February 1, 1941 – November 12, 2019) was a Soviet scientist, Doctor of Technical Science, professor, Honored Scientist of the Russian Federation who is known for his contribution in the field of gears.
+
+
+== Biography ==
+Veniamin Goldfarb was born in Izhevsk, Russia to Iosif and Esfir Goldfarb on February 1, 1941. After graduating from High School N30 in 1957, he was accepted to Izhevsk Mechanical Institute, which he graduated from in 1962 with a Master's Degree in Mechanical Engineering. He completed his PhD in Technical Sciences in 1969, as well as a Doctor of Science degree in 1986.
+In 1988 he become a professor at Izhevsk Institute of Mechanics. In 1994 Professor Goldfarb become a head of department and director of Institute of Mechanics within Izhevsk State Technical University. in 1998 he become a head of Gearing Technical Committee within International Federation for the Promotion of Mechanism and Machine Science (IFToMM). After 10 years of active involvement he become a member of IFToMM's executive committee and later, in 2012, professor Goldfarb was elected to become a Vice-President of IFToMM.
+Professor Goldfarb died at age 78.
+
+
+== Scientific activities ==
+The main scientific developments of Prof. V.I. Goldfarb consisted of the classification and study of spatial gear schemes, rational structuring of the process of computer-aided design of worm gears, the development of a "non-differential" method for finding surfaces formed by
+enveloping, and the study of a variety of spiroid gears.
+
+
+== Honours and awards ==
+Honored Scientist of the Russian Federation (1997) .
+Honorable Scientist of Republic of Udmurtia (2008).
+
+
+== Bibliography ==
+
+
+=== Text Books ===
+Goldfarb, Veniamin; Trubachev, Evgenii; Barmina, Natalya (2020). New Approaches to Gear Design and Production. Springer Publishing. ISBN 978-3-030-34944-8.
+Goldfarb, Veniamin (2017). Advanced Gear Engineering (Mechanisms and Machine Science, 51). Mechanisms and Machine Science. Vol. 51. Springer Publishing. doi:10.1007/978-3-319-60399-5. ISBN 978-3-319-60399-5.
+
+
+=== Scientific articles ===
+Veniamin I. Goldfarb; Evgenii S. Trubachev; Kirill V. Bogdanov; Tatyana A. Pushkareva (2019), Prospects of manufacturing spiroid gears with small gear ratios, Forschung im Ingenieurwesen
+
+
+== References ==

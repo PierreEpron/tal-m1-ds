@@ -1,0 +1,20 @@
+Branimir Makanec (born 17 May 1932) is a Croatian computer engineer and programmer. Outside of his research work, he is also known in his native country as a pioneering advocate for computer literacy amongst school-aged children.
+
+
+== Background and education ==
+Makanec is the son of Croatian nationalist academic and Ustashe politician Julije Makanec, a member of the aristocratic Makanec family who have produced many scholars and politicians. He was born in Koprivnica near the present-day Hungarian border when his father was a teacher at the local gymnasium. After his father's execution by Yugoslav Partisans and the end of World War II in 1945, Branimir and his mother returned to Zagreb.Makanec graduated from the Electrotechnical Faculty at the University of Zagreb in 1961.
+
+
+== Career ==
+Establishing a cybernetics group at the university in 1962, Makanec designed a TIOSS (remote self-organizing system) robot prototype that displayed rudimentary AI behaviour like handing out the pamphlets to public. He spent some time in the United States in 1968 to study the computing infrastructure and was exposed to the accessibility of computers, then considered to be exclusively for the scientific and research community, to the masses.
+In 1968, Makanec established the Multimedia Center of the Zagreb University Referral Center (MMC). The MMC was an open type computer center intended to be used for non-numerical purposes. The MMC was equipped with a Hewlett-Packard HP 2000 Time-Sharing BASIC system, computer terminals, and teleprinter. The MMC, during nearly twenty years of existence, gave thousands of children and students an opportunity to learn programming and socialise with people of similar interests.Makanec worked for Ivasim (hr) and was part of the team responsible for the development of the Ivel Ultra. It was the first Yugoslav-designed personal computer.In 2003, the Croatian Ministry of Education and Science awarded Makanec the lifetime technical achievement award "Faust Vrancic".
+
+
+== See also ==
+Ivel Ultra
+
+
+== References ==
+
+Lifetime Achievement record at Croatian Science and Education Ministry
+HP 2000 TSB web page

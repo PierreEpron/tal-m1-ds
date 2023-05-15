@@ -1,0 +1,32 @@
+Alexander Bogomolny (January 4, 1948  – July 7, 2018) was a Soviet-born Israeli-American mathematician. He was Professor Emeritus of Mathematics at the University of Iowa, and formerly research fellow at the Moscow Institute of Electronics and Mathematics, senior instructor at Hebrew University and software consultant at Ben Gurion University. He wrote extensively about arithmetic, probability, algebra, geometry, trigonometry and mathematical games.
+He was known for his contribution to heuristics and mathematics education, creating and maintaining the mathematically themed educational website Cut-the-Knot for the Mathematical Association of America (MAA) Online.   He was a pioneer in mathematical education on the internet, having started Cut-the-Knot in  October 1996.
+
+
+== Education and academic career ==
+Bogomolny attended Moscow school No. 444, for gifted children, then entered Moscow State University, where he graduated with a master's degree in mathematics in 1971. From 1971 to 1974 he was a junior research fellow at the Moscow Institute of Electronic Machine Building (MIEM). He emigrated to Israel and became a senior programmer at Lake Kinneret Research Laboratory in Tiberias, Israel (1974 – 1977) and a software consultant at Ben Gurion University in Negev, Be’er Sheva, Israel (1976 – 1977). From 1976 to 1983 he was a senior instructor and researcher at Hebrew University in Jerusalem.  He received his Ph.D. in mathematics at Hebrew University in 1981.  His dissertation is titled, A New Numerical Solution for the Stamp Problem and his thesis advisor was Gregory I. Eskin. From 1981 to 1982 he was also a visiting professor at Ohio State University, where he taught mathematics.From 1982 to 1987 he was professor of mathematics at the University of Iowa. From August 1987 to August 1991 he was vice president of software development at CompuDoc, Inc.
+
+
+== Cut-the-Knot ==
+Cut-the-Knot (CTK) is a free, advertisement-funded educational website which Bogomolny maintained from 1996 to 2018. It is devoted to popular exposition of various topics in mathematics. The site was designed for teachers, children and parents, and anyone else curious about mathematics, with an eye to educating, encouraging interest, and provoking curiosity. Its name is a reference to the legend of Alexander the Great's solution to the Gordian knot.
+CTK won more than 20 awards from scientific and educational publications, including a Scientific American Web Award in 2003, the Encyclopædia Britannica's Internet Guide Award,[1] and Science's NetWatch award.The site contains extensive analysis of many of the classic problems in recreational mathematics including the Apollonian gasket, Napoleon's theorem, logarithmic spirals, the "Futurama Theorem" from the episode "The Prisoner of Benda", the Pitot theorem, and the monkey and the coconuts problem. One page includes 122 proofs of the Pythagorean theorem.Bogomolny wrote a manifesto for CTK in which he said that "Judging Mathematics by its pragmatic value is like judging symphony by the weight of its score." He described the site as "a resource that would help learn, if not math itself, then, at least, ways to appreciate its beauty," and he wondered why it is acceptable among otherwise well-educated people "to confess a dislike and misunderstanding of Mathematics as a whole."Many mathematical ideas were originally illustrated by Java applets, but most were later replaced by GeoGebra applications, also used for material added later. CTK wiki (powered by PmWiki) extends the main site with additional mathematical content, especially that with more complicated formulae than available on the main site.
+
+
+== Book ==
+Cut the Knot: Probability Riddles. Champaign, IL: Wolfram Media, 2020.Published after Bogomolny's death, with a foreword by his friend Nassim Nicholas Taleb, this book of probability riddles is curated to challenge the mind and expand mathematical and logical thinking skills. First housed on cut-the-knot.org, these puzzles and their solutions represent the efforts of great minds around the world. Bogomolny presented these selected riddles by topical progression.
+
+
+== Personal life ==
+Bogomolny had to leave academia because he had an uncorrectable hearing problem and was practically deaf in latter years.
+
+
+== Tribute ==
+Bogomolny's older son David chronicled his yearlong recitation of kaddish in honor of his father, originally on The Times of Israel blogs, in a series titled, "The skeptic's kaddish for the atheist", consisting of traditional Jewish sources, religious text analysis, modern interpretations and expressions of kaddish, philosophy, theology, eschatology, creative writing, and the personal reflections; memories; and experiences of a son in mourning.
+
+
+== References ==
+
+
+== External links ==
+Alexander Bogomolny at the Mathematics Genealogy Project
+Math of all types: The problems of Alexander Bogomolny
+Cut-the-Knot official website

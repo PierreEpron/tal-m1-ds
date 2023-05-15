@@ -1,0 +1,17 @@
+Patrick John Hayes FAAAI (born 21 August 1944) is a British computer scientist who lives and works in the United States. As of March 2006, he is a Senior Research Scientist at the Institute for Human and Machine Cognition in Pensacola, Florida.
+
+
+== Education ==
+Hayes was educated at the Bentley Grammar School, Calne. He studied the Cambridge Mathematical Tripos and received a Bachelor of Arts degree in Mathematics from the University of Cambridge and a PhD in Artificial Intelligence on the topic of 'Semantic trees: New foundations for automatic theorem-proving'  from the University of Edinburgh.
+
+
+== Career and research ==
+Hayes has been an active, prolific, and influential figure in artificial intelligence for over five decades. He has a reputation for being provocative but also quite humorous.One of his earliest publications, with John McCarthy, was the first thorough statement of the basis for the AI field of logical knowledge representation, introducing the notion of situation calculus, representation and reasoning about time, fluents, and the use of logic for representing knowledge in a computer.Hayes next major contribution was the seminal work on the Naive Physics Manifesto, which anticipated the expert systems movement in many ways 
+and called for researchers in AI to actually try to represent knowledge in computers. Although not the first to mention the word "ontology" in computer science (that distinction belongs to John McCarthy), Hayes was one of the first to actually do it, and inspired an entire generation of researchers in knowledge engineering, logical formalisations of commonsense reasoning, and ontology.
+In the middle of the 1990s, while serving as president of the AAAI, Hayes began a series of attacks on critics of AI, mostly phrased in an ironic light, and (together with his colleague Kenneth Ford) invented an award named after Simon Newcomb to be given for the most ridiculous argument "disproving" the possibility of AI. The Newcomb Awards are announced in the AI Magazine published by AAAI.
+At the turn of the century he became active in the Semantic Web community, contributing substantially (perhaps solely) to the revised semantics of RDF known as RDF-Core, one of the three designers (along with Peter Patel-Schneider and Ian Horrocks) of the Web Ontology Language semantics, and most recently contributed to SPARQL.  He is also, along with philosopher Christopher Menzel the primary designer of the ISO Common Logic standard.
+Hayes has served as secretary of AISB, chairman and trustee of IJCAI, associate editor of Artificial Intelligence, a governor of the Cognitive Science Society and president of American Association for Artificial Intelligence. Hayes is a charter Fellow of AAAI and of the Cognitive Science Society
+According to his website, his current research interests include "knowledge representation and automatic reasoning, especially the representation of space and time; the semantic web; ontology design; and the philosophical foundations of AI and computer science".
+
+
+== References ==

@@ -1,0 +1,86 @@
+Darren Alexander Foreman (born 14 May 1982), better known as Beardyman, is a British multivocalist, musician and comedian from London known for his beatboxing skills and use of live looping.
+
+
+== Early life ==
+After studying at Queen Elizabeth's Grammar School for Boys, Barnet, Foreman moved to Brighton in 2001 to study at the University of Sussex. Although he started making noises at the age of three by imitating Michael Winslow from the Police Academy movie series, it was seeing Rahzel perform live that convinced Foreman that beatboxing could sustain a whole show rather than simply provide interludes within the context of a broader presentation. Beardyman's first musical venture was composing a symphony for his school orchestra at the age of ten. At fifteen, an introduction to drum and bass led to his long-standing obsession with music technology. Darren was given the nickname "Beardyman" because a name was quickly needed for a flyer for an early show, and he had a beard at the time.
+He is the brother of comedian and YouTuber Jay Foreman, with whom he sometimes collaborates onstage.
+
+
+== Career ==
+
+
+=== Musical style ===
+In 2006 Beardyman battled to become UK Beatbox Champion and retained his title in 2007 making him the first beatboxer in UK history to win two championships in a row. He was on the 2008 judging panel.Already an accomplished solo beatboxer in the modern tradition, Beardyman was further inspired by MC Xander to use music technology such as the Korg Kaoss Pad 3 to loop and sample his vocals. Through his use of loop pedals and effects tools, he effectively produces whole DJ sets via live production—entire sets where the songs (both covers of well-known hits and his own original material) are constructed, live, from his vocalizations.
+His music frequently contains elements of drum and bass, dubstep, breakbeat, trance, techno and other associated forms of electronic dance music. He also incorporates other forms of music into his live sets, including but not limited to reggae and country music, often purely for the purpose of providing a comedic counterpoint to his beatboxing. Virtually all of his music is created using only his mouth and vocal cords to produce sounds, and incorporating music technology such as vocoders and software synthesis to alter the pitch of his voice, or to add various kinds of audio effects such as delays, reverbs or modulation effects. In various YouTube videos various pieces of electronic equipment can be spotted, notably the Korg Kaossilator Pro, the Kaoss Pad 3 (also known as the KP3), a Korg Wavedrum, a microKORG, a Boss GT-8 and a Boss RC-50.In a departure from his prior live work, Beardyman released his debut album I Done a Album on 21 March 2011.
+
+As of 2012 he has foregone the usage of Kaoss Pads in favour of proprietary software he has been developing, currently known as the Beardytron 5000 MkII. "Over the past 3 years I have worked tirelessly on the system, overseeing its development and testing, improving and configuring it. I had no choice really, as the shows I want to do are simply not possible using any existing off the shelf gear, existing software or even cobbled together patches using freeware. The system is essentially my life's work and will continue to be what I use for all my future endeavours. The Beardytron 5000 mkII is a work in progress and at some point you'll be able to buy some form of looper/production-system based on the innovations developed to make my shows possible."Beardyman further states: "The system is built from the ground up in C++ and Objective-C by Dave Gamble of DMGAudio and employs 15 instances and counting of a partly bespoke version of Sugarbytes' incredible linear-8-way-morph-engine controlled multi-effect 'Turnado'. Guitar rig is also used along with Rob Papen's delay. The system is controlled using two iPads running bespoke programs using a specially developed high definition, self-reconnecting protocol."
+On 29 November 2012 Beardyman posted a live gig performed in October 2012 in Pune, India, which was the first live gig audio revealed online to solely use the Beardytron 5000 MkII. He has stated that the software for the Beardytron 5000 MkII will be available to purchase by the public sometime in 2014.
+On 28 February 2013, Beardyman gave a talk at a TED conference, an 11-minute overview and demonstration of the Beardytron 5000 MkII. Before demonstrating the capabilities of the Beardytron 5000, he provides an example of some of the sounds he is capable of making with only his vocal cords, such as crying babies, vinyl record scratching, buzzing flies, overtone singing, various animals, a didgeridoo and beatboxing. He then explains that despite his ability to create sounds, the human voice is still intrinsically limited by its physical and biological characteristics. He describes his invention as a real-time music production machine. He states: "It enables me to, using nothing but my voice, create music in real time as I hear it in my head, unimpeded by any physical restrictions my body might place on me." The video was uploaded to the TED.com website, the TEDTalks YouTube channel and Beardyman's website on 2 August 2013.
+
+
+=== Collaborators ===
+
+His interest in exploring new musical technology is also evident in the innovative Battlejam club nights he hosts with 2007 DMC champion turntablist JFB. Here the live looping technology is augmented with live sampling of the audience to make the hook of instantly composed tracks and even live video sampling and scratching.
+He has gigged and recorded with MC Klumzy Tung as part of MC/beatbox duo The Gobfathers. Together, they presented Get Lucky TV's 'The Freestyle Show" in 2005, and also appeared as traffic wardens in a hidden camera show for E4.
+In 2008 he collaborated with visual artist mr hopkinson, to produce a video called Monkey Jazz which visually describes the live looping process, which has had over 1 million views on YouTube. Since then they have worked together to produce various multi-camera videos of Beardyman's performances filmed at the Cube Microplex. Beardyman has also appeared on stage for improvised live shows with mr_hopkinson providing visual backdrops from images instantly searched from the internet in response to audience suggestions at Just for Laughs Montreal and Edinburgh Fringe international comedy festivals, sourcing and manipulating images live from the internet in response to audience suggestions.
+Beardyman was commissioned in 2010 to produce a promotional video for Dolby Mobile, a surround sound chip for mobile devices. For this, he wrote and performed the YouTube video DOLBYMAN, exhibiting a multitude of genres to showcase the chip's abilities.
+
+
+=== Viral videos ===
+Beardyman often incorporates humour into his act. He has impersonated Elvis, dressed as a monkey on stage at Bestival, and once posed as an Austrian climate change lecturer, "Professor Bernhard Steinerhoff", before breaking into his set, with over 2 million views on YouTube. He also features in the Funky Sage ring tones in which he plays a floating head who beatboxes and gives good advice. His video "Kitchen Diaries" which features him combining beatboxing with cooking has been viewed more than 5 million times on YouTube. "Kitchen Diaries" also makes an appearance in South Coast, a Brighton-based documentary about hip hop in the UK.
+
+
+=== Vocal abilities ===
+Beardyman is known for his eclectic array of vocal techniques, which include beatboxing, singing, rapping, overtone singing, scat singing, instrument/sound mimicry and voice impressions.
+Since 2020 Darren has voiced Love Monster on the show of the same name on CBeebies.
+
+
+=== Media appearances ===
+During November 2006 he took part in a series of children's choir charity concerts called Young Voices appearing in Manchester, Birmingham, London and Belfast.
+On 10 February 2007 he made an appearance on the second episode of the BBC One show When Will I Be Famous. Despite winning over the studio audience and two of the three judges, he came second in a public vote. On the same day, he was on also on the Channel 4 show Homemade where he was profiled as the weirdest beatboxer around. Beardyman supported Groove Armada on their UK tour in 2007.
+In July 2009, he appeared at the Udderbelly during its residency at South Bank in London. This was for an ensemble comedy show called "Beardyman's Complete and Utter Shambles" featuring JFB, MC Klumzy Tung, Beardyman's comedian brother Jay Foreman, visual artist mr_hopkinson, guitarist 'J'm Black, saxophonist Hellanor and comedian Reggie Watts. The show took the technology based entertainment experiments of Battlejam to a more theatrical comedy club setting. A reduced cast version of the show renamed "Beardyman's Unplanned Explosion" went on to appear at the Udderbelly at the Edinburgh Festival in late August 2009, and again at Bristol Old Vic in October 2009.
+Beardyman appeared in the BBC Comedy Prom 2011 with Tim Minchin.
+Beardyman cites the Lyrebird as a form of inspiration, and hosted a BBC Radio 4 documentary about the bird entitled, "Beardyman and the Mimics".He regularly appears on the BBC Radio 4 Now Show and was a guest panelist on Series 18, Episode 5 of The Infinite Monkey Cage.
+
+
+== Discography ==
+
+
+=== Studio albums ===
+I Done a Album (2011)
+Distractions (2014)
+
+
+=== Live albums ===
+Beardyman presents The Dream Team, Live at Electric Brixton (featuring Dizraeli, Bellatrix, LeeN, Rob Lewis and Emre Ramazanoglu) (2016)
+
+
+=== Extended plays ===
+Oh!/Smell the Vibe (2012)
+Oh!/Smell the Vibe (Remixes) (2012)
+Concentrations (2014)
+
+
+=== Singles ===
+As lead artist"Where Does Your Mind Go?" (2011)
+"Mountain Side" (2015)
+"6AM (Ready to Write)" (2019)  (featuring Joe Rogan) 
+"Shelter me from the rain" (2022)  (featuring MC HyperScott) As featured artist"Eat, Sleep, Rave, Repeat" (2013) (Fatboy Slim and Riva Starr featuring Beardyman)
+"Boom F**king Boom" (2017) (Fatboy Slim featuring Beardyman)
+
+
+== References ==
+
+
+== External links ==
+
+Official website 
+Beardyman at IMDb
+Beardyman on Twitter 
+Beardyman discography at Discogs
+Beardyman on SoundCloud 
+George Bull interviews Beardyman for Heso magazine in March 2008
+Beardyman video interview at Hydro Connect Festival August 2008
+Beardyman interview, June 2008
+Beardyman at TED 
+TED Talk: The polyphonic me (TED2013)

@@ -1,0 +1,42 @@
+Arthur John Robin Gorell Milner  (13 January 1934 – 20 March 2010), known as Robin Milner or A. J. R. G. Milner, was a British computer scientist, and a Turing Award winner.
+
+
+== Life, education and career ==
+Milner was born in Yealmpton, near Plymouth, England into a military family. He gained a King's Scholarship to Eton College in 1947, and was awarded the Tomline Prize (the highest prize in Mathematics at Eton) in 1952. Subsequently, he served in the Royal Engineers, attaining the rank of Second Lieutenant.  He then enrolled at King's College, Cambridge, graduating in 1957. Milner first worked as a schoolteacher then as a programmer at Ferranti, before entering academia at City University, London, then Swansea University, Stanford University, and from 1973 at the University of Edinburgh, where he was a co-founder of the Laboratory for Foundations of Computer Science (LFCS). He returned to Cambridge as the head of the Computer Laboratory in 1995 from which he eventually stepped down, although he was still at the laboratory. From 2009, Milner was a Scottish Informatics & Computer Science Alliance Advanced Research Fellow and held (part-time) the Chair of Computer Science at the University of Edinburgh.
+Milner died of a heart attack on 20 March 2010 in Cambridge. His wife, Lucy, died shortly before he did.
+
+
+== Contributions ==
+Milner is generally regarded as having made three major contributions to computer science. He developed Logic for Computable Functions (LCF), one of the first tools for automated theorem proving. The language he developed for LCF, ML, was the first language with polymorphic type inference and type-safe exception handling. In a very different area, Milner also developed a theoretical framework for analyzing concurrent systems, the calculus of communicating systems (CCS), and its successor, the π-calculus.
+At the time of his death, he was working on bigraphs, a formalism for ubiquitous computing subsuming CCS and the π-calculus. He is also credited for rediscovering the Hindley–Milner type system.
+
+
+== Honors and awards ==
+He was made a Fellow of the Royal Society and a Distinguished Fellow of the British Computer Society in 1988. Milner received the ACM Turing Award in 1991.  In 1994 he was inducted as a Fellow of the ACM.  In 2004, the Royal Society of Edinburgh awarded Milner with a Royal Medal for his "bringing about public benefits on a global scale".  In 2008, he was elected a Foreign Associate of the National Academy of Engineering for "fundamental contributions to computer science, including the development of LCF, ML, CCS, and the π-calculus."[1]
+The Royal Society Milner Award was named after him.
+
+
+== Selected publications ==
+A Calculus of Communicating Systems, Robin Milner. Springer-Verlag (LNCS 92), 1980. ISBN 3-540-10235-3
+Communication and Concurrency, Robin Milner. Prentice Hall International Series in Computer Science, 1989. ISBN 0-13-115007-3
+The Definition of Standard ML, Robin Milner, Mads Tofte, Robert Harper, MIT Press 1990
+Commentary on Standard ML, Robin Milner, Mads Tofte, MIT Press 1991. ISBN 0-262-63137-7
+The Definition of Standard ML (Revised), Robin Milner, Mads Tofte, Robert Harper, David MacQueen, MIT Press 1997. ISBN 0-262-63181-4
+Communicating and Mobile Systems: the π-Calculus, Robin Milner. Cambridge University Press, 1999. ISBN 0-521-65869-1
+The Space and Motion of Communicating Agents, Robin Milner, Cambridge University Press, 2009. ISBN 978-0-521-73833-0See also: Publications by Robin Milner in DBLP
+
+
+== References ==
+
+
+== Further reading ==
+An interview with Robin Milner, January 2010.
+Proof, Language, and Interaction: Essays in Honour of Robin Milner, edited by Gordon Plotkin, Colin Stirling and Mads Tofte. The MIT Press, 2000. ISBN 0-262-16188-5.
+The Royal Society of Edinburgh: Royal Gold Medals for Outstanding Achievement (2004 press release).  http://www.royalsoced.org.uk/rse_press/2004/medals.htm
+A brief biography of and speech by Robin Milner
+A Brief Scientific Biography of Robin Milner (from Proof, Language, and Interaction: Essays in Honour of Robin Milner)
+
+
+== External links ==
+Address in Bologna, a short address by Milner on receiving Laurea Honoris Causa in Computer Science from the University of Bologna, summarising some of his main works, 9 July 1997
+Is informatics a science?, conference at ENS, 10 December 2007

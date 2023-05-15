@@ -1,0 +1,51 @@
+Vincent Connare (born September 26, 1960) is an American type designer and former Microsoft employee.  Among his creations are the fonts Comic Sans and Trebuchet MS, as well as the Man in Business Suit Levitating emoji. Besides text typefaces, he finalized and hinted the font Marlett which has been used for scalable User Interface icons in Microsoft Windows since 1995 and created portions of the font Webdings that was first shipped with Internet Explorer.
+
+
+== Education ==
+Connare studied at Milford High School in Milford, Massachusetts and at the New York Institute of Technology where he received a bachelor's degree in Fine Arts and Photography. He later earned a master's degree in Type Design at the University of Reading.
+
+
+== Career ==
+
+
+=== Microsoft ===
+After graduating from the New York Institute of Technology, Connare began working as a photographer for the Worcester Telegram in Massachusetts and helped establish a Cherokee-language newspaper. While working for Microsoft, Connare contributed to documents on font production as well as the fonts Trebuchet MS, Webdings, and most notably Comic Sans. Connare worked towards his master's degree at the University of Reading in England.
+An icon of a jumping man that Connare created for Webdings was later made an emoji with the identifier U+1F574 🕴 MAN IN BUSINESS SUIT LEVITATING.
+
+
+=== Dalton Maag ===
+While working at Dalton Maag, a typeface design company located in Brixton, London, Connare created the Magpie font and designed the Ministry of Sound logo.
+
+
+== Comic Sans ==
+
+
+=== Creating Comic Sans ===
+When Microsoft launched Windows 1995, it featured a new program, Microsoft Bob, that included a cartoon that would talk with speech bubbles, and text presented in Times New Roman. Connare felt that the cartoons in Microsoft Bob needed a less formal looking font; something more suitable for kids. Inspired by DC and Marvel comic books, Connare created Comic Sans in 1994 by using a mouse and cursor to draw intentionally sloppy letters. Microsoft Bob inevitably faded into obscurity, but Comic Sans secured its legacy after Microsoft included the font in Windows 95.
+
+
+=== Reception ===
+Soon after Connare created Comic Sans, the font was adopted by many notable companies including Apple, BMW, and Burberry. Despite the font's commercial success, it became controversial and has garnered many detractors, particularly in the graphic design industry. The hatred has gotten so intense that there have been several attempts to get the font banned. Connare has not been offended by the negative backlash to his creation; in fact, at the Fourth Annual Boring Conference, Connare said he found the contempt for his work to be "mildly amusing".Comic Sans has been used in multiple applications ranging from newspapers titles and store signs, to the Spanish Copa del Rey trophy and the Pope's photo album at the Vatican. Connare has stated that he is very proud of the font, offering different rationales. Arguing that "Comic Sans does what it was commissioned to do, it is loved by kids, mums, dads and many family members. So it did its job very well. It matched the brief!" He has also referred to it as "the best joke I've ever told."Comic Sans is a particularly popular typeface; in fact, Simon Garfield's book, Just My Type, devotes the first chapter to Comic Sans. The typeface is also listed in the book How to Design a Typeface by the Design Museum in London, which was reviewed in newspapers across London. Comic Sans has also featured on the front page of the Wall Street Journal.
+
+
+== See also ==
+Core fonts for the Web
+
+
+== References ==
+
+
+== External links ==
+
+Influencers & Innovation presented: Huffington Post/Horizon
+Basic hinting philosophies and TrueType instructions:Microsoft Corporatıon
+Character Design Standards:Microsoft Corporation
+Hinting and Production Guidelines: Microsoft Corporation
+Designing and Using Scalable Type for Display as Graphic Elements on Digital Devices. Lecture notes in Computer Science, Springer
+From Typeface to Font File: Microsoft Corporation
+Microsoft Font Delivery Specification
+The Type Designs of William Addison Dwiggins
+Just My Type: A Book About Fonts by Simon Garfield
+Vincent Connare's website
+Vincent Connare's typography page
+Dalton Maag Ltd. London

@@ -1,0 +1,31 @@
+Pasquale "Pat" J. Villani (18 April 1954 – 27 August 2011) was an American computer programmer, author, and advocate of free software, best known for his creation of DOS-C, a DOS emulator written in the C language and subsequently adapted as the kernel of the FreeDOS operating system and a number of other projects including DOSEMU for Linux. He used to sign his edits with siglum "patv".  
+
+
+== FreeDOS involvement ==
+Villani had already been working on a DOS-like operating system for use in embedded systems for some while before the advent of FreeDOS.His efforts started when he developed an MS-DOS 3.1-compatible interface emulator to write device drivers in the C high-level language instead of in assembly language, as was the usual approach at that time. This interface emulator grew into a minimal operating system named XDOS around 1988.He added an IPL to set up a boot environment before loading the actual operating system and developed an MS-DOS-compatible frontend API to applications. In contrast to MS-DOS, which is not designed to be reentrant, the system calls of his operating system were, which is often a requirement for multitasking and real-time applications in embedded systems. This system was named NSS-DOS and also offered commercially.When one potential contractor sought to use the OS in a system equipped with Motorola 680x0 processors instead of Intel x86 processors, for which the system was designed originally and which utilize different instruction sets and memory models, Villani was able to redesign his system to become portable across a range of different compilers and target environments. This move to a completely different target platform, while losing binary compatibility with existing applications, would have required a complete rewrite from scratch had his system not been written in a high-level language such as C, which allowed him to reuse large parts. His new DOS/NT used a microkernel architecture with logical separation of file system, memory and task manager.
+ Villani joined the FreeDOS project in 1994 after reading Jim Hall's announcement of a "PD-DOS" on comp.os.msdos.misc.apps. In response to Hall's announcement, Villani devised a derivative of DOS/NT named DOS-C with a monolithic kernel and an architecture more similar to the non-multitasking MS-DOS, and in 1995 he made it available for dual-use under a GPL open-source license to become the kernel component of the new "Free-DOS" operating system, as "PD-DOS" was called at this time.In 1996, Villani wrote the book FreeDOS Kernel, which describes the design of the DOS-C / FreeDOS kernel and the original FreeDOS COMMAND.COM command line interpreter. The name of the operating system was subsequently officially changed to FreeDOS to reflect the spelling used in the book.Internally, the FreeDOS kernel was still significantly different from MS-DOS, which, while no problem for embedded applications specifically written for FreeDOS, caused various compatibility issues in conjunction with misbehaving DOS applications. Villani and other contributors analyzed and addressed many of these issues over the years for FreeDOS to become much more MS-DOS compatible.
+With some breaks Villani remained active with the FreeDOS project, including preparations for the release of FreeDOS 1.1. Since 2009 he had also held the role of the project coordinator, but he had to step down in April 2011 for health reasons. The FreeDOS 1.1 release, published on 2 January 2012, is dedicated to him.
+
+
+== Biography ==
+Villani was born in Nocera Inferiore near Naples, Italy, grew up in Brooklyn, New York, USA, and moved to Freehold Township, New Jersey in 1990.
+In 1976, he received his BSEE degree from Polytechnic Institute of Brooklyn and in 1981 an MSEE degree in electrical engineering from Polytechnic Institute of New York. In 2008, he also received a master's certificate in Project Management from George Washington University and he was an adjunct professor at Brookdale Community College beginning in 2010.
+He previously worked for Stratus Computers, Inc. on their Continuum fault-tolerant product line and also as a consultant for AT&T Bell Laboratories. At Digital Equipment Corporation / Compaq he worked as a principal software engineer on the OSF/1 / Digital UNIX / Tru64 UNIX operating system beginning in 1995, and since 2006 had been Acting Director of Communications Infrastructure and Software Architect for Vonage.
+He was a member of MARS, ARRL, and IEEE.He was a Christian Catholic.
+
+
+== Bibliography ==
+Villani, Pat (1996). FreeDOS Kernel - An MS-DOS Emulator for Platform Independence & Embedded System Development - Master OS Development. Lawrence, USA: R&D Books. ISBN 978-0-87930-436-2. ISBN 0-87930-436-7.
+Villani, Pat (2001). Programming Win32 Under The API. ISBN 978-1-57820-067-2.
+US patent application number: 12/779,489, publication number: US 2010/0290455 A1, filing date: 2010-05-13, Method and apparatus for communication termination routing, ([1]).
+US patent application number: 12/897,405, publication number: US 2011/0081009 A1, filing date: 2010-10-04, Method and apparatus for providing an identifier for a Caller ID function in a telecommunication system, ([2]).
+
+
+== References ==
+
+
+== External links ==
+Pat Villani's homepage at the Wayback Machine (archived 2012-03-26)
+Original DOS-C GPLed release on SourceForge
+DOS-C page at the Wayback Machine (archived 2012-01-16)
+The FreeDOS project

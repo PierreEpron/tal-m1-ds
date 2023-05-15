@@ -1,0 +1,34 @@
+Robert Ralph Phelps (March 22, 1926 – January 4, 2013) was an American mathematician who was known for his contributions to analysis, particularly to functional analysis and measure theory. He was a professor of mathematics at the University of Washington from 1962 until his death.
+
+
+== Biography ==
+Phelps wrote his dissertation on subreflexive Banach spaces under the supervision of Victor Klee in 1958 at the University of Washington. Phelps was appointed to a position at Washington in 1962.In 2012 he became a fellow of the American Mathematical Society.He was a convinced atheist.
+
+
+== Research ==
+With Errett Bishop, Phelps proved the Bishop–Phelps theorem, one of the most important results in functional analysis, with applications to  operator theory, to harmonic analysis, to Choquet theory, and to variational analysis. In one field of its application, optimization theory, Ivar Ekeland began his survey of variational principles with this tribute: The central result. The grandfather of it all is the celebrated 1961 theorem of Bishop and Phelps ... that the set of continuous linear functionals on a Banach space E which attain their maximum on a prescribed closed convex bounded subset X⊂E is norm-dense in E*. The crux of the proof lies in introducing a certain convex cone in E, associating with it a partial ordering, and applying to the latter a transfinite induction argument (Zorn's lemma).
+Phelps has written several advanced monographs, which have been republished. His 1966 Lectures on Choquet theory was the first book to explain the theory of integral representations. In these "instant classic" lectures, which were translated into Russian and other languages, and in his original research, Phelps helped to lead the development of Choquet theory and its applications, including probability, harmonic analysis, and approximation theory. A revised and expanded version of his Lectures on Choquet theory was republished as Phelps (2002).Phelps has also contributed to nonlinear analysis, in particular writing notes and a monograph on differentiability and Banach-space theory. In its preface, Phelps advised readers of the prerequisite "background in functional analysis": "the main rule is the separation theorem (a.k.a. [also known as] the Hahn–Banach theorem): Like the standard advice given in mountaineering classes (concerning the all-important bowline for tying oneself into the end of the climbing rope), you should be able to employ it using only one hand while standing blindfolded in a cold shower." Phelps has been an avid rock-climber and mountaineer. Following the trailblazing research of Asplund and Rockafellar, Phelps hammered into place the pitons, linked the carabiners, and threaded the top rope by which novices have ascended from the frozen tundras of topological vector spaces to the Shangri-La of Banach space theory. His University College, London (UCL) lectures on the Differentiability of convex functions on Banach spaces (1977–1978) were "widely distributed".  Some of Phelps's results and exposition were developed in two books, Bourgin's Geometric aspects of convex sets with the Radon-Nikodým property (1983) and  Giles's Convex analysis with application in the differentiation of convex functions (1982).  Phelps avoided repeating the results previously reported in Bourgin and Giles when he published his own Convex functions, monotone operators and differentiability (1989), which reported new results and streamlined proofs of earlier results. Now, the study of differentiability is a central concern in nonlinear functional analysis.
+Phelps has published articles under the pseudonym of John Rainwater.
+
+
+== Selected publications ==
+Bishop, Errett; Phelps, R. R. (1961). "A proof that every Banach space is subreflexive". Bulletin of the American Mathematical Society. 67: 97–98. doi:10.1090/s0002-9904-1961-10514-4. MR 0123174.
+Phelps, Robert R. (1993) [1989]. Convex functions, monotone operators and differentiability. Lecture Notes in Mathematics. Vol. 1364 (2nd ed.). Berlin: Springer-Verlag. pp. xii+117. ISBN 3-540-56715-1. MR 1238715.
+Phelps, Robert R. (2001).  Phelps, Robert R (ed.). Lectures on Choquet's theorem. Lecture Notes in Mathematics. Vol. 1757 (Second edition of 1966 ed.). Berlin: Springer-Verlag. pp. viii+124. doi:10.1007/b76887. ISBN 3-540-41834-2. MR 1835574.
+Namioka, I.; Phelps, R. R. (1975). "Banach spaces which are Asplund spaces". Duke Math. J. 42 (4): 735–750. doi:10.1215/s0012-7094-75-04261-1. hdl:10338.dmlcz/127336. ISSN 0012-7094.
+
+
+== Notes ==
+
+
+== References ==
+Ekeland, Ivar (1979). "Nonconvex minimization problems". Bulletin of the American Mathematical Society. New Series. 1 (3): 443–474. doi:10.1090/S0273-0979-1979-14595-6. MR 0526967.
+Nashed, M. Z. (1990). "Review of 1989 first edition of Phelps's Convex functions, monotone operators and differentiability". Mathematical Reviews. Lecture Notes in Mathematics. 1364. doi:10.1007/BFb0089089. ISBN 978-3-540-50735-2. MR 0984602. Review of first edition of Phelps (1993).
+Rao, T. S. S. R. K. (2002).  Phelps, Robert R (ed.). "Review of Phelps (2002)". Mathematical Reviews. Lecture Notes in Mathematics. 1757. doi:10.1007/b76887. ISBN 978-3-540-41834-4. MR 1835574. Review of Phelps (2001).
+
+
+== External resources ==
+Professor Phelp's homepage at the University of Washington
+"Robert Phelps". University of Washington. Archived from the original on March 16, 2012.
+Mathematical Reviews. "Robert R. Phelps". Retrieved 2011-04-02.
+Robert Phelps at the Mathematics Genealogy Project

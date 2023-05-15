@@ -1,0 +1,77 @@
+John Pell (1 March 1611 – 12 December 1685) was an English mathematician and political agent abroad.
+
+
+== Early life ==
+He was born at Southwick in Sussex. His father, also named John Pell, was from Southwick, and his mother was Mary Holland, from Halden in Kent. The second of two sons, Pell's older brother was Thomas Pell. By the time he was six, they were orphans, their father dying in 1616 and their mother the following year. John Pell the elder had a fine library, which proved valuable to the young Pell as he grew up. He was educated at Steyning Grammar School and entered Trinity College, Cambridge, at the age of 13. During his university career he became an accomplished linguist; even before taking a B.A. degree in 1629, he corresponded with Henry Briggs and other mathematicians. He was promoted by seniority to M.A. in 1630 and taught in the short-lived Chichester Academy set up by Samuel Hartlib. On 3 July 1632 he married Ithamaria Reginald (also rendered as Ithamara or Ithumaria, with the surname Reginolles), sister of the writer and polymath Bathsua Makin. They had four sons and four daughters. Ithumaria died in 1661. Some time before 1669 Pell remarried.
+Pell spent much of the 1630s working under Hartlib's influence, on topics in the area of pedagogy, encyclopedism and pansophy, combinatorics, and the legacy of Trithemius. By 1638 he had formulated a proposal for a universal language. In mathematics, he concentrated on expanding the scope of algebra in the theory of equations, and on mathematical tables. As part of a joint lobbying effort with Hartlib to find himself support to continue as a researcher, he had his short Idea of Mathematics printed in October 1638. It brought interested responses from Johann Moriaen and Marin Mersenne.
+
+
+== Academic and diplomat ==
+His reputation and the influence of Sir William Boswell, the English resident, with the States-General procured his election in 1644 to the chair of mathematics in Amsterdam, after an earlier attempt immediately after Martin van den Hove left for Leiden had failed. From 1644 he worked on a polemical work, against Longomontanus. For this he put in a large effort soliciting help and testimonials: from Bonaventura Cavalieri, his patron Sir Charles Cavendish, René Descartes, Thomas Hobbes, Mersenne, Claude Mydorge, and Gilles de Roberval. It finally appeared as Controversy with Longomontanus concerning the Quadrature of the Circle (1647).In 1646, on the invitation of Frederick Henry, Prince of Orange, Pell accepted a professorship at the new Orange College at Breda, where he taught until 1652. He realised that war between the English and the Dutch was imminent and that he would be in an extremely difficult position in Breda, so returned to England before the outbreak of the First Anglo-Dutch War in July 1652. After his return, Oliver Cromwell appointed Pell to a post teaching mathematics in London.
+From 1654 to 1658 Pell acted as Cromwell's political agent in Zurich to the Protestant cantons of Switzerland; he cooperated with Samuel Morland, the English resident at Geneva. Pell was described in Zurich by the English traveller Sir John Reresby in about 1656 as "a strange unknown person, not unsuiting the people he was sent to, nor the master [Cromwell] he came from. They are here so strict in their religion, they suffer not the Venetian ambassador to hear mass in his own house." Cromwell wanted to split the Protestant cantons of Switzerland off to join a Protestant League, with England at its head. However Pell's negotiations were long drawn out and he returned to England to deliver his report only shortly before Cromwell's death. He was unable to report as he waited in vain for an audience with the ailing Cromwell.
+A mathematical pupil and disciple in Switzerland, from 1657, was Johann Heinrich Rahn, known as Rhonius. Rahn is credited with the invention of the division sign (÷) from one of the classic symbols for Obelus; it has also been attributed to Pell, who taught Rahn a three-column spreadsheet-style technique of tabulation of calculations, and acted as editor for Rahn's 1659 book Teutsche Algebra in which it appeared. This book by Rahn also contained what would become known as the "Pell equation". Diophantine equations was a favourite subject with Pell; he lectured on them at Amsterdam. He is now best remembered, if perhaps erroneously, for the indeterminate equation
+
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        1
+        =
+        
+          y
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle ax^{2}+1=y^{2},}
+  which is known as Pell's equation. This problem was in fact proposed by Pierre de Fermat first to Bernard Frénicle de Bessy, and in 1657 to all mathematicians. Pell's connection with the problem is through Rahn. It consisted of publication of the solutions of John Wallis and Lord Brouncker in his edition of Thomas Branker's Translation of Rhonius's Algebra (1668); added to his earlier editorial contributions, whatever they were, to the 1659 algebra book written by Rahn (i.e. Rhonius). This new edition by Pell of what was essentially Rahn's work included a great deal of additional material on number theory, amounting to a reply to the 1657 book Exercitationes mathematicae by Frans van Schooten. It is also notable for its inclusion of a Table of Incomposits, an early large factor table.
+
+
+== After the Restoration ==
+After his return to England Pell took orders and in 1661 became rector of Fobbing in Essex. In 1663 he was given an honorary D. D. (Lambeth degree) and was also elected a Fellow of the Royal Society. At the same time he was presented by Bishop Gilbert Sheldon to the rectory of Laindon, Essex; Sheldon expected him to treat the positions as sinecures. He spent time visiting William Brereton, 3rd Baron Brereton, at Brereton Hall, having taught him mathematics at Breda, and after Brereton died in 1680 John Aubrey reported a very close friendship between the two men.In 1673 Pell met Leibniz in London, and was able to inform him that some of his mathematical work had been anticipated by François Regnaud and Gabriel Mouton. His devotion to mathematics seems to have interfered with his advancement in the Church and with his private life. For a time he was confined as a debtor in the King's Bench Prison. He lived, on the invitation of Dr Daniel Whistler, for a short time in 1682 at the College of Physicians, but died at the house of Mr Cothorne, reader of the church of St Giles-in-the Fields.
+
+
+== Works ==
+Many of Pell's manuscripts fell into the hands of Richard Busby, master of Westminster School, and afterwards came into the possession of the Royal Society; they are still preserved in nearly forty folio volumes in the British Library, which contain, not only Pell's own memoirs, but much of his correspondence with the mathematicians of his time.
+His chief works are:
+
+Astronomical History of Observations of Heavenly Motions and Appearances (1634)
+Ecliptica prognostica (1634)
+An Idea of Mathematicks (1638)
+Controversy with Longomontanus concerning the Quadrature of the Circle (1646?)
+A Table of Ten Thousand Square Numbers (fol.; 1672).The Idea was a short manifesto. It made three suggestions: a mathematical encyclopedia and bibliography; a complete mathematics research library and collection of instruments, with state sponsorship; and a three-volume comprehensive set of mathematical textbooks, able to convey the state of the art to any scholar.
+
+
+== Family ==
+John Pell's brother, Thomas Pell (1612/3–1669) was a physician who emigrated to New England in the 1630s. In 1654, Thomas Pell signed a treaty with Chief Wampage and other Siwanoy Indian tribal members that granted him 50,000 acres (20,000 ha) of tribal land, including all or part of the Bronx and land to the west along Long Island Sound in what is now Westchester County, extending west to the Hutchinson River and north to Mamaroneck. Having no children, he left his estate to his nephew Sir John Pell (1643–1702), one of the mathematician's four sons, who travelled from England to New York and took up residence there as the first Lord of the Manor of Pelham. His descendants have continued to be prominent in American polity, including Ambassador and U.S. Representative Herbert Pell and U.S. Senator Claiborne Pell. Philip Pell II built Pelhamdale at Pelham Manor, New York about 1750, and another descendant, Stephen Hyatt Pell, restored Fort Ticonderoga, New York in 1909 and formally opened it to the public. (William Ferris Pell had bought the Fort and surrounding lands in 1820, and used the property as a summer retreat.)
+Yet another of John Pell's American descendants, Morris Birkbeck Pell, graduated as senior wrangler in mathematics at Cambridge University in 1849 and emigrated to Australia in 1852 to become the first professor of mathematics and natural philosophy at the newly inaugurated University of Sydney.
+
+
+== See also ==
+Obelus – Historical manuscript symbol
+Claiborne Pell – American politician
+
+
+== Notes ==
+
+
+== References ==
+This article incorporates text from a publication now in the public domain: Chisholm, Hugh, ed. (1911). "Pell, John". Encyclopædia Britannica. Vol. 21 (11th ed.). Cambridge University Press.
+Scriba, Christoph J. "Pell, John (1611–1685)". Oxford Dictionary of National Biography (online ed.). Oxford University Press. doi:10.1093/ref:odnb/21802. (Subscription or UK public library membership required.)
+The most recent study of Pell is by Noel Malcolm and Jacqueline Stedall, John Pell (1611–1685) and His Correspondence with Sir Charles Cavendish: The Mental World of an Early Modern Mathematician (Oxford: Oxford University Press, 2005). ISBN 0-19-856484-8
+
+
+== External links ==
+O'Connor, John J.; Robertson, Edmund F., "John Pell (mathematician)", MacTutor History of Mathematics archive, University of St Andrews
+Galileo Project page
+https://web.archive.org/web/20060615060236/http://www.townofpelham.com/townhistorian/index.html

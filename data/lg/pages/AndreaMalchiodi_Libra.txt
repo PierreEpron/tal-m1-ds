@@ -1,0 +1,17 @@
+Andrea Malchiodi (born September 30, 1972) is an Italian mathematician who is active in the fields of partial differential equations and calculus of variations, with several contributions to geometric analysis.
+
+
+== Scientific activity ==
+Malchiodi received his Ph.D. in mathematics from the International School for Advanced Studies in 2000 under the supervision of Antonio Ambrosetti. He is a professor of mathematics at the Scuola Normale Superiore at Pisa. He was previously professor of mathematics at the International School for Advanced Studies and at the University of Warwick. Malchiodi has developed topological and analytical methods allowing to deal with a number of questions in geometric analysis, such as the Yamabe problem, the  scalar curvature problem, problems coming from fourth order conformal geometry and concentration for singular perturbation problems. In particular, he proved some new intricate forms of improved Moser-Trudinger inequalities allowing to prove existence results for singular Liouville equations. Similar types of inequalities allow to prove existence results for Toda systems on surfaces. Malchiodi has been visiting professor in many universities and institutions, amongst which are Stanford University, The Institute for Advanced Study at Princeton, and ETH at Zurich.  He belongs to the editorial board of several mathematical journals and is one of the managing editors of the journal Calculus of Variations & PDE.
+
+
+== Recognition ==
+Malchiodi was awarded the Caccioppoli prize in 2006.  In 2005 he was awarded, jointly with Antonio Ambrosetti, the Ferran Sunyer i Balaguer prize. Malchiodi was included in the list of invited speakers at the 2014 International Congress of Mathematicians in Seoul.
+
+
+== References ==
+
+
+== External links ==
+Malchiodi's site at the Scuola Normale Superiore
+Site of Caccioppoli Prize

@@ -1,0 +1,12 @@
+Ross Neil Williams is an Australian computer scientist and entrepreneur who has made significant contributions to data compression and data deduplication technologies.  He is best known as the inventor of the U.S. Patent 5,990,810 and the founder of Rocksoft Pty Ltd.
+Ross Williams gained his PhD in data compression from the University of Adelaide in 1991 and his thesis was subsequently published as Adaptive Data Compression.  Williams conducted research into Lempel–Ziv lossless compression techniques during which he developed the SAKDC algorithm, the LZRW range of algorithms, and created the newsgroups comp.compression and comp.compression.research.
+In 1996 Williams submitted a patent, U.S. Patent 5,990,810, for a variable-length data partitioning system that has since become the basis for data deduplication technology in the computer data storage industry.
+In 2001, Williams founded the data integrity and data storage company Rocksoft Pty Ltd. With Williams as chairman and chief architect, Rocksoft developed the deduplication technology to a commercial product.  In 2006, Rocksoft was sold to ADIC which was in turn immediately acquired by Quantum Corporation.In 2007, Williams' patent became the subject of legal action between Quantum Corporation and Riverbed Technology.Since exiting Rocksoft, Williams founded, along with associate David Sag, Carbon Planet Pty Ltd, a carbon credits auditing, origination, and retailing company.
+
+
+== References ==
+
+
+== External links ==
+Ross Williams's compression website
+Carbon Planet Website

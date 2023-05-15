@@ -1,0 +1,37 @@
+György Buzsáki (Hungarian pronunciation: [ˈbuʒaːki ˈɟørɟ]; born November 24, 1949, Kaposvár, Hungary) is the Biggs Professor of Neuroscience at New York University School of Medicine.
+
+
+== Education ==
+Buzsáki completed his M.D. in 1974 at the University of Pécs in Hungary, and obtained his PhD in neuroscience under the supervision of Endre Grastyán.
+
+
+== Work ==
+Buzsáki's primary interests is "neural syntax", i.e., how segmentation of neural information is organized by the numerous brain rhythms to support cognitive functions. He identified the cellular-synaptic basis of hippocampal theta, gamma oscillations and sharp waves with associated fast oscillations, their relationship to each other and to behavior and sleep. He was the first to demonstrate the role of GABAergic interneurons in network oscillations. Buzsáki's recognition of the importance hierarchical organization of brain rhythms of different frequencies and their cross-frequency coupling has opened up opportunities for the dissection of cognitive mechanisms in health and disease.
+His most influential work, the two-stage model of memory trace consolidation, demonstrates how the neocortex-mediated information during learning transiently modifies hippocampal networks, followed by reactivation and consolidation of these memory traces during sharp wave-ripple patterns of sleep. Buzsáki's demonstration that in the absence of changing environmental signals, cortical circuits continuously generate self-organized cell assembly sequences is an important link to the neuronal assembly basis of cognitive functions. His experiments demonstrated how skewed distribution of firing rates supports robustness, sensitivity, plasticity and stability in neuronal networks. He has pioneered numerous technical innovations, including large-scale recording methods using silicon chips and the NeuroGrid, an organic, conformable electrode system used in both animal and patients.
+
+
+== Memberships and honors ==
+He is a member of the National Academy of Sciences USA, Fellow of the American Association for the Advancement of Science and the Academiae Europaeae and an external member of the Hungarian Academy of Sciences. Buzsáki received honoris causa from Université Aix-Marseille, France, University of Kaposvár, Hungary and University of Pécs, Hungary.
+He was the winner of the inaugural Brain Prize in 2011  together with Tamás Freund and Péter Somogyi for their work describing organization of neurons in the hippocampus and the cortex. He is the 2020 recipient of the Ralph Gerard Prize, the highest honor from the Society for Neuroscience, USA.
+Also in 2011 he was awarded a Senior Fellowship of the Zukunftskolleg at the University of Konstanz.
+
+
+== Books and scientific papers ==
+He is the author of Rhythms of the Brain (Oxford University Press, 2006), a book detailing the current neuroscientific understanding of brain rhythms, and of more than 300 peer reviewed papers. He is among the top 1% most-cited neuroscientists ("highly cited") by Thomson Reuters.He has released a book titled The Brain from Inside Out in 2019, which proposes a new framework of thinking of the brain as an explorer constantly controlling the body to test hypotheses and not as an information absorbing coding device.
+
+
+== Selected works ==
+Buzsáki, G. (2019). The Brain From Inside Out. New York: Oxford University Press.
+Buzsáki, György; Anastassiou, Costas A.; Koch, Christof (June 2012). "The origin of extracellular fields and currents — EEG, ECoG, LFP and spikes". Nature Reviews Neuroscience. 13 (6): 407–420. doi:10.1038/nrn3241. PMC 4907333. PMID 22595786.
+Buzsaki, G. (2006). Rhythms of the Brain. New York: Oxford University Press.
+Buzsáki, G., & Draguhn, A. (2004). Neuronal oscillations in cortical networks. Science, 304(5679), 1926-1929.
+Buzsáki, György (January 2002). "Theta Oscillations in the Hippocampus". Neuron. 33 (3): 325–340. doi:10.1016/s0896-6273(02)00586-x. PMID 11832222.
+Freund, T. F.; Buzsáki, G. (1996). "Interneurons of the hippocampus". Hippocampus. 6 (4): 347–470. doi:10.1002/(SICI)1098-1063(1996)6:4<347::AID-HIPO1>3.0.CO;2-I. PMID 8915675.
+
+
+== References ==
+
+
+== External links ==
+Buzsaki Lab web page
+Google Scholar citations

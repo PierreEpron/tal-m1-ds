@@ -1,0 +1,32 @@
+Theodor Franz Eduard Kaluza (German: [kaˈluːt͡sa]; 9 November 1885 – 19 January 1954) was a German mathematician and physicist known for the Kaluza–Klein theory, involving field equations in five-dimensional space-time. His idea that fundamental forces can be unified by introducing additional dimensions were reused much later for string theory.
+
+
+== Life ==
+Kaluza was born to a Roman Catholic family from the town of Ratibor (present-day Racibórz in Poland) in the German Empire's Prussian Province of Silesia. Kaluza himself was born in Wilhelmsthal (a village that was incorporated into Oppeln (presently Opole) in 1899). He spent his youth in Königsberg, where his father, Maximilian "Max" Kaluza, was a professor of the English language. He entered the University of Königsberg to study mathematics and gained his doctorate with a thesis on Tschirnhaus transformations. Kaluza was primarily a mathematician but began studying relativity. In April 1919 Kaluza noticed that when he solved Albert Einstein's equations for general relativity using five dimensions, then Maxwellian equations for electromagnetism resulted spontaneously. Kaluza wrote to Einstein who, in turn, encouraged him to publish. Kaluza's theory was published in 1921 in a paper "Zum Unitätsproblem der Physik" with Einstein's support in Sitzungsberichte Preußische Akademie der Wissenschaften 966–972 (1921).Kaluza's insight is remembered as the Kaluza–Klein theory (named also after physicist Oskar Klein). However, the work was neglected for many years, as attention was directed towards quantum mechanics. His idea that fundamental forces can be explained by additional dimensions was not reused until string theory was developed. It is, however, also notable that many of the aspects of this body of work were already published in 1914 by Gunnar Nordström, but his work also went unnoticed and was not recognized when the ideas were reused.
+For the rest of his career Kaluza continued to produce ideas about relativity and about models of the atomic nucleus. Despite Einstein's encouragement, Kaluza remained only a (Privatdozent) at Königsberg until 1929, when he was appointed as professor at the University of Kiel. In 1935, he became a full professor at the University of Göttingen, where he remained until his death in 1954. Perhaps his finest mathematical work is the textbook Höhere Mathematik für die Praktiker, which was written jointly with Georg Joos.
+
+
+== Personal life ==
+Kaluza was extraordinarily versatile. He spoke or wrote 17 languages. He also had an unusually modest personality. He refused the Nazi ideology, and his appointment to the Göttingen professorship was possible only with difficulties and by assistance of his colleague Helmut Hasse. Strange stories were told of his private life, for example, that he taught himself to swim during his thirties of age by reading a book about it and succeeded at his first attempt in the water.
+Kaluza had a son (1910-1994), also named Theodor Kaluza, who was a notable mathematician.
+
+
+== See also ==
+Yang–Mills theory
+Superstring theory
+
+
+== Notes ==
+
+
+== References ==
+Biography of Kaluza from the MacTutor archive
+Theodor Kaluza at the Mathematics Genealogy Project
+Biography of Kaluza (book with 748 pages in German by Daniela Wuensch) from the Termessos publishing house
+Daniela Wünsch, "Der Erfinder der fünften Dimension", Neue Zürcher Zeitung, January 21, 2004 (article in German).
+Articles (some in English) about Kaluza by Daniela Wuensch
+
+
+== External links ==
+
+TED talk - capsule introduction to string theory given by Brian Greene

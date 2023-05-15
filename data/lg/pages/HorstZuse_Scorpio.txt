@@ -1,0 +1,18 @@
+Horst Zuse (born November 17, 1945) is a German computer scientist. 
+
+
+== Life ==
+Horst Zuse was born in 1945 as the son of the computer pioneer Konrad Zuse. He first studied electrical engineering at the Technical University of Berlin and later on completed his PhD on software metrics. Horst Zuse  worked as a Privatdozent at the Technical University of Berlin and was professor at the Hochschule Lausitz (FH), University of Applied Sciences. Besides software engineering, he has concentrated on the history of computer science.
+
+
+== Books ==
+A Framework of Software Measurement (Walter de Gruyter, 1997), ISBN 3-11-015587-7
+Software complexity: Measures and methods (Programming complex systems) (Walter de Gruyter, 1991), ISBN 0-89925-640-6
+
+
+== References ==
+
+
+== External links ==
+Horst Zuse's website
+The Life and Work of Konrad Zuse by Horst Zuse, an extensive and well-written historical account of Horst Zuse's father's pioneering work

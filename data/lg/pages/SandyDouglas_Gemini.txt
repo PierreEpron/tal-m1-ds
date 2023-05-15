@@ -1,0 +1,64 @@
+Alexander Shafto "Sandy" Douglas CBE (21 May 1921 – 29 April 2010) was a British professor of computer science, credited with creating the first graphical computer game, OXO, a version of noughts and crosses, in 1952 on the EDSAC computer at University of Cambridge.
+
+
+== Biography ==
+
+
+=== Early life ===
+Douglas was born on 21 May 1921 in London. At age eight, his family moved to Cromwell Road, near what would become the London Air Terminal.
+
+A 74 bus ride for one old penny took me to Exhibition Road, from which I could go towards South Kensington station to my father's office (which is still there) and workshop (now demolished) down by what became the Lycée Français. Alternatively, I could turn north to the Science Museum – a trip I took often.
+
+In the winter of 1938–39, Douglas and his future wife Andrey Parker made a snowman in the grounds of the Natural History Museum.  Douglas and his wife would go on to have two children and at least two grandsons.
+During the Blitz, in 1940–41, Douglas's Home Guard Unit, 'C' Company of the Chelsea and Kensington Battalion of the KRRC, had its headquarters in the basement of the Royal School of Mines, just the other side of Exhibition Road from the museums.  He appeared to commission into the Corps of Royal Engineers on 7 March 1943 as a second lieutenant, but this was later corrected to show that he actually commissioned into the Royal Corps of Signals.
+
+
+=== Cambridge ===
+Douglas attended the University of Cambridge in 1950. In 1952, while working towards earning his PhD, he wrote a thesis which focused on human-computer interactions and he needed an example to prove his theories. At that time, Cambridge was home to the second stored-program computer, the EDSAC or Electronic Delay Storage Automatic Calculator (the first being Manchester University's "Baby", which ran its first program on 21 June 1948). This gave Douglas the opportunity to prove his findings by programming the code for a simple game where a player can compete against the computer, OXO.
+
+
+=== Jobs ===
+
+
+==== Trinity College ====
+1953–1957
+1953: Elected as a Prize Fellow of Trinity College, Cambridge, Douglas spends a year at the University of Illinois Computation laboratory as assistant Professor.
+1955: Became Junior Bursar of Trinity College. The Junior Bursar is responsible for the administration of the College buildings: allocation of accommodation, building works, security, staff, and general maintenance
+
+
+==== Leeds ====
+1957: The Leeds Pegasus computer was installed in autumn 1957 in the Eldon Chapel on Woodhouse Lane. Douglas set up the Computer Laboratory of the University of Leeds, and it was there that he first became interested in the application of computers to business problems
+
+The Pegasus holds an especial place in my affection, it being the machine I installed as the central University machine in a disused chapel in Leeds in 1957 – it was known as Lucifer, for Leeds University Computing Installation (FERranti). Our au pair girl from Spain made a beautiful little devilish doll which decorated the machine – it has probably disappeared by now.
+
+In June 1960 the Committee of Vice-Chancellors and Principals set up a Working Party to explore the creation of a national system for handling university admissions. Douglas was appointed a member of the Working Party to provide advice on the use of computers in this system. He had previously worked at Leeds with Ronald Kay, who was to become UCCA's general secretary, on "an early and primitive but successful attempt to introduce computer methods into student registration procedures".
+
+
+==== CEIR ====
+1960: Entered the commercial field as Technical Director of the UK subsidiary of C-E-I-R (now Scientific Control Systems).
+
+
+==== Leasco ====
+1968: Left CEIR to initiate the European software interests of Leasco Systems and Research Ltd. as chairman.
+Douglas died in sleep on 29 April 2010 from pneumonia.
+
+
+== Writings ==
+Over 60 papers have been published by Professor Douglas covering topics in Atomic Physics, Crystallography, Solution of Differential Equations, Computer Design, Programming and Operational Research in the Shipbuilding, Oil Chemical Mining, Engineering and Transportation Industries, and in the Printing Industry.
+
+Computers and Society: an Inaugural Lecture [Delivered on 27 April 1972, by Alexander Shafto Douglas; Publisher: London School of Economics and P; Date Published: 1973. ISBN 978-0-85328-019-4 ISBN 0-85328-019-3.
+Science Journal, October 1970 "Computers in the Seventies", Alexander "Sandy" Douglas.
+Computer Networks, Volume 5, 1981, pp. 9–14. "Computers and Communications in the 1980s: Benefits and Problems", Alexander S. Douglas
+Sandy Douglas, "Some Memories of EDSAC I: 1950–1952", IEEE Annals of the History of Computing, vol. 1, no. 2, pp. 98–99, 208, October 1979. doi:10.1109/MAHC.1979.10018
+
+
+== References ==
+
+
+== External links ==
+EWD1285, Edsger Dijkstra
+Letter from Leeds: [1]
+Note for researchers: Do not confuse with another researcher from same time and area: http://pb.rcpsych.org/cgi/reprint/17/4/252.pdf
+Video (Go to 4:40): Video
+Obituary by Frank Land and T. William Olle in Resurrection, the Bulletin of the Computer Conservation Society, issue 51, Summer 2010
+A simulator of EDSAC Computer on the website of University of Warwick, England.

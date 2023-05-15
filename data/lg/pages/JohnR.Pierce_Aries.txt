@@ -1,0 +1,46 @@
+John Robinson Pierce (March 27, 1910 – April 2, 2002), was an American engineer and author. He did extensive work concerning radio communication, microwave technology, computer music, psychoacoustics, and science fiction. Additionally to his professional career he wrote science fiction for many years using the names John Pierce, John R. Pierce, and J. J. Coupling. Born in Des Moines, Iowa, he earned his PhD from Caltech, and died in Sunnyvale, California, from complications of Parkinson's Disease.
+
+
+== At Bell Labs ==
+Pierce wrote about electronics and information theory, and developed jointly the concept of pulse-code modulation (PCM) with his Bell Laboratories colleagues Bernard M. Oliver and Claude Shannon. He supervised the Bell Labs team which built the first transistor, and at the request of one of them, Walter Brattain, invented the term transistor; he recalled:
+
+The way I provided the name, was to think of what the device did. And at that time, it was supposed to be the dual of the vacuum tube. The vacuum tube had transconductance, so the transistor would have 'transresistance.' And the name should fit in with the names of other devices, such as varistor and thermistor. And ... I suggested the name 'transistor.'
+Pierce's early work at Bell Labs concerned vacuum tubes of all sorts. During World War II he discovered the work of Rudolf Kompfner in a British radar laboratory, where Kompfner had invented the traveling-wave tube; Pierce worked out the mathematics for this broadband amplifier device, and wrote a book about it, after hiring Kompfner for Bell Labs.  He later recounted that "Rudy Kompfner invented the traveling-wave tube, but I discovered it."  According to Kompfner's book, the statement "Rudi invented the traveling-wave tube, and John discovered it" was due to Dr. Eugene G. Fubini, quoted in The New Yorker "Profile" on Pierce, September 21, 1963.
+Pierce is widely credited for saying "Nature abhors a vacuum tube", but Pierce attributed that quip to Myron Glass. Others say that quip was "commonly heard at the Bell Laboratories prior to the invention of the transistor".
+Other famous Pierce quips are "Funding artificial intelligence is real stupidity", "I thought of it the first time I saw it", and "After growing wildly for years, the field of computing appears to be reaching its infancy."
+The National Inventors Hall of Fame has honored Bernard M. Oliver 
+and Claude Shannon 
+as the inventors of PCM,
+as described in 'Communication System Employing Pulse Code Modulation,' U.S. Patent 2,801,281 filed in 1946 and 1952, granted in 1956. Another patent by the same title was filed by John Pierce in 1945, and issued in 1948: U.S. Patent 2,437,707. The three of them published "The Philosophy of PCM" in 1948.Pierce did significant research involving satellites, including an important role as executive director of Bell's Research-Communications Principles Division)
+for the development of the first commercial communications satellite, Telstar 1.
+In fact, although Arthur C. Clarke was the first to propose geostationary communications satellites, Pierce seems to have thought of the idea independently and may have been the first to discuss unmanned communications satellites. Clarke himself characterized Pierce as "one of the two fathers of the communications satellite" (along with Harold Rosen). See ECHO – America's First Communications Satellite (reprinted from SMEC Vintage Electrics Volume 2 #1) for some details on his original contributions.
+Pierce directed the Automatic Language Processing Advisory Committee that produced the ALPAC report, which had the effect of curtailing most funding for work on machine translation during the late 1960s and early 1970s.
+
+
+== Life after Bell Labs ==
+After quitting Bell Laboratories, he joined California Institute of Technology as a professor of electrical engineering in 1971. Soon thereafter, he also accepted the position of Chief Engineer at the Jet Propulsion Laboratory.
+In 1980 he retired from Caltech and accepted his final job at Stanford's CCRMA. There he was prominent in the research of computer music, as a Visiting Professor of Music, Emeritus (along with John Chowning and Max Mathews). It was at Stanford that he became an independent co-discoverer of the non-octave musical scale that he later named the Bohlen–Pierce scale.
+Many of Pierce's technical books were intended to introduce a semi-technical audience to modern technical topics. Among them are Electrons, Waves, and Messages; An Introduction to Information Theory: Symbols, Signals, and Noise; Waves and Ear; Man's World of Sound; Quantum Electronics; and Signals: The Science of Telecommunication.Pierce was elected to the United States National Academy of Sciences in 1955. In 1960, Pierce was awarded the Stuart Ballantine Medal. In 1962, Pierce received the Golden Plate Award of the American Academy of Achievement. That same year, he was elected to the American Academy of Arts and Sciences. In 1963, Pierce received the IEEE Edison Medal for "his pioneer work and leadership in satellite communications and for his stimulus and contributions to electron optics, travelling wave tube theory, and the control of noise in electron streams". He was elected to the American Philosophical Society in 1973. In 1975, he received the IEEE Medal of Honor for "his pioneering concrete proposals and the realization of satellite communication experiments, and for contributions in theory and design of traveling wave tubes and in electron beam optics essential to this success." In 1985, he was one of the first two recipients of the Japan Prize "for outstanding achievement in the field of electronics and communications technologies".
+
+
+== Personal life ==
+Besides his technical books, Pierce wrote science fiction using the pseudonym J.J. Coupling, which refers to the total angular momenta of individual particles. John Pierce also had an early interest in gliding and assisted the development of the Long Beach Glider Club in Los Angeles, one of the earliest glider societies in the United States. According to Richard Hamming "you couldn't talk to John Pierce without being stimulated very quickly".Pierce had been a resident of Berkeley Heights, New Jersey, Pasadena, California, and later of Palo Alto, California.During his later years, as a Visiting Professor at Stanford University's Center for Computer Research in Music and Acoustics, he and his wife Brenda were known for having dinner parties in their Palo Alto home, in which they would invite an eclectic variety of guests and have lively discussions concerning topics ranging from space exploration to politics, health care, and 20th-century music. One such dinner party was reported in This Is Your Brain On Music, written by Pierce's former student Daniel Levitin.
+The papers of John R. Pierce are at the Huntington Library in San Marino, California.At his death Pierce was survived by his wife Brenda; a son—science fiction editor John Jeremy Pierce—and a daughter, Elizabeth Anne Pierce.
+
+
+== See also ==
+ALPAC report
+
+
+== References ==
+
+
+== Sources ==
+The National Academies Press
+
+
+== External links ==
+IEEE Global History Network biography
+Creative Thinking by J. R. Pierce, December 1951
+"Machine Hearing and the Legacy of John R. Pierce" – video of a talk at Caltech's EE Centennial celebration
+John R. Pierce at the Internet Speculative Fiction Database

@@ -1,0 +1,17 @@
+Bernard Valentine Vonderschmitt (October 14, 1923 – June 9, 2004) was an electrical engineer, most noted as a co-founder of leading FPGA producer Xilinx.
+
+
+== Biography ==
+He was born on October 14, 1923 in Jasper, Indiana.
+Vonderschmitt graduated with a BSEE from Rose Polytechnic Institute  in 1944.  He also received an MSEE degree from the University of Pennsylvania, an MBA from Rider University, and eventually an honorary doctorate from that same institution.Vonderschmitt began his career with RCA, and worked with them for 34 years, taking a short time during World War II to serve in the US Navy as an electronics officer.  He holds 13 patents that cover color television and solid state electronics.
+After leaving RCA, he worked briefly for Zilog, before co-founding Xilinx together with Ross Freeman in 1984.  With Xilinx, he pioneered the fabless business model which is now used by a large number of semiconductor companies around the world.
+On June 9, 2004 Vonderschmitt died in his hometown of Jasper, Indiana, survived by his wife, Theresa.
+
+
+== References ==
+
+
+== External links ==
+"Xilinx press release; 2002". Archived from the original on 2004-02-03. Retrieved 2006-08-26.
+"Rose-Hulman alumni newsletter; 2004". Archived from the original on 2004-12-21. Retrieved 2006-08-26.
+"Xilinx press release; 2004". Archived from the original on 2005-11-19. Retrieved 2006-08-26.

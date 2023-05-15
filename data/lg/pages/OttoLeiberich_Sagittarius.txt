@@ -1,0 +1,25 @@
+Otto Leiberich (5 December 1927 in Crailsheim - 23 June 2015) was a German cryptologist and mathematician. Leiberich is most notable for establishing the Bundesamt für Sicherheit in der Informationstechnik in 1991.
+
+
+== Life ==
+Leiberich started his career during World War II, conscripted as a soldier and working as a cryptanalyst in Chi IV of the OKW/Chi.After studying mathematics and physics at the University of Cologne, Leiberich earned a Dr. phil. in 1953 at the same university with a topic on algebra; his thesis (German: "Über Systeme von Jardenschen Folgen", On systems of Jarden sequences) was supervised by Guido Hoheisel. Leiberich joined the newly established post war German cipher bureau that from 1956 on was called the Central Cryptography Office (German: Zentralstelle für das Chiffrierwesen (ZfCh)). Dr Erich Hüttenhain was his director, both in OKW/Chi and in the new bureau.
+
+
+== Career ==
+During the Cold War Leiberich and his team worked intensively on the cryptanalysis of double transposition ciphers. One of their results led in 1974 to the discovery of the spying activities of Günter Guillaume who was senior aide to Willy Brandt, the statesman who served as Chancellor of the Federal Republic of Germany (West Germany) from 1969 to 1974.In 1972, Leiberich was the successor to Erich Hüttenhain as the Head of the Central Cryptography Office.In 1999,  Leiberich wrote a report on the history of cryptography in Germany, which appeared in Spektrum der Wissenschaft, the German edition of the Scientific American.
+
+
+== Cipher challenge ==
+In order to encourage research on the double transposition cipher, Leiberich suggested during his retirement in 1999, that a double transposition challenge be published. Leiberich's recommendation for the challenge included:
+
+Both transposition keys should be long enough: 20 to 25 elements.
+The lengths of the ciphertext should not be a multiple of the length of either key.
+A ciphertext of approximately 500 characters, i.e. the product of the lengths of the two keys, should be used.These properties were based on Leiberich's own experience, designed with parameters to ensure its own security In 2007, the challenge was published by Klaus Schmeh, in various media channels inclduding his own books, websites and academic and white papers.In November 2013, George Lasry, Nils Kopal and Arno Wacker solved the double transposition cipher using  a ciphertext only hill climbing attack. They also developed a Dictionary attack that also solved it.
+
+
+== Publications ==
+Leiberich, Otto (1953), Über Systeme von Jardenschen Folgen, Hochschulschrift Köln, Phil. F., Diss. v. 9. Okt. 1953 (in German), Köln
+Leiberich, Otto (June 1999), "Vom diplomatischen Code zur Falltürfunktion – Hundert Jahre Kryptographie in Deutschland", Spektrum der Wissenschaft (6): 26–34
+
+
+== References ==

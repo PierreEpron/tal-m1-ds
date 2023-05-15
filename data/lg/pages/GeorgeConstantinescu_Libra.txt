@@ -1,0 +1,61 @@
+George "Gogu" Constantinescu (Romanian pronunciation: [ˈdʒe̯ordʒe konstantiˈnesku] (listen); last name also Constantinesco; 4 October 1881 – 11 December 1965) was a Romanian scientist, engineer and inventor. During his career, he registered over 130 inventions. He is the creator of the theory of sonics, a new branch of continuum mechanics, in which he described the transmission of mechanical energy through vibrations.
+
+
+== Biography ==
+
+
+=== Early years ===
+Born in Craiova in "the Doctor's House" near  the Mihai Bravu Gardens, he was influenced by his father George, born in 1844 (a professor of  mathematics and engineering science, specialized in  mathematics at the Sorbonne University). Gogu Constantinescu settled in the United Kingdom in 1912. He was an honorary member of the Romanian Academy.
+
+
+=== Family ===
+He married Alexandra (Sandra) Cocorescu in Richmond, London, in December 1914. The couple moved to Wembley and, after their son Ian was born, they moved to Weybridge. The marriage broke down in the 1920s and ended in divorce. He then married Eva Litton and the couple moved to Oxen House, beside Lake Coniston. Eva had two children, Richard and Michael, by a previous marriage.
+
+
+== Inventions and designs ==
+
+
+=== Synchronization gear ===
+His hydraulic machine gun synchronization gear allowed airplane-mounted guns to shoot between the spinning blades of the propeller. The Constantinesco synchronization gear (or "CC" gear) was first used operationally on the D.H.4s of No. 55 squadron R.F.C. from March 1917, during World War I, and rapidly became standard equipment, replacing a variety of mechanical gears. It continued to be used by the Royal Air Force until World War II – the Gloster Gladiator being the last British fighter to be equipped with "CC" gear.
+
+
+=== Sonics ===
+In 1918, he published the book A treatise on transmission of power by vibrations in which he described his theory of sonics.  The theory is applicable to various systems of power transmission but has mostly been applied to hydraulic systems.  Sonics differs from hydrostatics, being based on waves, rather than pressure, in the liquid. Constantinescu argued that, contrary to popular belief, liquids are compressible. Transmission of power by waves in a liquid (e.g. water or oil) required a generator to produce the waves and a motor to use the waves to do work, either by percussion (as in rock drills) or by conversion to rotary motion.
+
+
+=== Internal combustion engines ===
+He had several patents for improvements to carburetors, for example US1206512. He also devised a hydraulic system (patent  GB133719) for operating both the valves and the fuel injectors for diesel engines.
+
+
+=== Torque converter ===
+
+He invented a mechanical torque converter actuated by a pendulum. This was applied to the Constantinesco, a French-manufactured car. It was also tried on rail vehicles. A 250 hp petrol engined locomotive with a Constantinescu torque converter was exhibited at the 1924 Wembley Exhibition. The system was not
+adopted on British railways but it was applied to some railcars on the Romanian State Railways.
+
+
+=== Other ===
+Other inventions included a "railway motor wagon". The latter ran on normal flanged steel wheels but the drive used a road vehicle powertrain with rubber tyres pressed against the rails. This is similar to the system used on many modern road-rail vehicles. He also designed the Grand Mosque of Constanța (a project completed by the architect Victor Ştefănescu, then known as the Carol I Mosque).
+
+
+=== Recent developments ===
+Research on a sonic asynchronous motor for vehicle applications (based on Constantinescu's work) has been done at the Transilvania University of Brașov. The date of the paper is believed to be 5 October 2010.
+
+
+== Death ==
+He died at Oxen House, beside Coniston Water on 11/12 December 1965, and is buried in the churchyard at Lowick, Cumbria.
+
+
+== Recognition ==
+The Dimitrie Leonida Technical Museum in Bucharest has exhibits relating to George Constantinescu.
+
+
+== References ==
+
+
+== External links ==
+
+Biography
+Patents of G. Constantinescu
+George (Gogu) Constantinescu (ro)
+Autoturism Homepage
+YouTube showing operation of Constantinesco-Colley synchronising gear for WW1 aircraft

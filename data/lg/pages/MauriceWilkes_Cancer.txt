@@ -1,0 +1,53 @@
+Sir Maurice Vincent Wilkes  (26 June 1913 – 29 November 2010) was a British computer scientist who designed and helped build the Electronic Delay Storage Automatic Calculator (EDSAC), one of the earliest stored program computers, and who invented microprogramming, a method for using stored-program logic to operate the control unit of a central processing unit's circuits. At the time of his death, Wilkes was an Emeritus Professor at the University of Cambridge.
+
+
+== Early life, education, and military service ==
+Wilkes was born in Dudley, Worcestershire, England the only child of Ellen (Helen), née Malone (1885–1968) and Vincent Joseph Wilkes (1887–1971), an accounts clerk at the estate of the Earl of Dudley. He grew up in Stourbridge, West Midlands, and was educated at King Edward VI College, Stourbridge. During his school years he was introduced to amateur radio by his chemistry teacher.
+
+He studied the Mathematical Tripos at St John's College, Cambridge from 1931 to 1934, and in 1936 completed his PhD in physics on the subject of radio propagation of very long radio waves in the ionosphere. He was appointed to a junior faculty position of the University of Cambridge, through which he was involved in the establishment of a computing laboratory. He was called up for military service during World War II and worked on radar at the Telecommunications Research Establishment (TRE) and in operational research.
+
+
+== Research and career ==
+In 1945, Wilkes was appointed as the second director of the University of Cambridge Mathematical Laboratory (later known as the Computer Laboratory).The Cambridge laboratory initially had many different computing devices, including a differential analyser. One day Leslie Comrie visited Wilkes and lent him a copy of John von Neumann's prepress description of the EDVAC, a successor to the ENIAC under construction by Presper Eckert and John Mauchly at the Moore School of Electrical Engineering. He had to read it overnight because he had to return it and no photocopying facilities existed. He decided immediately that the document described the logical design of future computing machines, and that he wanted to be involved in the design and construction of such machines. In August 1946 Wilkes travelled by ship to the United States to enroll in the Moore School Lectures, of which he was only able to attend the final two weeks because of various travel delays. During the five-day return voyage to England, Wilkes sketched out in some detail the logical structure of the machine which would become EDSAC.
+
+
+=== EDSAC ===
+
+Since his laboratory had its own funding, he was immediately able to start work on a small practical machine, EDSAC (for "Electronic Delay Storage Automatic Calculator"), once back at Cambridge. He decided that his mandate was not to invent a better computer, but simply to make one available to the university. Therefore, his approach was relentlessly practical. He used only proven methods for constructing each part of the computer. The resulting computer was slower and smaller than other planned contemporary computers. However, his laboratory's computer was the second practical stored-program computer to be completed and operated successfully from May 1949, well over a year before the much larger and more complex EDVAC. In 1950, along with David Wheeler, Wilkes used EDSAC to solve a differential equation relating to gene frequencies in a paper by Ronald Fisher. This represents the first use of a computer for a problem in the field of biology.
+
+
+=== Other computing developments ===
+In 1951, he developed the concept of microprogramming from the realisation that the central processing unit of a computer could be controlled by a miniature, highly specialised computer program in high-speed ROM. This concept greatly simplified CPU development. Microprogramming was first described at the University of Manchester Computer Inaugural Conference in 1951, then expanded and published in IEEE Spectrum in 1955. This concept was implemented for the first time in EDSAC 2, which also used multiple identical "bit slices" to simplify design. Interchangeable, replaceable tube assemblies were used for each bit of the processor. The next computer for his laboratory was the Titan, a joint venture with Ferranti Ltd begun in 1963. It eventually supported the UK's first time-sharing system which was inspired by CTSS and provided wider access to computing resources in the university, including time-shared graphics systems for mechanical CAD.A notable design feature of the Titan's operating system was that it provided controlled access based on the identity of the program, as well as or instead of, the identity of the user. It introduced the password encryption system used later by Unix. Its programming system also had an early version control system.Wilkes is also credited with the idea of symbolic labels, macros and subroutine libraries. These are fundamental developments that made programming much easier and paved the way for high-level programming languages. Later, Wilkes worked on an early timesharing system (now termed a multi-user operating system) and distributed computing. Toward the end of the 1960s, Wilkes also became interested in capability-based computing, and the laboratory assembled a unique computer, the Cambridge CAP.In 1974, Wilkes encountered a Swiss data network (at Hasler AG) that used a ring topology to allocate time on the network. The laboratory initially used a prototype to share peripherals. Eventually, commercial partnerships were formed, and similar technology became widely available in the UK.
+
+
+=== Awards, honours and leadership ===
+Wilkes received a number of distinctions: he was a Knight Bachelor, Distinguished Fellow of the British Computer Society, a Fellow of the Royal Academy of Engineering and a Fellow of the Royal Society.
+Wilkes was a founder member of the British Computer Society (BCS) and its first president (1957–1960). He received the Turing Award in 1967, with the following citation: "Professor Wilkes is best known as the builder and designer of the EDSAC, the first computer with an internally stored program. Built in 1949, the EDSAC used a mercury delay-line memory. He is also known as the author, with David Wheeler and Stanley Gill, of a volume on Preparation of Programs for Electronic Digital Computers in 1951, in which program libraries were effectively introduced." In 1968 he received the Harry H. Goode Memorial Award, with the following citation: "For his many original achievements in the computer field, both in engineering and software, and for his contributions to the growth of professional society activities and to international cooperation among computer professionals."In 1972, Wilkes was awarded an honorary Doctor of Science by Newcastle University.In 1980, he retired from his professorships and post as the head of the Computer Laboratory and joined the central engineering staff of Digital Equipment Corporation in Maynard, Massachusetts, USA.Wilkes was awarded the Faraday Medal by the Institution of Electrical Engineers in 1981. The Maurice Wilkes Award, awarded annually for an outstanding contribution to computer architecture made by a young computer scientist or engineer, is named after him.
+In 1986, he returned to England and became a member of Olivetti's Research Strategy Board. In 1987, he was awarded an Honorary Degree (Doctor of Science) by the University of Bath. In 1993 Wilkes was presented, by Cambridge University, with an honorary Doctor of Science degree. In 1994 he was inducted as a Fellow of the Association for Computing Machinery. He was awarded the Mountbatten Medal in 1997 and in 2000 presented the inaugural Pinkerton Lecture. He was knighted in the 2000 New Years Honours List. In 2001, he was inducted as a Fellow of the Computer History Museum "for his contributions to computer technology, including early machine design, microprogramming, and the Cambridge Ring network." In 2002, Wilkes moved back to the Computer Laboratory, University of Cambridge, as an emeritus professor.In his memoirs Wilkes wrote:
+
+I well remember when this realization first came on me with full force. The EDSAC was on the top floor of the building and the tape-punching and editing equipment one floor below. ... It was on one of my journeys between the EDSAC room and the punching equipment that "hesitating at the angles of stairs" the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+
+
+=== Publications ===
+Oscillations of the Earth's Atmosphere (1949), Cambridge University Press
+Preparation of Programs for an Electronic Digital Computer (1951), with D. J. Wheeler and S. Gill, Addison Wesley Press
+Automatic Digital Computers (1956), Methuen Publishing
+A Short Introduction to Numerical Analysis (1966), Cambridge University Press
+Time-sharing Computer Systems (1968),  Macdonald
+The Cambridge CAP Computer and its Operating System (1979), with R. M. Needham, Elsevier
+Memoirs of a Computer Pioneer. MIT Press. 1985. ISBN 978-0-262-23122-0.
+Computing Perspectives. Morgan Kaufmann Publishers. 1995. ISBN 9781558603172.
+
+
+== Personal life ==
+Wilkes married classicist Nina Twyman in 1947. She died in 2008; he in 2010. Wilkes was survived by one son and two daughters.
+
+
+== References ==
+
+
+== External links ==
+
+Oral history interview with David J. Wheeler, Charles Babbage Institute, University of Minnesota. Wheeler was a research student under Wilkes at the University Mathematical Laboratory at Cambridge from 1948–51. Wheeler discusses the EDSAC project, the influence of EDSAC on the ILLIAC, the ORDVAC, and the IBM 701 computers, as well as visits to Cambridge by Douglas Hartree, Nelson Blackman (of ONR), Peter Naur, Aad van Wijngarden, Arthur van der Poel, Friedrich Bauer, and Louis Couffignal.
+Listen to an oral history interview with Maurice Wilkes – recorded in June 2010 for An Oral History of British Science at the British Library
+An after-dinner talk by Maurice Wilkes at King's College, Cambridge, about Alan Turing. Filmed on 1 October 1997 by Ian Pratt (video)

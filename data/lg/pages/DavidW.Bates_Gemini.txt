@@ -1,0 +1,37 @@
+David Bates (born June 5, 1957) is an American-born physician, biomedical informatician, and professor, who is internationally renowned for his work regarding the use of health information technology (HIT) to improve the safety and quality of healthcare, in particular by using clinical decision support.
+Bates has done work in the area of medication safety. He began by describing the epidemiology of harm caused by medications, first in hospitalized patients and then in other settings such as the home and nursing homes. Subsequently, he demonstrated that by implementing computerized physician order entry (CPOE), medication safety could be dramatically improved in hospitals. This work led the Leapfrog Group to call CPOE one of the four changes that would most improve the safety of U.S. healthcare.  It also helped hospitals to justify investing in electronic health records and in particular, CPOE.
+Throughout his career, Bates has published over 600 peer reviewed articles and is the most cited researcher in the fields of both patient safety and biomedical informatics, with an h-index of 115. In a 2013 analysis published by the European Journal of Clinical Investigation, he ranked among the top 400 living biomedical researchers of any type. He is currently editor of the Journal of Patient Safety.Bates serves as the chief of the Division of General Internal Medicine and Primary Care in the Department of Medicine at Brigham and Women's Hospital and the medical director of clinical and quality analysis for information systems at Mass General Brigham. In addition, he is a professor of medicine at Harvard Medical School and a professor of health policy and management at the Harvard T.H. Chan School of Public Health. He served as chief quality officer and senior vice president of Brigham and Women's from 2011 to 2014. He was appointed chief innovation officer in October 2014 to 2016, and he directs the Center for Patient Safety Research and Practice there. In addition, he serves as the director of the Agency for Healthcare Research and Quality funded Health Information Technology Center for Education and Research on Therapeutics (HIT-CERT) and the Patient Centered Learning Lab (PSLL) at the Brigham Center for Patient Safety Research and Practice.
+
+
+== Biography and career ==
+David Westfall Bates was born on June 5, 1957, in Madison, Wisconsin, United States, although he grew up in Tucson, Arizona. In high school, he worked as a computer programmer before attending college at Stanford University, where he earned his B.S. in 1979. He received an M.D. from Johns Hopkins University in 1983, and did his residency from 1983 to 1986 at Oregon Health Sciences University in Portland, Oregon. From 1988 to 1990, Bates did a fellowship in general internal medicine at Brigham and Women's Hospital and Harvard Medical School in Boston, Massachusetts. He received his M.Sc. from the Harvard School of Public Health in 1990.
+
+
+== Awards and honors ==
+Young Investigator of the Year Award, Society for Medical Decision-Making, 1993
+Cheers Award for Outstanding Contribution to Medication Error Prevention, Institute for Safe Medication Practices, 1999
+John M. Eisenberg Award for Patient Safety Research, 2002
+Elected member, Institute of Medicine of the National Academies, 2005
+Board of Directors Honor Award of Excellence in Medication-Use Safety, American Society of Health-System Pharmacists, 2006
+Elected member, Association of American Physicians, 2007
+John M. Eisenberg National Award for Career Achievement in Research, Society of General Internal Medicine, 2008
+Mastership Award, American College of Physicians, 2008
+Don Eugene Detmer Award for Health Policy Contribution in Informatics, American Medical Informatics Association, 2010
+Laufman-Greatbach Award, American Association for the Advancement of Instrumentation, AAMI Foundation, 2012
+Robert J. Glaser Award, Society of General Internal Medicine, 2013
+Honorary Degree, University College London
+Honorary Degree, University of Edinburgh
+Morris F. Collen Award of Excellence, American Medical Informatics Association, 2016 
+John P. Glaser Health Informatics Innovator Award, October 30, 2017
+
+
+== Advisory activities ==
+Bates has served as the chair of the Food and Drug Administration Safety and Innovation Act workgroup and the board chair of the Board of the American Medical Informatics Association. He served as the external program lead for research in the World Health Organization's Alliance for Patient Safety from 2006-2015 and was a member of the U.S.'s HIT Policy Committee through 2016. In addition, Bates was the president of the International Society for Quality in Healthcare.
+
+
+== External links ==
+Partners HealthCare Clinical and Quality Analysis Website
+Patient Safety Research Website
+
+
+== References ==

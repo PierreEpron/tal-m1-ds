@@ -1,0 +1,24 @@
+Algimantas Adolfas Jucys (14 November 1936 – 29 July 1997) was a Lithuanian theoretical physicist  more prominent as a  mathematician, a son of Lithuanian physicist Adolfas Jucys. Since 1967 Algis Jucys was researcher at the Institute of Physics and Mathematics of Lithuanian Academy of Sciences, in 1977-1990 at the Institute of Physics and in 1990-1996 at the Institute of Theoretical Physics and Astronomy, Lithuania.Algimantas (Algis) Adolfas (A.-A.A.) Jucys was member of Lithuanian Physical Society, Lithuanian Mathematical Society, American Mathematical Society. Jucys–Murphy elements in the group algebra 
+  
+    
+      
+        
+          C
+        
+        [
+        
+          S
+          
+            n
+          
+        
+        ]
+      
+    
+    {\displaystyle \mathbb {C} [S_{n}]}
+   of the symmetric group are named after him.
+
+
+== References ==
+
+Jucys, Algimantas Adolfas (1974), "Symmetric polynomials and the center of the symmetric group ring", Rep. Mathematical Phys., 5 (1): 107–112, Bibcode:1974RpMP....5..107J, doi:10.1016/0034-4877(74)90019-6Jucys, Algimantas Adolfas (1966), "On the Young operators of the symmetric group" (PDF), Lietuvos Fizikos Rinkinys, 6: 163–180Jucys, Algimantas Adolfas (1971), "Factorization of Young projection operators for the symmetric group" (PDF), Lietuvos Fizikos Rinkinys, 11: 5–10

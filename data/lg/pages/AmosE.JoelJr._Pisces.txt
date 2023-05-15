@@ -1,0 +1,32 @@
+Amos Edward Joel Jr. (March 12, 1918 – October 25, 2008) was an American electrical engineer, known for several contributions and over seventy patents related to telecommunications switching systems.
+
+
+== Biography ==
+Joel was born in Philadelphia, and spent portions of his youth living in New York City, where he graduated from DeWitt Clinton High School in the Bronx.He earned his B.Sc. (1940) and M.Sc. (1942) in electrical engineering from Massachusetts Institute of Technology, where he worked on the Rockefeller Differential Analyzer (project headed by Vannevar Bush), and a thesis on functional design of relays and switch circuits, advised by Samuel H. Caldwell.
+Joel worked at Bell Labs (1940–83) where he first undertook cryptology studies (collaboration with Claude Shannon), followed by studies on electronic switching system that resulted in the 1ESS switch (1948–60). He then headed the development of advanced telephone services (1961–68), which led to several patents, including one on Traffic Service Position System and a mechanism for handoff in cellular communication (1972). The latter invention made mobile telephony widely available by allowing a multitude of callers to use the limited number of available frequencies simultaneously and by allowing the seamless switching of calls from tower to tower as callers traveled.  After 1983, he worked as a consultant to AT&T, developing mechanisms for optical switching.Joel died in his home in Maplewood, New Jersey, on October 25, 2008, at age 90.
+
+
+== Publications ==
+Electronic Switching: Central Office Systems of the World (IEEE Press, 1976)
+With Robert J. Chapuis (eds.):  100 Years of Telephone Switching (1878–1978: Part 1: Manual and Electromechanical Switching), Elsevier 1982.  Part 2:  Electronics, Computers and Telephone Switching (Elsevier, 1990).
+A History of Engineering and Science in the Bell System: the Early Years, 1875–1925 (Bell Labs, 1985)
+A History of Engineering and Science in the Bell System: Switching Technology, 1925–1975 (Bell Labs)
+Asynchronous Transfer Mode (IEEE Press, 1993)
+
+
+== Awards ==
+New Jersey state's outstanding patent (1972)
+IEEE Alexander Graham Bell Medal (1976)
+Franklin Institute's Stuart Ballantine Medal (1981)
+Columbian Medal (Genoa, 1983)
+National Academy of Engineering (1981).
+ITU Centenary Prize (1983)
+Kyoto Prize (1989)
+New Jersey Inventor of the Year (1989)
+IEEE Medal of Honor (1992)
+National Medal of Technology (1993)
+National Inventors Hall of Fame (2008)
+Marconi Society Lifetime Achievement Award (2009)
+
+
+== References ==

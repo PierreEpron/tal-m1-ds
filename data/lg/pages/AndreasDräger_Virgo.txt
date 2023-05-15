@@ -1,0 +1,37 @@
+Andreas Dräger (German pronunciation: [anˈdʀeːas dʀæɡɚ]; born 20 September 1980) is a German bioinformatician who leads the research group for Computational Systems Biology of Infections and Antimicrobial-Resistant Pathogens at the University of Tübingen.
+
+
+== Education ==
+In high school, Dräger was fascinated by computer science and recent advancements in genetics and biotechnology in the late 1990s. When he learned about a new degree program that allowed combining those technologies, he was immediately inspired. So, Dräger studied bioinformatics at the Martin Luther University of Halle-Wittenberg in Halle (Saale) from 2000 to 2006. He worked as an intern for genome sequencing at the Max Planck Institute for Molecular Genetics, Berlin. He prepared his thesis about heavy-metal-resistant bacteria at the microbiology department of the University of Illinois at Chicago. Dräger earned his doctorate at the Center for Bioinformatics in Tübingen (ZBIT), focusing on the dynamic simulation of metabolic networks in a virtual liver. During this time, he worked as a visiting research student for software engineering at Keio University in Yokohama in 2010. After returning from Japan, the Faculty of Science of the University of Tübingen honored his thesis with the 2011 dissertation award.
+
+
+== Career ==
+In early 2011, Dräger received funding for an independent research project as a postdoctoral junior group leader. In 2013, he undertook another two-year postdoc program as a Marie-Curie research scholar in La Jolla. He worked in the Systems Biology Research Group at the UCSD (the University of California, San Diego). Dräger returned to Tübingen in 2015, where he founded an independent research group at the university. In 2018 he was appointed as junior professor for Computational Systems Biology of Infection and Antimicrobial-Resistant Pathogens within Tübingen's newly established interfaculty Institute for Bioinformatics and Medical Informatics (IBMI). His research group belongs to the German National Center for Infection Research (DZIF) and Tübingen's Cluster of Excellence, "Controlling Microbes to Fight Infections" (CMFI).
+
+
+== Research ==
+Andreas Dräger's research focuses on mathematical models of the metabolic mechanisms behind antibiotic resistance. The central aspect of his research group is the human microbiome living within the airways from the nasal cavities to the lung. Dräger aims to identify new ways to combat life-threatening bacterial
+and viral infections.Hospital-acquired infections of the respiratory tract have the highest priority of the effort because this often involves germs with multi-resistance against antibiotic treatment. Particularly harmful bacteria in this habitat include Pseudomonas aeruginosa and Staphylococcus aureus. Another research area involves risk groups, such as cystic fibrosis patients. Applying metabolic network modeling for this endeavor requires a comprehensive understanding of the underlying processes of mutual interactions between pathogens, commensal bacteria, and their host.This work also requires developing specialized software to create, analyze, and share computer models in systems biology in general. For this reason, the group is also actively involved in several standardization efforts in systems biology that are part of the initiatives by the Computational Modeling in Biology Network of international researchers.
+Dräger sees improved interoperability and reuse of the developed computer models according to the principles of FAIR data (findable, accessible, interoperable, and reusable) as a prerequisite for the reliable implementation of computer simulation in biology. To this end, Dräger and his group develop scientific open-source software, such as JSBML or SBSCL.
+In 2015, the scientific community elected him as an editor for developing the systems biology file format SBML and in 2018 as an editor for the graphical modeling language SBGN.
+In 2016, Dräger was one of the founders of the annual community meeting with a special interest in systems modeling (SysMod) within the International Society of Computational Biology (ISCB), where he served as the de facto chairman from 2018 until he stepped down in 2022.During the COVID-19 pandemic, Dräger's work regarding computational modeling of SARS-CoV-2 within human cells
+raised international interest
+because it predicted potentially exploitable targets for drug development. One of those is the human enzyme guanylate kinase. Dräger’s ongoing work on this topic focuses on pandemic preparedness.
+
+
+== Teaching ==
+Dräger regularly teaches classes on systems biology at the University of Tübingen.
+He is also committed to educating students at the "Otto-Hahn" high school in Nagold.
+
+
+== External links ==
+Andreas Dräger publications indexed by Google Scholar
+Andreas Dräger's research group
+Software for Systems Biology
+Andreas Dräger's YouTube channel
+
+
+== Appearances in news and public media (selection) ==
+
+
+== References ==

@@ -1,0 +1,156 @@
+Morton Maimon Mower (January 31, 1933 – April 25, 2022) was an American cardiologist specializing in electrophysiology and the co-inventor of the automatic implantable cardioverter defibrillator. He served in several professional capacities at Sinai Hospital and Cardiac Pacemakers Inc. In 1996, he became the chairman and chief executive officer of Mower Research Associates. He was inducted into the National Inventors Hall of Fame in 2002 for the development of the automatic implantable cardioverter defibrillator with Michel Mirowski in the 1970s. He continued his research in the biomechanical engineering laboratories at Johns Hopkins University.
+
+
+== Early life ==
+Morton Mower was born in Baltimore and raised in Frederick, Maryland, the son of Pauline Maimon and Robert Mower. His family was Jewish. His father was a shoe repairman and his mother, a homemaker, raised three children. During his summers while in grade school, Mower worked at his Uncle Sam's salt-water bathhouses in Atlantic City. Shortly thereafter, he became a salesman at the same uncle's toy store on the Atlantic City boardwalk.When Mower was 15 years old, Mower's uncle fell ill and a family physician made frequent house calls to treat the uncle. Mower was inspired by the outstanding quality of patient care the family physician provided. As a result, Mower applied to Johns Hopkins University to pursue pre-medical studies.
+
+
+== Education ==
+Mower graduated from the Krieger School of Arts and Sciences at Johns Hopkins University in 1955. He then graduated from the University of Maryland School of Medicine in 1959. From 1963 to 1965, he served as a captain and Chief of Medicine in the Medical Corps of the United States Army in Bremerhaven, Germany. After returning from Germany, he served his residency and a fellowship in cardiology at Sinai Hospital in Baltimore.
+
+
+== Career ==
+During his fellowship at Sinai Hospital in 1966, Mower was named co-investigator of a coronary drug project. Then in 1969, he started work on an implantable heart defibrillator with Michel Mirowski, an Israeli physician.Throughout the 1970s and 1980s, Mower served in several capacities at Sinai Hospital. He was a research associate in the Cardiopulmonary Laboratory, acting administrative director of the Division of Cardiology, acting chief of cardiology, and chief of cardiology. Mower also held the positions of secretary-treasurer, vice-president, and president of the medical staff at Sinai Hospital.
+
+
+=== Medical licenses ===
+Mower was a licensed cardiologist in Maryland, Colorado, and Minnesota. He was Board Certified in internal medicine and cardiovascular diseases.
+
+
+=== Professorships ===
+Mower has served as instructor in medicine, assistant professor, associate professor, and visiting associate professor of medicine at Johns Hopkins University School of Medicine. He has also served as professor of physiology and biophysics at Howard University College of Medicine in Washington, D.C.
+
+
+=== Private sector ===
+In 1989, Mower became vice president of medical science at Cardiac Pacemakers Inc. in St. Paul, Minnesota. While at Cardiac Pacemakers, he designed and executed studies in medical education. From 1995 to 1996, he was a senior consultant for Guidant Corporation, a branch of Boston Scientific that manufactures cardiovascular medical products. In 1996, he became chairman and chief executive officer of Mower Research Associates in Baltimore, Maryland.
+
+
+== Inventions ==
+Mower's most notable invention is the automatic implantable cardioverter defibrillator (AICD). Mower held 26 patents, which includes one for a special ski boot that helps skiers make sharp turns.
+
+
+=== Automatic implantable cardioverter defibrillator (AICD) ===
+The AICD was an implantable defibrillator that served as a substitute to portable defibrillators for patients with chronic cardiac problems. The AICD performs the same function as the portable defibrillator developed by Prof. Frank Pantridge in Belfast in the 1960s.
+
+
+=== Skepticism ===
+Several cardiology experts doubted the AICD's potential for clinical success. In 1972 Bernard Lown, the inventor of the external defibrillator, wrote in the journal Circulation, "The very rare patient who has frequent bouts of ventricular fibrillation is best treated in a coronary care unit and is better served by an effective antiarrhythmic program or surgical correction of inadequate coronary blood flow or ventricular malfunction. In fact, the implanted defibrillator system represents an imperfect solution in search of a plausible and practical application."
+
+
+=== Inventors ===
+Marlin Stephen Heilman, Alois A. Langer, Morton Mower, and Michel Mirowski were the first physicians to jointly develop the automatic implantable cardioverter defibrillator.
+Dr. Michel Mirowski was inspired to develop the device after the death of his mentor, Dr. Harry Heller. Heller was the director of medicine at the Israeli hospital at which Mirowski had completed his residency. While serving his fellowship at Johns Hopkins University, Mirowski discovered that Heller had suffered an attack of ventricular fibrillation. Heller died several weeks after his first attack because he refused to remain under observation in a hospital.
+Heller's death prompted Mirowski to begin work on an implantable defibrillator for patients in need of continuous heart monitoring. In 1968, Mirowski, then the director of the Coronary Care Unit at Sinai Hospital, met Mower, the chief of medicine in the Coronary Care Unit. In 1973, Mirowski and Mower partnered with Heilman, the founder of Medrad, a medical device company, to develop a working prototype of the implantable defibrillator. Alois Langer was also involved in the development of the AICD because he held extensive knowledge in the field of electrocardiograph signal analysis.
+
+
+=== Concept ===
+
+Normally, the heart's pacemaker regulates the contraction of the heart's ventricles. Ventricular fibrillation and ventricular tachycardia occur when there are irregularities in the electrical signals from the pacemaker, causing the heart's ventricles to contract abnormally and preventing blood from circulating throughout the body. Ventricular fibrillation and tachycardia can lead to sudden cardiac death if not treated immediately.
+An implantable defibrillator is a device implanted under the skin through an incision in the shoulder. Leads from the implanted defibrillator pass through a vein into the heart. The leads are attached to electrodes that monitor the electrical activity in the heart. When irregular electrical activity is detected in the heart, the defibrillator delivers a shock to restore normal electrical activity.
+The automatic implantable cardioverter defibrillator is the size of a deck of cards and weighs nine ounces. Although these devices have become smaller since they were first patented, the technology from the original patent has not been replaced by new technology. The AICD patent (U.S. Patent 4,202,340), issued on May 13, 1980, is entitled “Method and Apparatus for Monitoring Heart Activity, Detecting Abnormalities, and Cardioverting a Malfunctiong Heart.”
+
+
+=== First human implantation ===
+Despite the lack of financial backing and grants, Mower and his team of physicians developed a working AICD by 1980. Dr. Levi Watkins, Jr. implanted the first AICD in a human patient in February 1980. At the time of the implantation, Mirowski and Mower had demonstrated that the device was effective in canines. The operating room at Johns Hopkins Hospital in which the first operation took place was crowded with onlookers. Mower recalled, “It was the talk of the whole hospital that these crazy guys are going to put in an automatic defibrillator. If something had gone awry, we would have never lived it down.”
+
+After the device was implanted, physicians induced a cardiac arrhythmia in the patient and the AICD was successful in restoring normal electrical activity to the heart. The patient, a resident of California, died from unrelated causes 10 years after the surgery was completed.
+
+
+=== Commercial success ===
+The AICD received approval from the Food and Drug Administration in 1985. Eli Lilly and Co. commercialized the device and began marketing it in the late 1980s.
+From 1980 to 1985, over 800 patients were treated with automatic implantable cardioverter defibrillators. By 1988, nearly 5,000 people had benefited from the device. The U.S. Food and Drug Administration has estimated that 416,000 AICDs were implanted between 1990 and 2002 in the United States. The device is now implanted in over 300,000 people worldwide and is 99% effective in correcting heart rhythm abnormalities and cardiac arrest. United States Vice President Dick Cheney received an implantable defibrillator in 2002.
+
+
+=== Improvements to the original design ===
+Cardiac Pacemakers, Inc. (CPI), which has since become Guidant, acquired the rights to the AICD in May 1985. The first AICD was five times larger and three times heavier than Guidant's latest implantable defibrillators. In the 1980s, Mower and Mirowski improved his original defibrillator by redesigning the AICD to administer resynchronization therapy.
+
+
+== Professional organizations ==
+Mower was a member of a multitude of professional organizations.
+
+Association for the Advancement of Medical Instrumentation
+American Federation for Clinical Research
+American Society for Artificial Internal Organs
+Maryland Society of Cardiology
+American Society for Internal Medicine
+North American Society for Pacing and Electrophysiology
+Society for Clinical Trials
+Fellow of the American Heart Association Council on Clinical Cardiology
+American College of Physicians
+American College of Chest Physicians
+American College of Cardiology
+Editorial Board of The Journal of Electrophysiology
+Editorial Consultant to Circulation, American Heart Journal, and PACE
+
+
+== Awards ==
+In 2002, Mower was inducted into the National Inventors Hall of Fame in Akron, Ohio, for his involvement in the invention of the AICD.In 1991, he received the Space Technology Hall of Fame Recognition Award and the Michel Mirowski Award of Excellence in the Field of Clinical Cardiology and Electrophysiology. In 2004 he received the first Career Achievement Award from Chiang Mai University in Thailand.
+In 2001, he was the recipient of the University of Maryland Medical Alumni Association's Honor Award & Gold Key.
+Mower was a member of the Mirowski Committee that selects the recipient of the annual Mirowski Award for Excellence in Clinical Cardiology and Electrophysiology.
+
+
+== Personal life ==
+
+
+=== Family ===
+Mower married Tobia Kurland on September 23, 1965, and they have two children, Mark Mower and Robin Sara Mower.He died from cancer on April 25, 2022.
+
+
+=== Social involvement ===
+Mower has served on the Board of Jewish Recovery Houses, an organization that helps Jewish men and women in the early stages of recovery from alcohol and drug addiction. He served on the board of directors of House of Hope, a faith based recovery house for Jewish men, founded in 1994 by Baltimore community activists Jon and Ina Singer. Mower and his wife have also been very involved with  Tova House, a recovery house for Jewish women,  founded several years later by the Associated Jewish Charities of Baltimore and subsequently purchased from the Associated by House of Hope. The recovery houses use a twelve-step program to rehabilitate drug and alcohol addicts. All residents are required to attend Friday Shabbat dinners. Mower explained, "The addicts felt put off that they had to go to churches for their AA meetings. It's a very self-destructive feeling. You're all alone.” 
+Mower was also a member of the Jewish National Fund, Hadassah, and Ben Gurion University.
+
+
+=== Art collection ===
+Mower and his wife often put their extensive collection of art on exhibit at the Mattin Center at Johns Hopkins University.
+Pieces in their collection include:
+
+60 Rembrandt prints
+Lithograph by Roy Lichtenstein entitled Hunter and Dog (1951)
+Andy Warhol’s Hamburger prints (1986)
+Icon, a silkscreen print of a barking dog by Keith Haring (1990)The Mowers endowed the Mattin Center’s drawing studio, which opened in 2001. Their home collection includes works by Degas, Pissarro, Sisley, Bonnard, Renoir, Picasso, Léger, and Warhol.About his interest in art, Mower said, “For me collecting these etchings has been a unique opportunity to demystify some of the techniques of art and gain insight into those times. I’ve long been fascinated with modes of multiple reproductions—silkscreen, lithography, engraving. Etching was the photography of Rembrandt’s day. And he gives us a window into both the everyday life and cosmopolitan themes that captured his imagination.”
+
+
+=== Political contributions ===
+In 2008, Mower contributed $2,000 to the political action committee of Republican Andy Harris (U.S. Congress). In 2007, Mower contributed $2,600 to the political action committee of Republican Michael Steele (U.S. Congress). In 2000, Mower contributed $1,000 to the political action committee of Republican Paul Rappaport (U.S. Senate).
+
+
+=== Hobbies ===
+Mower was an avid skier and offered informal ski lessons.
+
+
+== Work before death ==
+Mower continued his research in the biomechanical engineering laboratories at Johns Hopkins University. His last work focused on the correction of auricular fibrillation.
+
+
+== Legacy ==
+In celebration of the twenty-fifth anniversary of the first successful implantation of the automatic implantable cardioverter defibrillator, Sinai Hospital renamed the Sinai Medical Office Building on Belvedere Avenue in Baltimore the Morton Mower, M.D. Medical Office Building. Neil M. Meltzer, president and chief operating officer of Sinai Hospital, said, “It is an honor, on behalf of the institution where their journey began, to salute the enduring legacy of Michel Mirowski, M.D., and Morton Mower, M.D. The research done here, at Sinai Hospital, by Mirowski and Mower has helped improve the quality of life for thousands of patients. The hospital continues to follow in their footsteps, providing the highest level of commitment to cardiology and medicine to its patients.”
+
+
+== Key patents ==
+Method and apparatus for treating hemodynamic dysfunction
+Method and Apparatus to Allow Cyclic Pacing at an Average Rate Just Above the Intrinsic Heart Rate so as to Maximize Inotropic Pacing Effects at Minimal Heart Rates
+Cardioverting Device Having Single Intravascular Catheter Electrode System and Method for its Use
+Cardiac Electrode with Attachment Fin
+Atrial Sensing and Multiple Site Stimulation as Intervention Means for Atrial Fibrillation
+Method and apparatus for correcting abnormal cardiac activity by low energy shocks
+Low Energy Defibrillation Electrode
+Antitachycardial Pacing
+System and method for multiple site biphasic stimulation to revert ventricular arrhythmias
+
+
+== References ==
+
+Wickelgren, Ingrid. "New Devices are Helping Transform Coronary Care." Science 272 (1996): 668-70.
+Wilson, Leslie, and Patricia G. Miller. "A Lifesaving Device." The American Journal of Nursing 86 (1986): 1004-007
+
+
+== External links ==
+[1] National Inventors Hall of Fame Profile
+[2] An Inquiring Mind for the Beating Heart - University of Maryland Medical Alumni Association
+[3] Pop Art Prints to Be Displayed at Johns Hopkins April 12-30 – Headlines@Hopkins
+[4] Remastered – Baltimore Citypaper
+[5] 8th International Dead Sea Syposium[7] Lifebridge Health: Sinai Hospital Celebrates 25th Anniversary
+[8] National Inventors Hall of Fame 2002 Induction Ceremony Video
+[9] American Jewish Life Magazine: Six Who Matter
+[10] Morton Mower Political Campaign Contributions

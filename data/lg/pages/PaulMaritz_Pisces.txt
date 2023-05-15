@@ -1,0 +1,52 @@
+Paul Alistair Maritz (born March 16, 1955) is a computer scientist and software executive. He held positions at large companies including Microsoft and EMC Corporation. In October 2021, Maritz was named as the chairman of the board of directors for Acronis. He also serves as chairman of Pivotal Software.
+
+
+== Early life ==
+Paul Maritz was born and raised in Rhodesia (now Zimbabwe). His family later moved to South Africa where he was schooled at Highbury Preparatory School and Hilton College. He received a B.Sc. in Computer Science from the University of Natal, and a B.Sc. (Hons) degree, also in Computer Science, from the University of Cape Town in 1977.
+
+
+== Career ==
+After finishing his graduate studies, Maritz had a programming job with Burroughs Corporation and later became a researcher at the University of St. Andrews in Scotland, before moving to Silicon Valley in 1981 to join Intel. He worked for Intel for five years, including developing early tools to help developers write software for the then-new x86 platform, before joining Microsoft in 1986.
+
+
+=== Microsoft ===
+From 1986 to 2000, he worked at Microsoft and served on its executive committee. He became executive vice president of the Platforms Strategy and Developer Group and part of the 5-person executive management team. He was often said to be the third-ranking executive, behind Bill Gates and Steve Ballmer. He was responsible for essentially all of Microsoft's desktop and server software, including such major initiatives as the development of Windows 95, Windows NT, and Internet Explorer.He was the highest-ranking executive to testify at the antitrust trial of Microsoft in 1999.
+While at Microsoft, Maritz was credited with originating the term "eating your own dogfood" also known as dogfooding.In July 1999, he announced he would have a reduced role at Microsoft, and resigned in September 2000 around the announcement of Windows ME.According to Steve Ballmer Maritz was "truly a leader among leaders". Bill Gates stated that "Paul's vision and technological insight has had a major impact not only on Microsoft but on the entire computer industry."In October 2013, he was reported to again be under consideration to become chief executive of Microsoft, succeeding Ballmer.
+
+
+=== Pi Corporation ===
+He then co-founded, and was CEO of Pi Corporation, a company backed by Warburg Pincus, which developed software for Linux with development in Bangalore, India.
+When Pi was acquired by EMC in February 2008, Maritz briefly became president and general manager of EMC Corporation's cloud computing division.
+
+
+=== VMware ===
+On July 8, 2008, he was appointed CEO of VMware (a public company majority-owned by EMC), replacing co-founder and CEO Diane Greene. While serving as CEO, company sales and profits tripled by mid-2012. He was succeeded as CEO by Pat Gelsinger on September 1, 2012.
+
+
+=== GoPivotal ===
+In April 2013, he was announced as the CEO of GoPivotal, Inc. (Pivotal), a venture funded by General Electric (GE), EMC and VMware which he led until August 2015.After his resignation he announced that he would stay the CEO of Pivotal and mentor other companies in which he has invested. He also wants to work for Mifos, a financial services startup, that targets developing countries.
+
+
+=== Mifos ===
+Maritz serves as chairman of the Board of Mifos, an open source financial software platform. For some time he was the only source of financial support for the initiative.
+
+
+=== Acronis ===
+In October 2021, Maritz was named as the chairman of the board of directors for Acronis. Maritz is in charge of Acronis’ governance and leadership as the company enhances its position in the service provider industry and prepares for further expansion.
+
+
+== Philanthropy ==
+Maritz was an angel investor in Apture.He is the chairman of the board of the Grameen Foundation, which provides microfinance support and sponsors third-world development projects.Maritz is interested in wildlife issues and helps developing countries to use technology to improve life.
+
+
+== Recognition ==
+In 2010, Paul Maritz was named by CRN the number one Most Influential Executive of 2010.In 2011,  Maritz won the Morgan Stanley Leadership Award for Global Commerce. As well in 2011, the Silicon Valley Business Journal announced Paul Maritz as the Executive of the Year.
+
+
+== References ==
+
+
+== External links ==
+"Grameen Foundation USA Advisory Councils". Archived from the original on 3 May 2007. Retrieved 19 May 2007.
+Bryant, Adam (2 October 2010). "Corner Office NYTimes Interview". The New York Times. Retrieved 12 December 2010.
+"Number One Most Influential Executive Of 2010". Retrieved 23 December 2010.

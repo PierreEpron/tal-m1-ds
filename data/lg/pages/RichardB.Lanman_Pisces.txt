@@ -1,0 +1,63 @@
+Richard Burnham Lanman is an American biotechnology entrepreneur, physician scientist, and naturalist. His contributions relate to improving diagnosis and utilization of less invasive medical procedures, most recently as Global Chief Medical Officer at Guardant Health, Inc., a precision oncology company that developed a blood test replacing invasive tissue biopsies to sequence tumor DNA and improve cancer treatment selection. Lanman has worked in five different medical specialties, oncology, cardiology, endocrinology, pulmonology, and psychiatry, as well as historical ecology, and has authored or co-authored over 125 peer-reviewed scientific publications.
+
+
+== Early life and education ==
+Lanman was born at an U.S. Army Hospital in Frankfurt am Main, Hesse, Germany, in 1955. He is the son of American Indian art dealer and author Martha Lee Hopkins Lanman Struever and Lieutenant Richard Burnham Lanman Sr. Lanman grew up in Munster, Indiana where his parents had a hardware store. At age 11, his father died from leukemia. Lanman graduated Phi Beta Kappa at Stanford University, with a B.S. in Chemistry in 1977.
+After obtaining his M.D. from the Northwestern University School of Medicine in 1980, Lanman began his medical internship at Northwestern Memorial Hospital, then in July 1981 began another medical internship at the University of California San Francisco Moffit Hospital. From 1982 to 1985 he completed his residency in psychiatry at Langley Porter Psychiatric Institute, also at UCSF. He became a diplomate of the American Board of Psychiatry and Neurology in 1990. During medical school and residency, Lanman authored journal articles in cardiology and psychiatry, including a book chapter.
+
+
+== Career ==
+Lanman began his medical career as an attending psychiatrist at Kaiser Permanente in Santa Clara County, California in 1985, where he served as Chief of Psychiatry and Chemical Dependency, then, as Chief of Quality. At Kaiser Lanman encouraged adoption of less invasive procedures and improvements in diagnosis in other specialties, culminating in a book chapter he authored on variation in physician practice patterns and hospitalization rates for children with asthma across Kaiser's 14 hospitals in Northern California.
+
+
+=== Physician practice management ===
+Lanman left Kaiser Permanente to serve as Chief Medical Officer and Sr. Vice President at San Jose Medical Group (SJMG), in San Jose, California from 1993 to 1995, a large multispecialty physician group practice. San Jose Medical Group was named the "most effective managed care medical group in the country" in 1996 by The Advisory Board Company.In 1995, Lanman founded Adesso Healthcare Technology Services as Founder and Chief Executive Officer. Adesso offered an alternative to a cost-cutting approach by health maintenance organizations (HMOs) that had been using primary care physicians as gatekeepers, limiting access to specialty physician care. Under Adesso, patients could be referred to specialist physician networks, such as cardiologists or ophthalmologists, without preauthorization. In return the specialist networks contracted directly with health insurers, and instead of fee-for-service, the specialists were reimbursed utilizing severity-adjusted case rates for each episode of care.  Adesso filed for an IPO in early 2000, however, the public offering succumbed to the stock market crash that year.
+
+
+=== Biotechnology ===
+Lanman transitioned to the biotechnology sector from physician practice management, first joining Atherotech, Inc. as Chief Medical Officer in 2000. Atherotech offered a cardiovascular biomarker diagnostic known as the Vertical Auto Profile- or VAP-expanded cholesterol and lipoprotein test, to improve prediction of risk of heart attack and stroke. There he published validation studies on the VAP test's unique lipoprotein (a) (Lp(a)) cholesterol measurement and other lipoprotein biomarkers. Atherotech was privately acquired by Behrman Capital.In 2005, Lanman joined a second preventive cardiology biomarker company, diaDexus, Inc., as Executive Vice President and Chief Medical Officer. DiaDexus developed a test for lipoprotein-associated phospholipase A2 (Lp-PLA2), the first FDA-cleared biomarker test to predict risk of stroke. DiaDexus completed a reverse IPO via merger with VaxGen in 2010.After working in two companies to improve prediction of risk for cardiovascular events, Lanman joined Veracyte, Inc. in 2008 as Chief Medical Officer. Veracyte develops minimally invasive diagnostic tests utilizing genomics. Veracyte's initial genomics tests improved the diagnosis of thyroid nodules and lung nodules without resorting to surgery. Lanman was also principal investigator in a study validating Veracyte's third genomics test to improve diagnosis of idiopathic pulmonary fibrosis versus other idiopathic interstitial pneumonias. Veracyte, Inc. went public in October, 2013.In September 2014, Lanman joined Guardant Health, Inc. where he served as Global Chief Medical Officer. Guardant's first diagnostic test, Guardant360® enabled sequencing of the DNA in patients' advanced cancers with a simple blood test, as an aid in treatment selection for targeted therapy or immunotherapy without requiring invasive tissue biopsies. This non-invasive test was approved by Medicare to help identify targetable mutations in most solid tumor cancers in 2019. Guardant Health went public in October, 2018.
+
+
+=== Historical ecology ===
+Lanman has also published on historical ecology, establishing novel physical  evidence that the North American beaver (Castor canadensis) was native to most of California. In early 2020, Lanman presented a scientific study based on ancient DNA sequencing of salmonid remains from archaeological excavations at Mission Santa Clara which extended the southern limit of the historic spawning range of Chinook salmon, 120 kilometres (75 mi) further south to San Jose, California. His most recent ecology paper proposes reintroduction of elk (Cervus canadensis) to the San Francisco Peninsula Counties.Lanman retired from Guardant Health on December 31, 2019, but continued as an Advisor through early 2021. He continues to research and publish in medicine and historical ecology, while also serving on the Boards of TwiXimo, Inc., Circulogene, Inc., WeTree, Inc., and as an Advisor to Forward Health, Inc., Glympse Bio, Inc., and Teiko Bio, Inc. He was a past Board member of Biolase, Inc. from 2017–2022 and the American Psychiatric Association from 1983–1985.
+
+
+== Representative publications ==
+
+
+=== Journal articles ===
+Lanman RB et al. (2006) Lipoprotein-associated phospholipase A2: review and recommendation of a clinical cut point for adults. Preventive Cardiology 9(3), 138-143 PMID 16849876
+Muhlestein JB et al. (2006) The reduction of inflammatory biomarkers by statin, fibrate, and combination therapy among diabetic patients with mixed dyslipidemia: the DIACOR (Diabetes and Combined Lipid Therapy Regimen) study. Journal of the American College of Cardiology 48(20, 396-401 PMID 22731672
+Alexander EK et al. (2012) Preoperative diagnosis of benign thyroid nodules with indeterminate cytology. The New England Journal of Medicine 367(8), 705-715 PMID 22731672
+Lanman RB et al. (2012) The historical range of beaver in the Sierra Nevada: a review of the evidence. California Fish and Wildlife Journal 98(2), 65-80.
+Lanman RB et al. (2015) Analytical and Clinical Validation of a Digital Sequencing Panel for Quantitative, Highly Accurate Evaluation of Cell-Free Circulating Tumor DNA. PLOS One PMID 26474073
+Blakely CM et al. (2017) Evolution and clinical impact of co-occurring genetic alterations in advanced-stage EGFR-mutant lung cancers. Nature Genetics 49(12), 1693-1704 PMID 29776953
+Slavin TP et al. (2018) Identification of Incidental Germline Mutations in Patients With Advanced Solid Tumors Who Underwent Cell-Free Circulating Tumor DNA Sequencing. Journal of Clinical Oncology 36(35), 3459-3465 PMID 30339520
+Lanman RB "et al." (2021) Ancient DNA analysis of archaeological specimens extends Chinook salmon's known historic range to San Francisco Bay's tributaries and southernmost watershed. California Fish and Wildlife Journal 16, e0244470 PMID 33857143
+
+
+=== Book chapters ===
+Lanman RB et al. (1989) Reorganizing for the Future in Talbot JA (ed.) Future Directions for Psychiatry 172-180 ISBN 9780890422151
+Lanman R (1994) Improving Pediatric Asthma Care in a Health Maintenance Organization, in Horn SD and Hopkins DSP (ed.) Clinical Practice Improvement: A New Technology for Developing Cost-Effective Quality Health Care 169-174 ISBN 9781881393252.
+
+
+== Personal life ==
+Lanman married Alanna Purcell in 1978 and they raised five sons in Los Altos, California.
+
+
+== See also ==
+Liquid biopsy
+Historical ecology
+
+
+== References ==
+
+
+== External links ==
+Guardant Health, Inc.
+Board of Directors, Circulogene, Inc.
+Advisors, Forward Medical, Inc.
+Advisors, Glympse Bio, Inc.
+Board of Directors, Guadalupe Coyote Resource Conservation District
+Teiko Bio, Inc.
+Board of Directors, TwiXimo Therapeutics, Inc.

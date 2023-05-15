@@ -1,0 +1,19 @@
+Ioannis Vardoulakis (Greek: Ιωάννης Βαρδουλάκης; 22 March 1949 - 19 September 2009) was an eminent scientist who is known for his major contributions in the modeling of geomaterials, geo-hazards and geotechnical processes. He was the pioneer of the bifurcation theory of geomechanics, which has led to a better understanding of the long-standing problem of mesh-dependency in the Finite Element Modeling. He also contributed to the enriched continuum modeling, which allowed for the first time the constitutive modeling of shear bands and worked extensively in experimental geomechanics, having developed ingenious devices to test geomaterials.
+
+
+== Biography ==
+Vardoulakis was born in Chania, Crete, in 1949. He obtained his Diploma of Civil Engineering in Structural Engineering (1972) from the National Technical University of Athens, Greece, and the Doctor of Engineering (1977, Dr.-Ing., 'Mit Auszeichnung', with the Highest Honors) in Soil Mechanics. University of Karlsruhe, W. Germany. He was Chair of Technical Committee 34 (TC34) on Deformation of Earth Materials, of ISSMGE. He was awarded the Bishop Medal 1996 (Geotechnical Research Award of the Institution of Civil Engineers U.K.) and the Medal of the Japanese Geotechnical Society (2002) for "fundamental contributions to Geomechanics".
+
+
+== See also ==
+Continuum Mechanics
+Geotechnical engineering
+plasticity
+
+
+== References ==
+
+
+== External links ==
+Obituary from the ALERT - Geomaterials Network
+Personal web page at NTUA

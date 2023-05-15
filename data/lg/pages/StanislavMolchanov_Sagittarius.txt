@@ -1,0 +1,33 @@
+Stanislav Alexeyevich Molchanov (Russian: Станислав Алексеевич Молчанов) is a Soviet and American mathematician.From 1958 to 1963 he was a student at the Mathematical and Mechanical faculty, Moscow State University (MSU), where he graduated in 1963  with a master's thesis On one problem from the diffusion process theory supervised by Eugene Dynkin. At MSU Molchanov graduated in 1967 with Russian Candidate degree (Ph.D.) with thesis Some problems in the Martin boundary theory and in 1983 with Russian Doctor of Sciences degree (higher doctoral degree) with thesis Spectral theory of random operators. At MSU he was from 1966 to 1971 an assistant professor, from 1971 to 1988 an associate professor, and from 1988 to 1990 a full professor in the department of probability theory and mathematical statistics. He was a visiting professor from 1991 to 1992 at the University of California, Irvine and from 1992 to 1993 at the University of Southern California. In 1994 Molchanov became a full professor at the University of North Carolina at Charlotte.He has been a visiting professor at the International School for Probability Theory in St. Flour, the Ruhr-Universität Bochum, the ETH Zurich, the EPFL Lausanne, the TU Berlin, Paris (University Paris IV and VI), Ottawa, Rome, Santiago de Chile, Cambridge's Isaac Newton Institute, and Bielefeld.His research deals with geometrical approaches to Markov processes (Martin boundaries and diffusion on Riemannian manifolds) and with spectral theory (localization in random media and spectral properties of Riemannian manifolds). His research on applied mathematics includes physical processes and fields in disordered structures involving averaging and intermittency with applications to geophysics, astrophysics, oceanography. With regard to physical processes, he has done research on wave processes in periodic and random media, quantum graphs, and applications to optics.With Ilya Goldsheid and Leonid Pastur he proved in 1977 localization in the Anderson model in one dimension. With Michael Aizenman, Molchanov proved in 1993 localization for large coupling constants and energies near the edge of the spectrum.In 1990 he was an invited speaker at the International Congress of Mathematicians in Kyoto. In 2012 he became a Fellow of the American Mathematical Society.
+
+
+== Selected publications ==
+Diffusion processes and Riemannian Geometry, Uspekhi Math. Nauka, vol. 30, 1975, pp. 3–59.
+Ideas in the theory of random media, Acta Appl. Math, Vol. 12, 1991, pp. 139–282. doi:10.1007/BF00580850
+with Ya. Zeldovich, A. Ruzmaikin, D. Sokolov: Intermittency, diffusion and generation in a non-stationary random medium, Sov. Sci. Rev., Sec. C, Vol. 7, 1988, pp. 1–110.
+with D. Bakry, R. Gill: Lectures on Probability Theory, 1992 Summer School in Probability, Sant-Flour, France, Springer Lecture notes in Mathematics 1581, 1994
+with René A. Carmona: Parabolic Anderson model and intermittency, Memoirs of American Math Soc. Vol. 108, No. 518, 1994
+Topics in statistical oceanography, in: Stochastic Modeling in Physical Oceanography, Birkhäuser 1996, pp. 343–380. doi:10.1007/978-1-4612-2430-3_13
+as editor with W. Woyczynski: Stochastic Models in Geosystems, The IMA Volumes in Mathematics and Its Applications, Vol. 85, 1997; 2012 pbk reprint
+Multiscale averaging for ordinary differential equations, in: Homogenization, World Scientific 1999, pp. 316–397 doi:10.1142/9789812812919_0012
+Fluctuations in Chemical Kinetics, Lecture notes, EPFL, 2001
+with G. Ben Arous, L. Bogachev: Limit theorems for sums of random exponentials, in: Probability theory and related fields, Vol. 132, 2005, pp. 579–612. doi:10.1007/s00440-004-0406-3
+with G. Ben Arous, A. Ramirez: Transition from the annealed to the quenched asymptotics for a random walk on random obstacles, Annals of Probability, Vol. 33 (2005), pp. 2149–2187 doi:10.1214/009117905000000404
+with J. Gärtner: Parabolic problems for the Anderson model. I. Intermittency and related topics. Commun. Math. Phys., Vol. 132, 1990, pp. 613–655. doi:10.1007/BF02156540
+with J. Gärtner, W. König: Geometric characterization of intermittency in the parabolic Anderson model, Annals of Probability, Vol. 35, 2007, pp. 439–499 doi:10.1214/009117906000000764
+with B. Vainberg: Transition from a network of thin fibers to the quantum graph: an explicitly solvable model, Contemp. Math, Vol. 415, 2006, AMS, pp. 227–239
+with B. Vainberg: Scattering solutions in networks of thin fibers: small diameter asymptotics, Comm. Math. Phys., Vol. 273, 2007, pp. 533–559. doi:10.1007/s00220-007-0220-8
+with Frank den Hollander, O. Zeitouni: Random media at Saint Flour, Springer, 2012
+with L. Pastur, E. Ray: Examples of Random Schroedinger-type operators with non-Poissonian spectra",  Proc. of the conference "Mathematical Physics of Disordered Systems" in honor of Leonid Pastur, 2013
+with L. Koralov, B. Vainberg: On mathematical foundation of the Brownian motor theory, Journal of Functional analysis, Vol. 267, 2014, pp. 1725–1750. doi:10.1016/j.jfa.2014.06.009 arXiv preprint
+with Ya. Zeldovich, A. Ruzmaikin, D. Sokoloff: Intermittency, Diffusion and Generation in a Nonstationary Random Medium, Cambridge Scientific Publishers, Reviews in Mathematics and Mathematical Physics, Vol.15, part I, 2015
+
+
+== References ==
+
+
+== External links ==
+Stanislav Molchanov at the Mathematics Genealogy Project
+"Mochanov's Selected publications". UNC Charlotte.
+"Interview with Stanislav Molchanov, English highlights" (PDF). Eugene B. Dynkin Collection of Mathematics Interviews, Cornell University Library.
+mathnet.ru

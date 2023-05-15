@@ -1,0 +1,22 @@
+Pedro Antonio Valdes-Sosa (born March 12, 1950) is a Cuban neuroscientist who currently serves as the General Vice-Director for Research of the Cuban Neurosciences Center, which he cofounded in 1990. Valdes-Sosa is also member of the editorial boards of journals Neuroimage, Medicc, Audiology and Neurotology, PLosOne and Frontiers, Neuroimage and Brain Connectivity. His work includes statistical analysis of electrophysiological measurements, neuroimaging (fMRI, EEG and MEG tomography), nonlinear dynamical modeling of brain functions and Software and electrophysiological equipment development.
+
+
+== Education ==
+Valdes-Sosa studied medicine at the University of Havana, and graduated in 1972. He also studied Mathematics in 1973. He obtained his Ph.D. in 1978. In 1979 he undertook postdoc training on "Neurometrics and Computational Techniques" and "Biophysical Modeling of brain electrical activity" with E. Roy John at the Brain Research Lab of New York University USA. In 2011 obtained his Doctor in Science degree.
+
+
+== Career ==
+Valdes-Sosa initiated work with quantitative electrophysiology in 1969 with the first Cuban microcomputer, co-founding CNEURO in 1990, an institution which has changed health indicators in his country as well as in others. His research includes (computational) theory, methodology, and both fMRI and electromagnetic brain imaging, with contributions to multichannel EEG/MEG (1969–1989), Distributed ESI (Electrophysiological Source Imaging, 1989), SPM for ESI (2000), Granger Causality (1998). Neural mass modeling (1997), and EEG/fMRI fusion (2001). He has been active in promoting Brain Mapping, setting up international collaborations and societies, the Cuban and Latin-American Brain Mapping projects, participating actively in OHBM since 1998, having served on its Program Committee.
+He is a senior professor of the Higher Institute for Medical Sciences, full member of the Cuban Academy of Sciences, full member of the Latin American Academy of Sciences, associate member of the International Center for Theoretical Physics. He has also been invited professor of the Institute of Statistical Mathematics of Japan, invited researcher of the Brain Science Institute of RIKEN, Japan and Honorary Professor of UCL. 2010 Head of Overseas Team of Talent Introducing Base for Neuroinformation (111 Project) China. 2011 Visiting Professor for Senior International Scientific of the Chinese Academy of Sciences.
+Vales-Sosa is Distinguished Professor of Neuroinformatics of the Key Laboratory for Neuroinformation, University of Electronic Science and Technology of China, and Program Chair of the Organization for Human Brain Mapping.
+
+
+== Awards and honors ==
+In 1997, Valdes-Sosa received the Cuban Academy of Science Award. Statistic Tridimensional Mapping of the EEG Generator's Spectra. In 1995 he received the "Carlos J. Finlay" Award for Scientific Achievements. In 2006 he was got the "José Tey" Award for his dedication to the Education of other professionals. In 2007, he received a Ministry of Science, Technology and Environment Special Award and the Cuban Academy of Science Award both in recognition of the scientific research work: Determination of functional networks in the brain through Granger's causality. In 2013 he received the Award to the best Doctorate Thesis in 2012 of the Academy of Sciences and Ministry of Higher Education of Cuba "Granger causality on the determination of brain functional networks".
+
+
+== References ==
+
+
+== External links ==
+List of publications, Google Scholar

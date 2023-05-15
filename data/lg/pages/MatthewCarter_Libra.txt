@@ -1,0 +1,77 @@
+Matthew Carter  (born 1 October 1937) is a British type designer. A 2005 New Yorker profile described him as 'the most widely read man in the world' by considering the amount of text set in his commonly used fonts.Carter's career began in the early 1960s and has bridged all three major technologies used in type design: physical type, phototypesetting and digital font design, as well as the design of custom lettering.
+Carter's most used fonts are the classic web fonts Verdana and Georgia and the Windows interface font Tahoma, as well as other designs including Bell Centennial, Miller and Galliard. He is the son of the English historian of printing Harry Carter (1901–1982) and cofounded Bitstream, one of the first major retailers of digital fonts. He lives in Cambridge, Massachusetts.
+
+
+== Early life and education ==
+
+Carter grew up in London, the son of Harry Carter, a book designer and later historian of printing. His mother worked in preparing scale drawings.
+Although Carter had intended to get a degree in English at Oxford he was advised to take a year off so he would be the same age as his contemporaries who had gone into National Service.
+
+
+== Career ==
+
+
+=== Enschedé ===
+Through his father, Carter arranged to hold an internship at the Joh. Enschedé type foundry in the Netherlands for a year. An extremely long-lasting company with a long history of printing, Enschedé had a history of creating conservative but popular book typefaces. Carter studied manual punchcutting, the method used to make moulds used to cast metal type, under P. H. Rädisch. Punchcutting was a traditional artisanal approach in decline many years before the 1950s. Carter is one of the last people in Europe formally trained in the technique as a living practice.
+Carter enjoyed the experience, and decided to move directly into a career in graphic design and printing.
+
+
+=== London and New York ===
+Carter's career in type and graphic design has bridged the transition from physical metal type to digital type.
+Despite Carter's training in the art of traditional punchcutting, his career developed at a time when metal type was rapidly being displaced by phototypesetting. This reduced the cost of designing and using a wide range of typefaces, since type could be stored on reels of film rather than as blocks of expensively engraved metal. In a book on Carter's career, historian James Mosley, a few years older than Carter, would write of the period of their upbringing:
+
+The Monotype classic [fonts] dominated the typographical landscape ... in Britain, at any rate, they were so ubiquitous that, while their excellent quality was undeniable, it was possible to be bored by them and to begin to rebel against the bland good taste that they represented. In fact we were already aware by 1960 that they might not be around to bore us for too long. The death of metal type ... seemed at last to be happening.'
+Carter eventually returned to London where he became a freelancer. By 1961 Carter was able to use the skills he acquired to cut his own version of the semi-bold typeface Dante. An early example of his work is the masthead logo he designed for the British magazine Private Eye in May 1962, still in use. Previously the lettering had been different for the masthead of each issue; it was based on a font ('a bit of nameless juvenilia') which was never ultimately published. He also did early work for Heathrow Airport.Carter would later become the typographic advisor to Crosfield Electronics, distributors of Photon phototypesetting machines. Carter designed many typefaces for Mergenthaler Linotype as well. Under Linotype, Carter created well-known typefaces including Snell Roundhand, a script typeface and Bell Centennial, intended for use in the Bell System's phone directories and to celebrate its anniversary.
+Based on the work of Robert Granjon  a 16th century French engraver, Carter created the sharp, high-contrast family Galliard. This matched a family interest: Carter's father in the 1950s had indexed and examined original type by Granjon at the Plantin-Moretus Museum in Antwerp, and Carter had visited him several times to observe his progress. Carter's adaptation, more intended for display use than for body text, included some eccentricities of Granjon's original design, producing a result unlike many previous revivals of typefaces from the period. Carter wrote of his father's research that it had helped to demonstrate "that the finest collection of printing types made [by Christophe Plantin] in typography's golden age was in perfect condition (some muddle aside) [along with] Plantin's accounts and inventories which names the cutters of his types."Carter also advised IBM as an independent consultant in the 1980s.
+
+
+=== Bitstream ===
+
+In 1981, Carter and his colleague Mike Parker created Bitstream Inc. This digital type foundry was one of the largest suppliers of type before its acquisition by Monotype in 2012. The company however did receive extensive criticism for its strategy of cheaply offering digitisations of pre-existing typefaces that it had not designed, often under alternative names (for example, Times New Roman as 'Dutch 801'). While technically not illegal, this selling of large numbers of typefaces on CD would be described by font designer John Hudson as "one of the worst instances of piracy in the history of type". In his role at Bitstream, Carter designed typefaces, such as Charter, and commissioned others such as Iowan Old Style from John Downer. Bitstream would ultimately be acquired by Monotype in 2012.
+
+
+=== Carter and Cone ===
+Carter left Bitstream in 1991 and in 1992 formed the Carter & Cone type foundry with Cherie Cone. Carter's recent typefaces have been published by a range of retailers including ITC, Font Bureau and Monotype, often in collaboration with Carter and Cone, together with his custom designs created for companies such as Microsoft.
+Of Carter's recent fonts, the serif web font Georgia is inspired by Scotch Roman designs of the 19th century. It was based on designs for a print typeface in the same style Carter was working on when contacted by Microsoft; this would be released under the name Miller some years later. Speaking in 2013 about the development of Georgia and Miller, Carter said, "I was familiar with Scotch romans, puzzled by the fact that they were once so popular ... and then they disappeared completely."Many of Carter's fonts were created to address specific technical challenges, for example those posed by early computers. Charter was created to use a minimal number of design elements to fit in a small memory space on early computers, a problem that had expired even before he finished the design. The bold versions of Verdana and Georgia are also unusually bold, almost black. Carter noted that, "Verdana and Georgia ... were all about binary bitmaps: every pixel was on or off, black or white ... The bold versions of Verdana and Georgia are bolder than most bolds, because on the screen, at the time we were doing this in the mid-1990s, if the stem wanted to be thicker than one pixel, it could only go to two pixels. That is a bigger jump in weight than is conventional in print series." Some of Carter's early font digitisations would later be revisited: Monotype released an expanded version of Charter and Font Bureau expanded versions of Georgia, Verdana, Big Caslon and others. Earlier in his career, Bell Centennial was created to be legible in telephone directories, even when printed on cheap paper at small sizes.
+Carter's only font to bear his name is Carter Sans. It is a 'glyphic' sans-serif with flaring towards the end of each letter. It was inspired by Albertus, a popular British font created by Berthold Wolpe for Monotype. Carter knew Wolpe early in his career and helped digitise one of his less-known fonts for a 1980 retrospective of his work.
+
+One of Carter's more unusual projects was a font, Van Lanen, for the Hamilton Wood Type and Printing Museum. A 'Latin'-style wedge serif font, it was released both in digital form and wood type. In an article on it, Carter noted that it has been "50 years since a type of my design had been in a physical form that I could hold in my hand."
+
+Carter has taught on Yale University's graphic design programme since 1976. He also designed the university's corporate fonts, Yale, at the request of John Gambell, the University Printer. Carter has said that this was the first time in designing a typeface that he focused more on capital than lowercase letters, since he knew that on the building signs the lettering would be in capitals. Carter wrote that:
+
+The signs, whether free-standing or attached to walls, reminded me of inscriptions, and this led me to think about the inscriptional origins of Roman caps and the everlasting problem of reconciling capitals with lowercase. For me, the moment when the first true synthesis occurred was in the type of De Aetna.  This led me in turn to the Beinecke Library to pore over their copy of the book and its type – the archetype of Roman type for me.
+
+
+== Awards ==
+Carter has won numerous awards for his contributions to typography and design, including an honoris causa, Doctorate of Humane Letters from the Art Institute of Boston, an AIGA medal in 1995, the TDC Medal from the Type Directors Club in 1997, and the 2005 SOTA Typography Award. A retrospective of his work, "Typographically Speaking, The Art of Matthew Carter," was exhibited at the University of Maryland, Baltimore County in December 2002. This retrospective is featured in the documentary, "Typographically Speaking:  A Conversation With Matthew Carter." In 2010, Carter was named a MacArthur Foundation Fellow, otherwise known as a "genius" grant.On 26 May 2011, he received the Lifetime Achievement Award from the National Design Awards at the White House.He is a member of Alliance Graphique Internationale (AGI), has served as chairman of ATypI, is a member of the board of directors of the Type Directors Club, and is an ex officio member of the board of directors of the Society of Typographic Aficionados (SOTA). Some of Carter's designs are in the collection of the St. Bride Printing Library in London.Carter was appointed Commander of the Order of the British Empire (CBE) in the 2020 Birthday Honours for services to typography and design.
+
+
+== Typefaces ==
+Matthew Carter's typefaces include the following:
+
+Besides Carter's commercially released fonts, many of his designs have been privately commissioned for companies for their own use. These include work for Le Monde, The New York Times, Time, The Washington Post, the Boston Globe, Wired, and Newsweek. Some of these fonts would later be released commercially. An example of this is Roster, which is based on a smaller family created under the name of Wrigley for Sports Illustrated magazine, and Stilson, originally proprietary to The Washington Post and named 'Postoni'.Seven of Carter's typefaces are in the permanent collection of the Museum of Modern Art. MoMA acquired these in 2011. The typefaces were displayed in the MoMA's Standard Deviations exhibition of 2011–12. The seven typefaces are Bell Centennial, Big Caslon, ITC Galliard, Mantinia, Miller, Verdana and Walker.
+
+
+== See also ==
+List of AIGA medalists
+Art Directors Club Hall of Fame
+
+
+== References ==
+
+Eye, No. 11, Vol. 3, edited by Rick Poynor, Wordsearch Ltd, 1993.
+Macmillan, Neil (2006). An A-Z of Type Designers. Laurence King Publishing. ISBN 1856693953., p. 62.
+
+
+== External links ==
+MyFonts
+Georgia & Verdana – Typefaces for the screen
+Type Designer Showcase biography at Monotype Imaging
+Designing Modern Britain exhibition biography
+Matthew Carter at TED 
+TED Talk: Matthew Carter: My life in typefaces (TED2014)
+Mathew Carter in conversation with Erik Spiekermann, Eye No. 11
+Graphic Content: Carter Sans, by Steven Heller, New York Times, 2 February 2011
+Matthew Carter – collection of material by Luc Devroye
+Carter & Cone (Luc Devroye's website)
+Carter & Cone

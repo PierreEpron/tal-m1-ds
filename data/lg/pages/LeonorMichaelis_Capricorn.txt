@@ -1,0 +1,219 @@
+Leonor Michaelis (16 January 1875 – 8 October 1949) was a German biochemist, physical chemist, and physician, known for his work with Maud Menten on enzyme kinetics in 1913, as well as for work on enzyme inhibition, pH and quinones.
+
+
+== Early life and education ==
+Leonor Michaelis was born in Berlin, Germany, on 16 January 1875, and graduated from the humanistic Koellnisches Gymnasium in 1893 after passing the Abiturienten Examen. He was Jewish. It was here that Michaelis's interest in physics and chemistry was first sparked as he was encouraged by his teachers to utilize the relatively unused laboratories at his school.With concerns about the financial stability of a pure scientist, he commenced his study of medicine at Berlin University in 1893. Among his instructors were Emil du Bois-Reymond for physiology, Emil Fischer for chemistry, and Oscar Hertwig for histology and embryology.
+During his time at Berlin University, Michaelis worked in the lab of Oscar Hertwig, even receiving prize for a paper on the histology of milk secretion. Michaelis's doctoral thesis work on cleavage determination in frog eggs led him to write a textbook on embryology. Through his work at Hertwig's lab, Michaelis came to know Paul Ehrlich and his work on blood cytology; he worked as Ehrlich's private research assistant from 1898 to 1899.
+He passed his physician's examination in 1896 in Freiburg, and then moved to Berlin, where he received his doctorate in 1897. After receiving his medical degree, Michaelis worked as a private research assistant to Moritz Litten (1899–1902) and for Ernst Viktor von Leyden (1902–1906).
+
+
+== Life and work ==
+From 1900 to 1904, Michaelis continued his study of clinical medicine at a municipal hospital in Berlin, where he found time to establish a chemical laboratory.
+He attained the position of Privatdocent at the University of Berlin in 1903. In 1905 he accepted a position as director of the bacteriology lab in the Klinikum Am Urban, becoming Professor extraordinary at Berlin University in 1908. In 1914 he published a paper suggesting that Emil Abderhalden's notorious pregnancy tests could not be reproduced, a paper which fatally compromised Michaelis's position as an academic in Germany. In 1922, Michaelis moved to the Medical School of the University of Nagoya (Japan) as Professor of biochemistry, becoming one of the first foreign professors at a Japanese university, bringing with him several documents, apparatuses and chemicals from Germany. His research in Japan focussed on potentiometric measurements and the cellular membrane. Nagatsu has provided an account of Michaelis's contributions to biochemistry in Japan.In 1926, he moved to Johns Hopkins University in Baltimore as resident lecturer in medical research and in 1929 to the Rockefeller Institute of Medical Research in New York City, where he retired in 1941.
+
+
+=== The Michaelis-Menten equation ===
+Michaelis's work with Menten led to the Michaelis–Menten equation. This is now available in English.
+  
+    
+      
+        v
+        =
+        
+          
+            
+              V
+              a
+            
+            
+              
+                K
+                
+                  
+                    m
+                  
+                
+              
+              +
+              a
+            
+          
+        
+      
+    
+    {\displaystyle v={\frac {Va}{K_{\mathrm {m} }+a}}}
+  
+for a steady-state rate 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   in terms of the substrate concentration 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   and constants 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   and 
+  
+    
+      
+        
+          K
+          
+            
+              m
+            
+          
+        
+      
+    
+    {\displaystyle K_{\mathrm {m} }}
+   (written with modern symbols).
+An equation of the same form and with the same meaning appeared in the doctoral thesis of Victor Henri, a decade before Michaelis and Menten.  However, Henri did not take it further: in particular he did not discuss the advantages of considering initial rates rather than time courses. Nonetheless, it is historically more accurate to refer to the Henri–Michaelis–Menten equation.
+
+
+=== Classification of Inhibition types ===
+Michaelis was one of the first to study enzyme inhibition, and to classify inhibition types as competitive or non-competitive. In competitive inhibition the apparent value of 
+  
+    
+      
+        
+          K
+          
+            
+              m
+            
+          
+        
+      
+    
+    {\displaystyle K_{\mathrm {m} }}
+   is increased, and in non-competitive inhibition the apparent value of 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   is decreased. Nowadays we consider  the apparent value of 
+  
+    
+      
+        V
+        
+          /
+        
+        
+          K
+          
+            
+              m
+            
+          
+        
+      
+    
+    {\displaystyle V/K_{\mathrm {m} }}
+   to be decreased in competitive inhibition, with no effect on the apparent value of 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  : Michaelis's competitive inhibitors are still competitive inhibitors by this definition. However, non-competitive inhibition by his criterion is very rare, but mixed inhibition, with effects on the apparent values of both 
+  
+    
+      
+        V
+        
+          /
+        
+        
+          K
+          
+            
+              m
+            
+          
+        
+      
+    
+    {\displaystyle V/K_{\mathrm {m} }}
+   and 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   is important. Some authors call this non-competitive inhibition, but it is not non-competitive inhibition as understood by Michaelis. The remaining important kind of inhibition, uncompetitive inhibition, in which the apparent value of 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   is decreased 
+with no effect on the apparent value of 
+  
+    
+      
+        V
+        
+          /
+        
+        
+          K
+          
+            
+              m
+            
+          
+        
+      
+    
+    {\displaystyle V/K_{\mathrm {m} }}
+  , was not considered by Michaelis. Fuller discussion can be found elsewhere.
+
+
+=== Hydrogen ion concentration ===
+Michaelis built virtually immediately on Sørensen's 1909 introduction of the pH scale with a study of the effect of hydrogen ion concentration on invertase, and he became the leading world expert on pH and buffers. His book was the major reference on the subject for decades.
+
+
+=== Quinones ===
+In his later career he worked extensively on quinones, and discovered Janus green as a supravital stain for mitochondria and the Michaelis–Gutmann body in urinary tract infections (1902). He found that thioglycolic acid could dissolve keratin, a discovery that would come to have several implications in the cosmetic industry, including the permanent wave ("perm").
+A full discussion of his life and contributions to biochemistry may be consulted for more information.
+
+
+== "Catalysing" the Suzuki method of music teaching ==
+During his time in Japan Michaelis knew the young Shinichi Suzuki, later famous for the Suzuki method of teaching the violin and other instruments. Suzuki asked his advice about whether he should become a professional violinist. Perhaps more honest than tactful, Michaelis advised him to take up teaching, and thus catalysed the invention of the Suzuki method.
+
+
+== Personal life and death ==
+Michaelis was married to Hedwig Philipsthal; they had two daughters, Ilse Wolman and Eva M. Jacoby. Leonor Michaelis died on 8 October or 10 October, 1949 in New York City.
+
+
+== Honors ==
+Michaelis was a Harvey Lecturer in 1924 and a Sigma Xi Lecturer in 1946. He was elected to be a Fellow of the American Association for the Advancement of Science in 1929, a member of the National Academy of Sciences in 1943. In 1945, he received an honorary LL.D. from the University of California, Los Angeles.
+
+
+== References ==

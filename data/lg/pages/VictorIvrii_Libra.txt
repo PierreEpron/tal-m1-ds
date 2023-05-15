@@ -1,0 +1,47 @@
+Victor Ivrii (Russian: Виктор Яковлевич Иврий),  (born 1 October 1949) is a Russian, Canadian mathematician who specializes in  analysis, microlocal analysis, spectral theory and partial differential equations. He is a professor at the University of Toronto Department of Mathematics.
+He was an invited speaker at International Congress of Mathematicians, Helsinki—1978 and Berkeley—1986.
+
+
+== Education and Degrees ==
+He graduated from Physical Mathematical School at Novosibirsk State University in 1965,  received his University Diploma (equivalent to MSci) in 1970 and PhD in 1973 in Novosibirsk State University. He defended his Doktor nauk thesis in St. Petersburg Department of Steklov Institute of Mathematics of Russian Academy of Sciences in 1982.
+
+
+== Scientific contributions ==
+
+
+=== Weakly hyperbolic equations ===
+His first main works were devoted to the well-posedness of the Cauchy problem for weakly hyperbolic equations. In particular he discovered a necessary (later proven to be sufficient) condition for Cauchy problem to be well-posed no matter what the lower terms in the equation are.
+
+
+=== Propagation of singularities ===
+In a series of papers he explored propagation of singularities  of symmetric hyperbolic systems inside of the domain and near the boundary. He was invited to give a talk at ICM—1978, Helsinki but was not granted an exit visa by the Soviet authorities;  however his talk  was published in the Proceedings of the Congress.
+
+
+=== Asymptotic distribution of eigenvalues ===
+His work in propagation of singularities logically guided him to the theory of asymptotic distribution of eigenvalues (a subject he has been studying ever since). V. Ivrii's debut in this field was a proof of Weyl conjecture (1980). Then he developed a rescaling technique which allowed to consider domains and operators with singularities. He again was invited  give a talk at ICM—1986, Berkeley but again was not granted an exit visa by the Soviet authorities. His talk  was read by Lars Hörmander and published in the Proceedings of the Congress.
+V. Ivrii wrote three research monographs, and, all published by Springer-Verlag.
+
+
+=== Multiparticle quantum theory ===
+The methods developed by V. Ivrii were very useful for the rigorous justification of Thomas-Fermi theory. Together with Israel Michael Sigal he justified the Scott correction term for molecules. Later V. Ivrii justified the Dirac and Schwinger correction terms.
+
+
+== Institutions ==
+1973-1990 Magnitogorsk Mining and Metallurgical Institute
+1990-1992 École Polytechnique
+1992–present University of Toronto Department of Mathematics
+
+
+== Awards and honors ==
+1998 Elected as Fellow of Royal Society of Canada.
+2002-2004 Killam Research Fellow.
+2012 Fellow of the American Mathematical Society.
+
+
+== References ==
+
+
+== External links ==
+Victor Ivrii at the Mathematics Genealogy Project
+Victor Ivrii infopage at University of Toronto Department of Mathematics
+Items authored by or related to Ivriĭ, V. Ya.

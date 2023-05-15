@@ -1,0 +1,93 @@
+Peter Pin-Shan Chen (Chinese: 陳品山; born 3 January 1947) is a Taiwanese American computer scientist. He is a (retired) distinguished career scientist and faculty member at Carnegie Mellon University and Distinguished Chair Professor Emeritus at LSU. He is known for the development of the entity–relationship model in 1976.
+
+
+== Biography ==
+Born 1947 in Taichung, Taiwan, Peter Chen received a B.S. in electrical engineering in 1968 at the National Taiwan University, and a Ph.D. in computer science/applied mathematics at Harvard University in 1973. In 1970, he worked one summer at IBM.  After graduating from Harvard, he spent one year at Honeywell and a summer at Digital Equipment Corporation.
+From 1974 to 1978 Chen was an assistant professor at the MIT Sloan School of Management. From 1978 to 1983 he was an associate professor at the University of California, Los Angeles (UCLA Management School). From 1983 to 2011 Chen held the position of M. J. Foster Distinguished Chair Professor of Computer Science at Louisiana State University and, for several years, adjunct professor in its Business School and Medical School (Shreveport). During this time period, he was a visiting professor once at Harvard in '89-'90 and three times at Massachusetts Institute of Technology (EECS Dept. in '86-'87, Sloan School in '90-'91, and Division of Engineering Systems in 06-'07).  From 2010 to 2020, Chen was a Distinguished Career Scientist and faculty member at Carnegie Mellon University, U.S.A.
+Besides lecturing around the world, he has also served as an (honorary) professor outside of the U.S. In 1984, under the sponsorship of the United Nations, he taught a one-month short course on databases at Huazhong University of Science and Technology in Wuhan, China, and was awarded as Honorary Professor there. Then, he went to Beijing as a member of the IEEE delegation of the First International Conference on Computers and Applications (the first major IEEE computer conference held in China). From 2008 to 2014, he was an Honorary Chair Professor in the Institute of Service Science at National Tsing Hua University, Taiwan. Starting in 2016, he is an Honorary Chair Professor in the Department of Bioengineering and Bioinformatics, Asia University (Taiwan).
+Chen has served as an advisor for government agencies and corporations. He is a member of the advisory board of Computer and Information Science and Engineering Directorate of National Science Foundation (2004-2006) and the United States Air Force Scientific Advisory Board (2005-2009).  
+
+
+== Awards and honors ==
+Chen's original paper is one of the most influential papers in the computer software field based on a survey of more than 1,000 computer science professors documented in a book on "Great Papers in Computer Science". Chen's work is also cited in a book Software Challenges published by Time-Life Books in 1993 in the series on "Understanding Computers."  Chen is recognized as one of the pioneers in a book on "Software Pioneers". He is listed in Who's Who in America and Who's Who in the World.
+Chen has received many awards in the fields of Information Technology. He received the Data Resource Management Technology Award from the Data Administration Management Association (DAMA International) in New York City in 1990. He was elected as a Fellow of the Association for Computing Machinery (ACM), American Association for the Advancement of Science (AAAS), IEEE, and ER. He won the Achievement Award in Information Management in 2000 from DAMA International. He was an inductee into the Data Management Hall of Fame in 2000. He received the Stevens Award in Software Method Innovation in 2001. In 2003, Chen received the IEEE Harry H. Goode Memorial Award at the IEEE-CS board of governors meeting in San Diego. He was presented with the ACM - AAAI Allen Newell Award at the ACM Banquet in San Diego in June 2003 and International Joint Conference on Artificial Intelligence (IJCAI) in Acapulco in August 2003.  Chen is also the recipient of the Pan Wen-Yuan Outstanding Research Award in 2004. In June 2011 in Jeju Island, Korea, Chen received the Transformative Achievement Medal from Software Engineering Society and the Society for Design and Process Science. In 2021, he received the Leadership Award from IEEE Technical Committee of Service Computing (TCSVC).  
+His innovative work initiated/accelerated a new field of research and practice called "Conceptual Modeling" based on conceptual model (computer science) or Entity–Relationship model. In 1979, he founded an annual international professional meeting, the  International Conference on Conceptual Modeling, which has been held in different countries.. He also founded the Data & Knowledge Engineering journal for publishing and disseminating scholarly research results.
+
+
+== Peter P. Chen Award ==
+
+To recognize Chen's pioneering leadership role, the "Peter P. Chen Award" was established in 2008, to honor excellent researchers/educators for outstanding contributions to the field of conceptual modeling each year.  The recipients of the Peter P. Chen Award are:
+
+2008: Bernhard Thalheim, professor, University of Kiel, Germany
+2009: David W. Embley, professor, Brigham Young University (BYU), U.S.A.
+2010: John Mylopoulos, professor, University of Toronto, Canada, and University of Trento, Italy
+2011: Tok Wang Ling, professor, National University of Singapore (NUS), Singapore
+2012: Stefano Spaccapietra, honorary professor, Swiss Federal Institute of Technology (EPFL), Switzerland
+2013: Carlo Batini, professor, University of Milano-Bicocca, Italy
+2014: Antonio L. Furtado, professor, PUC-Rio, Brazil
+2015: Il-Yeol Song, professor, Drexel University, U.S.A.
+2016: Óscar Pastor, professor, Universitat Politècnica de València, Spain
+2017: Yair Wand, CANFOR Professor in MIS, University of British Columbia, CANADA
+2018: Veda C. Storey, Tull Professor of Computer Information Systems, Georgia State University, Atlanta, U.S.A.
+2019: Eric Yu, professor, University of Toronto, Canada.
+2020: Matthias Jarke, Professor, RWTH Aachen University, Germany and Chairman, Fraunhofer ICT Group.
+2021: Sudha Ram, Anheuser-Busch Professor of MIS, Entrepreneurship and Innovation, University of Arizona, U.S.A.
+2022: Maurizio Lenzerini Professor of Computer Science and Engineering, Sapienza University of Rome, Italy.
+
+
+== Peter Chen Big Data Young Researcher Award ==
+To recognize Chen's pioneering role and contributions in building the foundation for big data modeling and analysis, the "Peter Chen Big Data Young Researcher Award" was established in 2015 by the Service Society  and the steering committee of eight co-located IEEE Conferences (IEEE ICWS/SCC/CLOUD/MS/BigDataCongress/SERVICES), to honor a very promising young big data researcher each year in the IEEE Big Data Congress and co-located conferences, starting from IEEE BigData 2015 Congress.  The Peter Chen Big Data Young Researcher Award winners are:
+
+2015: Yi Chen, associate professor, New Jersey Institute of Technology, U.S.A.
+2016: Wei Tan, Research Staff Member, IBM Thomas J. Watson Research Center, Yorktown Heights, NY USA.
+2017: Ilkay Altintas, Chief Data Science Officer, San Diego Supercomputer Center, Univ. of California, San Diego, USA.
+
+
+== Work ==
+
+
+=== Entity–relationship modeling and conceptual data modeling ===
+The entity–relationship model serves as the foundation of many systems analysis and design methodologies, computer-aided software engineering (CASE) tools, and repository systems. The ER model is the basis for IBM's Repository Manager/MVS and DEC's CDD/Plus.
+Chen's original paper is commonly cited as the definitive reference for entity relationship modeling though the concept of object relationship had been developed a year earlier by Schmid and Swenson as reported in the 1975 ACM SIGMOD Proceedings [1]. Chen is one of the pioneers of using entity–relationship concepts in software and information system modeling and design. Before Chen's paper, the basic entity–relationship ideas were used mostly informally by practitioners. Chen first published an abstract and presented his ER model in the First Very Large Database Conference in September 1975, the same year of a paper with similar concepts written by A. P. G. Brown. Chen's main contributions are formalizing the concepts, developing a theory with a set of data definition and manipulation operations, and specifying the translation rules from the ER model to several major types of databases (including the Relational Database).  He also popularized the model and introduced it to the academic literature.
+The ER model was adopted as the meta-model ANSI Standard in Information Resource Directory System (IRDS), and the ER approach has been ranked at the top methodology for database design and one of the top methodologies in systems development by several surveys of Fortune 500 companies.
+
+
+=== Computer-aided software engineering ===
+Chen's work is a cornerstone of software engineering, in particular computer-aided software engineering (CASE). In the late 1980s and early 1990s, IBM's Application Development Cycle (AD/Cycle) framework and DB2 repository (RM/MVS) were based on the ER model. Other vendors’ repository systems such as Digital's CDD+ were also based on the ER model. Chen has had a significant impact on the CASE industry through his research and his lecturing around the world on structured system development methodologies.  The ER model has influenced most of the major CASE tools, including Computer Associates’ ERWIN, Oracle Corporation’s Designer/2000, and Sybase’s PowerDesigner (and even a general drawing tool like Microsoft Visio), as well as the IDEF1X standard. The ER model is also the basis for Microsoft's ADO.NET Entity Framework.
+The hypertext concept, which makes the World Wide Web extremely popular, is very similar to the main concept in the ER model.  Chen investigated this linkage as an invited expert of several XML working groups of the World Wide Web Consortium (W3C).
+The ER model also serves as the foundation of some of the recent work on Object-oriented analysis and design methodologies and Semantic Web. The UML modeling language has its roots in the ER model.
+
+
+=== Computer performance modeling ===
+In his early career, he was active in R&D activities in computer system performance.  He was the program chair of an ACM SIGMETRICS conference.  He developed a computer performance model for a major computer vendor. His innovative research results were adopted in commercial computer performance tuning and capacity
+
+
+=== Memory and storage hierarchy, storage technology, CD-ROM, firmware, and micro-programming ===
+His Ph.D. thesis at Harvard was one of the first studies of cost-performance optimization models of multi-level memory/storage hierarchies.  He was also one of the early micro-programmers developing the firmware for a file control unit for an IBM mainframe computer. His article on "CD-ROM" in IEEE Proceedings journal in the 1980s was one of the first articles explaining how CD-ROM worked when CD-ROMs became popular.  He was a co-author of the storage technology article in early versions of a computer encyclopedia book published by McGraw-Hill.
+
+
+=== Cyber security and terrorist detection ===
+In recent years, he led a multidisciplinary research team in developing new efficient and effective techniques in identifying terrorists and malicious cyber transactions.  At CMU, he is active in the R&D activities of CERT Coordination Center and Software Engineering Institute (SEI).
+
+
+=== Big data, web services, blockchain and Internet of Things (IoT) ===
+He is active in research and lecturing on Big Data and emerging technologies.  He was a keynote speaker and a keynote panelist on Big Data at IEEE Conferences.  He was the 2014 program chair, the 2015–16 conference chair, and the 2017 honorary chair of the IEEE BigData Congresses. He is the chair of the 2018 IEEE ICWS Conference and the chair of the Blockchain Panel. He is the general chair of the 2019 IEEE Service Congress, Milan, Italy.
+
+
+== Publications ==
+Peter P. Chen has published many books, papers, and articles.
+
+Books (a selection)2007. Active Conceptual Modeling of Learning: Next Generation Learning-Base System Development. With Leah Y. Wong (Eds.). Springer.
+1999. Advances in Conceptual Modeling: ER'99 Workshops on Evolution and Change in Data Management, Reverse Engineering in Information Systems, and the World ... (Lecture Notes in Computer Science). With David W. Embley, Jacques Kouloumdjian, Stephen W. Liddle and John F. Roddick (Eds.) Springer Verlag.
+1999. Conceptual Modeling: Current Issues and Future Directions (Lecture Notes in Computer Science) With Jacky Akoka, Hannu Kangassalo, and Bernhard Thalheim.
+1985. Data & Knowledge Engineering, Volume 1, Number 1, 1985.
+1981. Entity–Relationship Approach to Information Modeling and Analysis.
+1980. Entity–Relationship Approach to Systems Analysis and Design. North-Holland.Articles (a selection)1976 (March). Chen, Peter Pin-Shan (1976). "The Entity–Relationship Model – Toward A Unified View of Data". ACM Transactions on Database Systems. 1 (1): 9–36. CiteSeerX 10.1.1.523.6679. doi:10.1145/320434.320440. S2CID 52801746. ISSN 0362-5915.
+2002. "Entity–Relationship Modeling: Historical Events, Future Trends, and Lessons Learned". In: Software Pioneers: Contributions to Software Engineering. Broy M. and Denert, E. (eds.), Berlin: Springer-Verlag. Lecture Notes in Computer Sciences, June 2002. pp. 100–114.
+
+
+== References ==
+
+
+== External links ==
+Home page of Dr. Peter Chen at Louisiana State University

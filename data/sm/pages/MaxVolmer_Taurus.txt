@@ -1,0 +1,70 @@
+Max Volmer (German: [ˈfɔlmɐ]; 3 May 1885 – 3 June 1965) was a German physical chemist, who made important contributions in electrochemistry, in particular on electrode kinetics.  He co-developed the Butler–Volmer equation. Volmer held the chair and directorship of the Physical Chemistry and Electrochemistry Institute of the Technische Hochschule Berlin, in Berlin-Charlottenburg. After World War II, he went to the Soviet Union, where he headed a design bureau for the production of heavy water.  Upon his return to East Germany ten years later, he became a professor at the Humboldt University of Berlin and was president of the East German Academy of Sciences.
+
+
+== Education ==
+From 1905 to 1908, Volmer studied chemistry at the Philipps University of Marburg.  After that, he went to the University of Leipzig, where he was awarded a doctorate in 1910, based on his work on photochemical reactions in high vacuums. He became an assistant lecturer at Leipzig in 1912, and after completion of his Habilitation there in 1913, he became a Privatdozent at the University.
+
+
+== Career ==
+
+
+=== Early years ===
+In 1916, Volmer went to work on military-related research at the Physical Chemistry Institute of the Friedrich-Wilhelms University (today the Humboldt University of Berlin).  From 1918 to 1920, he conducted research in industry at the Auergesellschaft in Berlin.  In 1919, he invented the mercury steam ejector, and he published a paper, with Otto Stern which resulted in the attribution of the Stern–Volmer equation and constant. Also attributed from his work during this time is the Volmer isotherm.In 1920, Volmer was appointed extraordinarius professor of physical chemistry and electrochemistry at the University of Hamburg.  In 1922, he was appointed ordinarius professor and director of the Physical Chemistry and Electrochemistry Institute of the Technische Hochschule Berlin (Berlin-Charlottenburg); the position was previously held by Walther Nernst. It was during his time there that he discovered the migration of adsorbed molecules, known as Volmer diffusion. In 1930, he published a paper from which was attributed the Butler-Volmer equation, based on earlier work of John Alfred Valentine Butler. This work formed the basis of phenomenological kinetic electrochemistry.
+
+
+=== In the Soviet Union ===
+Volmer, Manfred von Ardenne, director of his private laboratory Forschungslaboratoriums für Elektronenphysik, Gustav Hertz, Nobel Laureate and director of Research Laboratory II at Siemens, and Peter Adolf Thiessen, ordinarius professor at the Humboldt University of Berlin and director of the Kaiser-Wilhelm Institut für physikalische Chemie und Elektrochemie (KWIPC) in Berlin-Dahlem, had made a pact.  The pact was a pledge that whoever first made contact with the Soviets would speak for the rest.  The objectives of their pact were threefold: (1) Prevent plunder of their institutes, (2) Continue their work with minimal interruption, and (3) Protect themselves from prosecution for any political acts of the past. Before the end of World War II, Thiessen, a member of the Nazi Party, had Communist contacts.  On 27 April 1945, Thiessen arrived at von Ardenne's institute in an armored vehicle with a major of the Soviet Army, who was also a leading Soviet chemist.  All four of the pact members were taken to the Soviet Union.  Hertz was made head of Institute G, in Agudseri (Agudzery), about 10 km southeast of Sukhumi and a suburb of Gul’rips (Gulrip’shi); Volmer was initially assigned to Hertz's institute. Topics assigned to Gustav Hertz's Institute G included: (1) Separation of isotopes by diffusion in a flow of inert gases, for which Gustav Hertz was the leader, (2) Development of a condensation pump, for which Justus Mühlenpfordt was the leader, (3) Design and build a mass spectrometer for determining the isotopic composition of uranium, for which Werner Schütze was the leader, (4) Development of frameless (ceramic) diffusion partitions for filters, for which Reinhold Reichmann was the leader, and (5) Development of a theory of stability and control of a diffusion cascade, for which Heinz Barwich was the leader;  Barwich had been deputy to Hertz at Siemens. Von Ardenne was made head of Institute A, in Sinop, a suburb of Sukhumi.
+Late in January 1946, Volmer was assigned to the Nauchno-Issledovatel’skij Institut-9 (NII-9, Scientific Research Institute No. 9), in Moscow. Volmer was given a design bureau to work on the production of heavy water; Robert Döpel also worked at NII-9. Volmer's group with Victor Bayerl, a physical chemist and Gustav Richter a physicist, was under Alexander Mikailovich Rosen, and they designed a heavy water production process and facility based on the counterflow of ammonia. The installation was constructed at Norilsk and completed in 1948, after which Volmer's organization was transferred to Zinaida Yershova’s group, which worked on plutonium extraction from fission products.
+
+
+=== Return to Germany ===
+In March 1955, Volmer returned to East Germany.  He received the Soviet Union's national prize, first class, Hervorragender Wissenschaftler des Volkes (Outstanding Scientist of the People).  On 1 May 1955, he became an ordinarius professor at the Humboldt University of Berlin.  On 10 November 1955, became a member of the Wissenschaftlichen Rates für die friedliche Anwendung der Atomenergie of the Council of Ministers of the German Democratic Republic (GDR).  From 8 December 1955 to 1959, he became president of the German Academy of Sciences, after which he was vice-president until 1961.  From 27 August 1957, he became an initial member of the Forschungsrat of the GDR.At the Technical University of Berlin, where Volmer worked for so many years, the Max Volmer Laboratory for Biophysical Chemistry was named in his honor. Also in Volmer's honor, a street was named Volmerstrasse in Berlin-Adlershof, Potsdam, and Hilden.
+
+
+== Personal ==
+Volmer married the physical chemist Lotte Pusch. Max and Lotte knew and socialized with the physicist Lise Meitner and the chemist Otto Hahn since the 1920s.
+
+
+== Selected bibliography ==
+
+
+=== Articles ===
+O. Stern and M. Volmer Über die Abklingzeit der Fluoreszenz, Physik. Zeitschr.  20 183-188 (1919) as cited in Mehra and Rechenberg, Volume 1, Part 2, 2001, 849.
+T. Erdey-Grúz and M. Volmer Z. Phys. Chem. 150 (A) 203-213 (1930)
+
+
+=== Books ===
+Max Volmer, Kinetik der Phasenbildung (1939)
+Max Volmer, Zur Kinetik der Phasenbildung und der Elektrodenreaktionen. Acht Arbeiten. (Akademische Verlagsgesellschaft Geest & Portig K.-G., 1983)
+Max Volmer und L. Dunsch, Zur Kinetik der Phasenbildung und Elektrodenreaktion. Acht Arbeiten. (Deutsch Harri GmbH, 1983)
+
+
+== See also ==
+Butler–Volmer equation
+Stern–Volmer equation and constant
+
+
+== Notes ==
+
+
+== References ==
+Heinemann-Grüder, Andreas Keinerlei Untergang: German Armaments Engineers during the Second World War and in the Service of the Victorious Powers in Monika Renneberg and Mark Walker (editors) Science, Technology and National Socialism 30–50 (Cambridge, 2002 paperback edition) ISBN 0-521-52860-7
+Hentschel, Klaus (editor) and Ann M. Hentschel (editorial assistant and translator) Physics and National Socialism: An Anthology of Primary Sources (Birkhäuser, 1996) ISBN 0-8176-5312-0
+Kruglov, Arkadii The History of the Soviet Atomic Industry (Taylor and Francis, 2002)
+Mehra, Jagdish, and Helmut Rechenberg The Historical Development of Quantum Theory. Volume 1 Part 2 The Quantum Theory of Planck, Einstein, Bohr and Sommerfeld 1900–1925: Its Foundation and the Rise of Its Difficulties. (Springer, 2001) ISBN 0-387-95175-X
+Naimark, Norman M. The Russians in Germany: A History of the Soviet Zone of Occupation, 1945–1949 (Hardcover – Aug 11, 1995) Belknap
+Sime, Ruth Lewin Lise Meitner: A Life in Physics (University of California, First Paperback Edition, 1997)
+Oleynikov, Pavel V. German Scientists in the Soviet Atomic Project, The Nonproliferation Review Volume 7, Number 2, 1 – 30  (2000).  The author has been a group leader at the Institute of Technical Physics of the Russian Federal Nuclear Center in Snezhinsk (Chelyabinsk-70).
+
+
+== External links ==
+
+Butler-Volmer Equation – Encyclopædia Britannica
+MVL – Max Volmer Laboratory for Biophysical Chemistry at the TU Berlin
+Stern–Volmer Constant – Kutztown University
+Stern–Volmer Equation – International Union of Pure and Applied Chemistry
+Two Internet sources with the same wording: Volmer – Institute of Chemistry, University of Jerusalem and Volmer – Incredible People
+Volmer – Technical University Berlin
+Volmer – Volmer.biz
+Volmer Isotherm – Biophysical Journal
+SIPT - Sukhumi Institute of Physics and Technology, on the website are published the photographs of the German nuclear physicists who had been working for the Soviet nuclear program

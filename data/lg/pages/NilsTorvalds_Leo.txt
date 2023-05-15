@@ -1,0 +1,40 @@
+Nils Ole Hilmer Torvalds (born 7 August 1945) is a Finnish politician who has been a Member of the European Parliament (MEP) since 2012. He is a member of the Swedish People's Party of Finland, part of the Alliance of Liberals and Democrats for Europe.
+Swedo-Finnish Torvalds is the son of the poet Ole Torvalds, and the father of the software engineer Linus Torvalds of Linux kernel fame.
+
+
+== Education and experience ==
+Torvalds was a member of the Communist Party of Finland from 1969 to 1982. He studied economics in Moscow and was the editor of the taistoist magazine Arbetartidningen Enhet. Torvalds has later described his communism as "rebellion". Between 1995 and 2004 Torvalds worked as a foreign correspondent for the Finnish Broadcasting Company in Moscow and Washington.Torvalds is fluent in Swedish, Finnish, English, German, and Russian and he also understands Dutch, Danish, Italian and Norwegian.
+
+
+== Political career ==
+
+
+=== Career in national politics ===
+In 2006, Torvalds joined the Swedish People's Party, and the following year he was elected to the post of the third vice chairperson. This upset some party voters due to Torvalds' past. In 2008, he was elected to Helsinki City Council for term 2009–2012.On 11 June 2017 the Swedish People's Party chose Torvalds as the party candidate for the 2018 presidential election. Some of his campaign themes were education, technology and the environment. Torvalds was the only candidate who openly supported Finland's NATO membership during his campaign. In the election, Torvalds placed last with 1.5 percent of the votes, while the incumbent president Sauli Niinistö went on to secure his second term.
+
+
+=== Member of the European Parliament ===
+Torvalds was a candidate for European Parliament election in 2009 on the Swedish People's Party list. He received 14,044 votes which was insufficient for a seat. However, on 5 July 2012, he was installed in the European Parliament, when Carl Haglund left his seat to join the Katainen Cabinet as Minister of Defence. In the 2014 European Parliament election Torvalds received about 29,000 votes and was elected.As an MEP his positions have included vice-chair of the Fisheries committee (PECH) and member of the committee for Civil Liberties, Justice and Home Affairs (LIBE). Since 2021, he has been part of the Parliament's delegation to the Conference on the Future of Europe.Torvalds has served as shadow rapporteur on the circular economy and on the biofuels directive (which became directive 2015/1513) and as rapporteur of the annual report 2018 on the European banking union.Torvalds opposed the Copyright Directive (2019) since it was first proposed, considering it unbalanced especially because of its article 13 (i.e. 17).In addition to his committee assignments, Torvalds is part of the MEPs Against Cancer group and the European Parliament Intergroup on Traditional Minorities, National Communities and Languages.Following the 2019 elections, Torvalds was part of a cross-party working group in charge of drafting the European Parliament's five-year work program on economic and fiscal policies as well as trade.
+
+
+== Linux kernel statement ==
+Linus Torvalds, the creator of the Linux kernel, joked during a LinuxCon keynote on 18 September 2013 that the NSA, creators of SELinux, wanted a backdoor in the kernel. However, later, Linus's father revealed that the NSA had actually asked for the installation of backdoors in Linux.
+When my oldest son [Linus Torvalds] was asked the same question: “Has he been approached by the NSA about backdoors?” he said “No”, but at the same time he nodded. Then he was sort of in the legal free. He had given the right answer, [but] everybody understood that the NSA had approached him.
+
+
+== Other activities ==
+Reimagine Europa, Member of the Advisory Board
+
+
+== Works ==
+Ollus, Simon-Erik; Torvalds, Nils (2005). Kaupasta kumppanuuteen : Suomen Venäjä-talousstrategia. Helsinki: Sitra. ISBN 951-37-4519-8.
+Torvalds, Nils (2008). Muodonmuutoksia : Venäjän pitkä vuosisata 1900-2008. Helsinki: Sitra. ISBN 978-951-563-635-5.
+
+
+== References ==
+
+
+== External links ==
+
+Nils Torvalds personal website (in Swedish) (in Finnish) (in English)
+Official EP website

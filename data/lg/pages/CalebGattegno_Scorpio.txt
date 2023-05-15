@@ -1,0 +1,91 @@
+Caleb Gattegno (1911–1988) was an Egyptian educator, psychologist, and mathematician. He is considered one of the most influential and prolific mathematics educators of the twentieth century. He is best known for introducing new approaches to teaching and learning mathematics (Visible & Tangible Math), foreign languages (The Silent Way) and reading (Words in Color). Gattegno also developed pedagogical materials for each of these approaches, and was the author of more than 120 books and hundreds of articles largely on the topics of education and human development.
+
+
+== Background ==
+Gattegno was born November 11, 1911, in Alexandria, Egypt. His parents, Menachem Gattegno, a Spanish merchant, and his wife, Bchora, had nine children. Because of poverty, Gattegno and his siblings had to work starting from a young age. The future mathematician had no formal education until he started to learn on his own at the age of 14. He took external examinations when he was 20 years old and obtained a teaching license in physics and chemistry from the University of Marseille in Cairo.He moved to England, where he became involved in teacher education and helped establish the Association of Teachers of Mathematics and the International Commission for the Study and Improvement of Mathematics Teaching. He taught at several universities including the University of Liverpool and the University of London.
+
+
+== Pedagogical approach ==
+Gattegno's pedagogical approach is characterised by propositions based on the observation of human learning in many and varied situations. This is a description of three of these propositions. He was also influenced by the works of Jean Piaget and worked on introducing the implications of the latter's cognitive theory on education.
+
+
+=== Learning and effort ===
+Gattegno noticed that there is an "energy budget" for learning. Human beings have a highly developed sense of the economics of their own energy and are very sensitive to the cost involved in using it. It is therefore essential to teach in ways that are efficient in terms of the amount of energy spent by learners. To be able to quantitively determine whether one method was more efficient than another, he created a unit of measurement for the effort used to learn. He called that unit an ogden, and one can only say an ogden has been spent if the learning was done outside of ordinary functionings, and was retained. For example, learning one word in a foreign language costs one ogden, but if the word cannot be recalled, the ogden has not truly been spent. Gattegno's teaching materials and techniques were designed to be economical with ogdens, so that the greatest amount of information can be recalled with the least sense of effort. In 1970s, he collaborated with the film maker Joeseph Koenig. They produced one-minute television films that featured animation contents that presented: 1) raw data on how the English language works; 2) the language's spatial ordering; 3) the effects of transformations; and, 4) the concepts of insertion, reversal, substitution, and addition.For Gattegno, certain kinds of learning are very expensive in terms of energy, i.e., ogdens, while others are practically free. Memorization is a very expensive way to learn. The energy cost can be especially high when the content is of no particular interest to the learner. Memorizing dates in history or major exports of foreign countries is like that, for most people. School is not the only place where that kind of learning is found. Learning somebody's name or telephone number is equally arbitrary. We have to use our own energy to make such arbitrary items stick in our memories. The "mental glue" necessary is expensive, since that type of learning uses up a lot of energy.
+Not only is that type of learning expensive, it tends also to be fragile. It is typically difficult to remember those kinds of items. Even when we make a great effort, we do not always succeed. We often recognise a face without being able to remember the name of the person ... not to mention all that almost all of us have forgotten much of what we "learned" at school.  It is not unusual for us to forget much of what we memorize.
+However, there is another way of functioning, which Gattegno called natural retention. An example of retention is the reception of sensory images. When we look at something – a street, a film, a person, a fine view – photons move from what we are contemplating and enter our eyes to strike the retina. When we listen to something, we create auditory images in a similar way, that is, through energy that enters our system, rather than energy we allocate from inside, to memorize an arbitrary item. To retain an auditory or visual image, we have to use perhaps only an insignificant amount of our own to retain it; the amount is so small we are not aware of any effort. Such images are easily acquired and generally remain for long periods. We all have experiences similar to the following examples Gattegno offered:
+First experience: "I recently visited a village in the south of France where I had not been for over 10 years and I was able to say, 'Oh, yes, I know. The pharmacy is over there beyond the baker's.' I went to see and there it was. I had made no effort to memorise this village square. It had entered my mind during my previous visits and it had remained there."
+Second experience: "I visit a supermarket and go down the aisles. I see an unexceptional woman with a trolley. Three aisles further on, I see her again. I have not tried to remember her, but I have seen her and I can recognise her again a little later."
+Our system of retention is extremely efficient. We keep in our minds a huge quantity of information simply because we have seen, heard, tasted, smelled or felt it. That ability is part of human nature. It enables us to walk about our town without getting lost, to ski or to read a book.
+Gattegno proposed that we should base education, not on memorization, which has a high energetic cost and is often unreliable, but on retention. The learning tools and techniques Gattegno proposed rely systematically on retention.
+
+
+=== The subordination of teaching to learning ===
+Gattegno argued that for pedagogical actions to be effective, teaching should be subordinated to learning, which requires that as an absolute prerequisite teachers must understand how people learn. Rather than present facts for memorization, teachers construct challenges for students to conquer. If the student cannot conquer the challenge easily, the teacher does not tell the answer, but observes and asks questions to determine where the confusion lies, and what awareness needs to be triggered in the student. His methodology is based on the idea that education is built around the acquisition of awareness obtained from the elements of learning.The role of teachers is not to try to transmit knowledge, but to engender acts of awareness in their students, for only awareness is educable. Gattegno created pedagogical materials designed to provoke awarenesses. The materials are intended to be used along with techniques aimed at leading students through a succession of awarenesses. As the students progress, teachers who observe their students can see when and how they can induce a new act of awareness.
+For example, he created Words in Colour for learning to read. Briefly, it consists of a series of word charts using a colour code in which each colour represents a phoneme of the language. The charts are used to provoke the phonological awareness in students of the sounds they are making and the order in which they are making them thus engendering all the awarenesses of how the graphemes relate to the phonemes and of how the spatial order of writing reflects the chronological order of speech. Other charts, called Fidels, list the graphemes used to spell each phoneme.
+He also used this colour code in The Silent Way  materials for learning foreign languages to enable students to identify and produce the sounds of the new language. The Words in Color method was one of his earliest works that generated interest. Here, Cuisenaire rods are used, particularly with beginners, to create visible and tangible situations from which the students can induce the structures of the language. The silence of the teacher both gives the students room to explore the language and frees the teacher to observe the students. The teacher is thus able to propose a sequence of pedagogical challenges adapted precisely to the evolution of the students' learning. "If I would be remembered for anything", he said in one of his last seminars, "it would be that I painted the sounds with colours."
+In his approach to teaching mathematics, manipulatives, such as Geoboards which he invented and Cuisenaire Rods which he popularised, are part of a way of systematically developing students' mathematical thinking through the exploration of clear and tangible problems.
+All the materials created by Gattegno were designed to allow teachers using them to place the accent systematically on the students' learning rather than on what they, the teachers, do. Teachers watch their students deal with the challenges they are given, and provide them with feedback on their trials and errors. Teachers thus actively base their work on the awareness and awarenesses of the students, in the here and now. It is therefore very difficult for a teacher to closely follow a detailed lesson-plan, since the students are actively exploring the domain and have the freedom to take the lesson wherever they need it to go. The class becomes a kind of guided improvisation in which the teacher launches a challenge at a suitable level for the students, and if necessary nudges them into the awarenesses they need to have in order to learn. This is the case whatever the subject being dealt with, and is what is meant by Gattegno's expression, "the subordination of teaching to learning".
+
+
+=== Only awareness is educable ===
+Gattegno found that only awareness is educable in human beings. On the path to learning, several awarenesses must be reached. The first is the awareness that there is something to be learned, some unknown to become known. The next awarenesses are triggered by experience with the subject matter. For example, rather than ask a student to write "2+2=4," Gattegno might ask them to create the number 4 in as many ways as possible with colored rods. The student can then clearly see, feel, and describe the characteristics of the number 4. Instead of memorizing "2+2=4," the student has had a mathematical experience, and become aware that "4" can be broken into parts, and that the process of breaking apart and putting together can be described in several ways.
+We are constantly becoming aware of new things. When it is something significant, the awareness is often audible in the form of the "Ah!" so typical of an important realisation. However, most realisations are made much more discretely. Indeed, as we live our everyday lives, we become aware of all sorts of things at great speed throughout the day: the price of bananas, that these bananas are not ripe enough, that the price of the yoghurts has been reduced because they are close to their sell-by date .... All our life is a succession of tiny awarenesses. Until we become aware of something, that thing remains totally unknown to us. As soon as we become aware of it and integrate it into our lives, we often no longer pay attention to it. But the moment of realisation, the act of learning, is an act of awareness.
+The role of the teacher in acts of learning is not to inform students of this or that piece of information, but to help them to discover it, to perform a conscious act to become aware of it.
+Gattegno suggests that learning takes place in four stages which can be described in terms of awareness.
+The first stage consists in a single act of awareness: the realisation that there is something new to be explored. As long as I am unaware that there is something to be known, I cannot start to learn.
+The second stage: As soon as I start to learn, I have to explore the situation in order to understand it. As I am not yet an expert in the field, I make many mistakes. These mistakes enable me to progress because by observing what happens and becoming aware of it I can adapt my attempts in relation to the feedback given by the environment. This stage ends when I know what I have to do, but I only succeed when I am wholly present in what I am doing.
+The third stage is a transitional stage. At the beginning, I am able to do what I want if I pay attention at each instant. At the end of this stage I no longer need to pay attention: the new skill has become completely automatic and because it is automatic, I am free to give my attention to learning other things.
+The fourth stage is that of transfer. For the rest of my life, what I have learnt can be used for all the new skills I may wish to acquire. When I learnt to run, I used the know-how I had acquired from learning to walk. Both of these, walking and running, were useful to me when I decided to learn cross-country skiing. Each skill remains available, except in the rare cases of accident or injury, for a lifetime.
+
+
+== Timeline ==
+1911 - Caleb Gattegno was born in Alexandria, Egypt, on November 11.
+1932 - Mathematics teacher at the Lycée Français in Alexandria until 1936.
+1937 - Earned a Doctorate in mathematics at the University of Basel: Les cas essentiellement géodésiques des équations de Hamilton-Jacobi intégrables par séparation des variables.
+1944 - Began publishing books and  articles in scientific and other journals. By 1988, he had written about 120 books and 500 articles.
+1947 -  Began running seminars for international groups, mainly in Europe, in North and South America and in Japan. He continued these seminars until his death.
+1948 - Earned a Master of Arts in education at The University of London.
+1951 - Founded the International Commission for the Study and Improvement of Mathematics Education (CIEAEM).
+1952 - Earned a Docteur ès lettres (Philosophy) at the University of  Lille.
+1952 - Founded The Association for Teaching Aids in Mathematics (ATAM), which became The Association of Teachers of Mathematics (ATM) (currently about 4000 members), and its journal Mathematics Teaching which is published 4 times a year. In 2011 the ATM Conference - Celebrating Gattegno took place from Monday 18 to Thursday 21 April at Wolverhampton University, Telford, England.
+1952 - Participated in the founding of the Société Belge des Professeurs de Mathématique d'expression française and its journal Mathematica et Paedagogia.
+1952 - Worked with Jean Piaget translating two of Piaget's works into English.
+1954 - Founded The Cuisenaire Company in England, and was director until 1986.
+1957 - Member of a United Nations (Technical Assistance) mission to Ethiopia with the object of finding a solution to the problem of illiteracy.
+1961 - The release of the film Mathematics at Your Fingertips.
+1962 - First English edition of Words in Color released.
+1968 - Founded Educational Solutions in New York where he lived until his death in 1988.
+1971 - Began publishing the Educational Solutions Newsletter five times a year until 1988.
+1988 - Died in Paris two weeks after having run the seminar Le mystère de la communication near Grenoble.
+
+
+== Bibliography ==
+(1954) "The Gattegno Geoboards" in Bulletin of the Association for Teaching Aids in Mathematics, N°.3.
+(1954) with Georges Cuisenaire, "Numbers in colour," Heinemann
+(1960) "Now Johnny Can Do Arithmetic," Educational Explorers, Reading.
+(1962) "Words in Colour - Teachers' Guide," Educational Explorers, Reading.
+(1963) "Teaching foreign languages in schools - the Silent Way," Educational Solutions, New York.
+(1969) "Towards a Visual Culture," Outerbridge & Dienstfrey, New York.
+(1970) "What We Owe Children, The Subordination of Teaching to Learning," Outerbridge and Diensfrey, New York.
+
+
+== References ==
+
+
+== External links ==
+
+Bronx Charter School for Better Learning: Public Charter School in NY Based on Gattegno's Approach
+Wiki Created by Teachers Endeavoring to Practice the Subordination of Teaching to Learning
+Bibliography for Caleb Gattegno
+Gattegno Bibliography on the Cuisenaire Company
+ATM People • Caleb Gattegno
+The Cuisenaire Company
+Caleb Gattegno: A famous mathematics educator from Africa on Rutgers University
+Biography on Mathematicians of the African Diaspora
+Silent Way on Une Education Pour Demain
+Language and Reality
+Didactique des premiers automatismes linguistiques
+Pédagogie et langage à l'étude du cinéma
+Biography on MathsBank blog
+Gattegno's Cuisenaire rods in the language classroom
+https://www.eflmagazine.com/the-cuisenaire-rods-in-language-learning-classroom-article-1/

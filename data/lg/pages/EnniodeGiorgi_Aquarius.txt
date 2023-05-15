@@ -1,0 +1,61 @@
+Ennio De Giorgi (8 February 1928 – 25 October 1996), a member of the House of Giorgi, was an Italian mathematician who worked on partial differential equations and the foundations of mathematics.
+
+
+== Mathematical work ==
+De Giorgi's first work was in geometric measure theory, on the topic of the sets of finite perimeters which he called in 1958 as Caccioppoli sets, after his mentor and friend. His definition applied some important analytic tools and the De Giorgi's theorem for the sets established a new tool for set theory as well as his own works. This achievement not only brought Ennio immediate recognition but displayed his ability to attack problems using completely new and effective methods which, though conceived before, can be used with greater precision as shown in his research works.
+He solved Bernstein's problem about minimal surfaces for 8 dimensions in 1969 with Enrico Bombieri and Enrico Giusti, 
+for which Bombieri won the Fields Medal in 1974.His earliest work was on the aim to develop a regularity theory for minimal hypersurfaces, changing how we view the advanced theory of minimal surfaces and calculus of variations forever. The proof required De Giorgi to develop his own version of geometric measure theory along with a related key compactness theorem. With these results, he was able to conclude that a minimal hypersurface is analytic outside a closed subset of codimension at least two. He also established regularity theory for all minimal surfaces in a similar manner.
+He solved 19th Hilbert problem on the regularity of solutions of elliptic partial differential equations. Before his results, mathematicians were not able to venture beyond second order nonlinear elliptic equations in two variables. In a major breakthrough, De Giorgi proved that solutions of uniformly elliptic second order equations of divergence form, with only measurable coefficients, were Hölder continuous. His proof was proved in 1956/57 in parallel with John Nash's, who was also working on and solved Hilbert's problem. His results were the first to be published, and it was anticipated that either mathematician would win the 1958 Fields Medal, but it was not to be. Nevertheless, de Giorgi's work opened up the field of nonlinear elliptic partial differential equations in higher dimensions which paved a new period for all of mathematical analysis.
+Almost all of his work relates to partial differential equations, minimal surfaces and calculus of variations; these notify the early triumphs of the then-unestablished field of geometric analysis. The work of Karen Uhlenbeck, Shing-Tung Yau and many others have taken inspiration from De Giorgi which have been and continue to be extended and rebuilt in powerful and effective mannerisms.
+De Giorgi's conjecture for boundary reaction terms in dimension ≤ 5 was solved by Alessio Figalli and Joaquim Serra, which was one of the results mentioned in Figalli's 2018 Fields Medal lecture given by Luis Caffarelli.
+His work on minimal surfaces, partial differential equations and calculus of variations earned him huge and lasting fame in the mathematical community, and was awarded many honours for his contributions, including the Caccioppoli Prize in 1960, the National Prize of Accademia dei Lincei from the President of the Italian Republic in 1973, and the Wolf Prize from the President of the Israel Republic in 1990. He was also awarded Honoris Causa degrees in Mathematics from the University of Paris in 1983 at a ceremony at the Sorbonne and in Philosophy from the University of Lecce in 1992. He was elected to many academies including the Accademia dei Lincei, the Pontifical Academy of Sciences, the Academy of Sciences of Turin, the Lombard Institute of Science and Letters, the Académie des Sciences in Paris, and the National Academy of Sciences of the United States. At the International Congress of Mathematicians he was invited to be plenary speaker in 1966 in Moscow and was an invited speaker in 1983 in Warsaw.He was associated for many years with the Scuola Normale Superiore in Pisa, leading one of the brilliant schools of analysis in Europe at that time. He corresponded with many leading mathematicians of his time, such as Louis Nirenberg,  John Nash, Jacques-Louis Lions and Renato Caccioppoli. He is largely responsible for leading and driving the Italian school of mathematical analysis in the second half of 20th century to an international level.
+Ennio de Giorgi was also a  person of deep human, religious and philosophical values; he once noted that mathematics is the key to discovering the secrets of God. His work with Amnesty International in the 70s greatly  extended his already-immense fame within and outside of his scientific career. He also taught mathematics at the University of Asmara, Eritrea from 1966 to 1973. He died on 26 October 1996 at the age of 68.In 2016, a conference was held at the Scuola Normale in Pisa in memory of de Giorgi, and mathematicians like Camillo de Lellis, Irene Fonseca, Pierre-Louis Lions, Haïm Brezis, Alessio Figalli, David Kinderlehrer, Nicola Fusco, Felix Otto, Giuseppe Mingione and Louis Nirenberg have attended the event along with his many students such as Ambrosio and Braides who have been responsible for organizing it at the SNS.
+
+
+== Quotes ==
+"If you can't prove your theorem, keep shifting parts of the conclusion to the assumptions, until you can"
+
+
+== Selected publications ==
+
+
+=== Articles ===
+
+
+==== Scientific papers ====
+De Giorgi, Ennio (1953), "Definizione ed espressione analitica del perimetro di un insieme" [Definition and analytical expression of the perimeter of a set], Atti della Accademia Nazionale dei Lincei, Rendiconti della Classe di Scienze Fisiche, Matematiche e Naturali, 8 (in Italian), 14: 390–393, MR 0056066, Zbl 0051.29403. The first note published by De Giorgi on his approach to Caccioppoli sets.
+De Giorgi, Ennio (1954), "Su una teoria generale della misura (r-1)-dimensionale in uno spazio ad r dimensioni" [On a general theory of (r - 1)-dimensional measure in r-dimensional space], Annali di Matematica Pura ed Applicata, IV (in Italian), 36 (1): 191–213, doi:10.1007/BF02412838, hdl:10338.dmlcz/126043, MR 0062214, S2CID 122418733, Zbl 0055.28504. The first complete exposition of his approach to the theory of Caccioppoli sets by De Giorgi.
+De Giorgi, Ennio; Ambrosio, Luigi (1988), "Un nuovo tipo di funzionale del calcolo delle variazioni" [A new kind of functional in the calculus of variations], Atti della Accademia Nazionale dei Lincei, Rendiconti della Classe di Scienze Fisiche, Matematiche e Naturali, 8 (in Italian and English), 82 (2): 199–210, MR 1152641, Zbl 0715.49014. The first paper on SBV functions and related variational problems.
+Ambrosio, Luigi; De Giorgi, Ennio (1988), "Problemi di regolarità per un nuovo tipo di funzionale del calcolo delle variazioni" [Regularity problemsa for a new kind of functional in the calculus of variations], Atti della Accademia Nazionale dei Lincei, Rendiconti della Classe di Scienze Fisiche, Matematiche e Naturali, 8 (in Italian and English), 82 (4): 673–678, MR 1139814, Zbl 0735.49036.
+
+
+==== Review papers ====
+De Giorgi, Ennio (1992), "Problemi variazionali con discontinuità libere",  in Amaldi, E.; Amerio, L.; Fichera, G.; Gregory, T.; Grioli, G.; Martinelli, E.; Montalenti, G.; Pignedoli, A.; Salvini, Giorgio; Scorza Dragoni, Giuseppe (eds.), Convegno internazionale in memoria di Vito Volterra (8–11 ottobre 1990) [International congress in memory of Vito Volterra (October 8–11, 1990)], Atti dei Convegni Lincei (in Italian), vol. 92, Roma: Accademia Nazionale dei Lincei, pp. 39–76, ISSN 0391-805X, MR 1783032, Zbl 1039.49507, archived from the original on January 7, 2017, retrieved July 26, 2015. "Free-discontinuity variational problems" (English translation of the title) is a survey paper on free-discontinuity variational problems including several details on the theory of SBV functions, their applications and a rich bibliography (in Italian).
+
+
+=== Books ===
+De Giorgi, Ennio; Colombini, Ferruccio; Piccinini, Livio (1972), Frontiere orientate di misura minima e questioni collegate [Oriented boundaries of minimal measure and related questions], Quaderni (in Italian), Pisa: Edizioni della Normale, p. 180, MR 0493669, Zbl 0296.49031. An advanced text, oriented to the theory of minimal surfaces in the multi-dimensional setting, written by some of the leading contributors to the theory.
+De Giorgi, Ennio (2006),  Ambrosio, Luigi; Dal Maso, Gianni; Forti, Marco; Miranda, Mario; Spagnolo, Sergio (eds.), Selected papers, Springer Collected Works in Mathematics, Berlin–Heidelberg–New York: Springer-Verlag, doi:10.1007/978-3-642-41496-1, ISBN 978-3-540-26169-8, MR 2229237, Zbl 1096.01015 A selection from De Giorgi's scientific works, offered in an amended typographical form, in the original Italian language and English translation, including a biography, a bibliography and commentaries from Luis Caffarelli and other noted mathematicians.
+
+
+== See also ==
+Caccioppoli set
+Calculus of variations
+Elliptic partial differential equation
+Minimal surface
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Centro di ricerca matematica "Ennio de Giorgi", 2001, retrieved May 21, 2011: web page of the scientific institution named after him at the Scuola Normale Superiore in Pisa.
+De Giorgi, Ennio (2001), Homepage, retrieved May 21, 2011 available at the web site of the Research Group in Calculus of Variations and Geometric Measure Theory, Scuola Normale Superiore, Pisa.
+Ennio De Giorgi at the Mathematics Genealogy Project
+Emmer, Michele (July 1996), Ennio De Giorgi (in Italian), archived from the original on May 25, 2011, retrieved 21 May 2011. A video interview with its Italian transcription by Antonio Bernardo, available at Matematicamente thanks to the kind permission of Michele Emmer, of De Giorgi's family and of the Unione Matematica Italiana.
+O'Connor, John J.; Robertson, Edmund F., "Ennio de Giorgi", MacTutor History of Mathematics archive, University of St Andrews
+Giornata in ricordo di Ennio De Giorgi (Meeting Day in memory of Ennio De Giorgi) (in Italian), Dipartimento di Matematica L. Tonelli, Faedo Hall: Università di Pisa, November 30, 2006, retrieved May 21, 2011.
+Workshop "The Mathematics of Ennio De Giorgi, Pisa: Scuola Normale Superiore, October 24–27, 2001, retrieved May 21, 2011.

@@ -1,0 +1,35 @@
+Hugh Christopher Longuet-Higgins  (11 April 1923 – 27 March 2004) was a British scholar and teacher. He was the Professor of Theoretical Chemistry at the University of Cambridge for 13 years until 1967 when he moved to the University of Edinburgh to work in the developing field of cognitive science. He made many significant contributions to our understanding of molecular science. He was also a gifted amateur musician, both as performer and composer, and was keen to advance the scientific understanding of this art. He was the founding editor of the journal Molecular Physics.
+
+
+== Education and early life ==
+Longuet-Higgins was born on 11 April 1923 at The Vicarage, Lenham, Kent, England, the elder son and second of the three children of Henry Hugh Longuet Longuet-Higgins (1886-1966), vicar of Lenham, and his wife, Albinia Cecil Bazeley. He was educated at The Pilgrims' School, Winchester, and Winchester College. At Winchester College he was one of the "gang of four" consisting of himself, his brother Michael, Freeman Dyson and James Lighthill. In 1941, he won a scholarship to Balliol College, Oxford. He read chemistry, but also took Part I of a degree in Music. He was a Balliol organ scholar. As an undergraduate he proposed the correct bridged structure of the chemical compound diborane (B2H6), whose structure was then unknown and turned out to be different from structures predicted by contemporary valence bond theory. This was published with his tutor, R. P. Bell. He completed a Doctor of Philosophy degree in 1947 at the University of Oxford under the supervision of Charles Coulson.
+
+
+== Career and research ==
+After his D.Phil, Longuet-Higgins did postdoctoral research at the University of Chicago and the University of Manchester. In 1952, he was appointed Professor of Theoretical Physics at King's College London, and in 1954 was appointed John Humphrey Plummer Professor of Theoretical Chemistry at the University of Cambridge, and a Fellow of Corpus Christi College, Cambridge. He was the first warden of Leckhampton House, a Corpus Christi College residence for postgraduate students. While at Cambridge he made many original contributions in the field of theoretical chemistry, and he was perhaps unfortunate not to receive the Nobel prize for his work. Among the most important were his discovery of Geometric phase at the conical intersection of potential energy surfaces, his introduction of the correlation diagram approach to the study of Woodward-Hoffmann rules, and his introduction of nuclear permutation-inversion symmetry groups for the study of molecular symmetry.
+In his later years at Cambridge he became interested in the brain and the new field of artificial intelligence. As a consequence, in 1967, he made a major change in his career by moving to the University of Edinburgh to co-found the Department of Machine intelligence and perception, with Richard Gregory and Donald Michie.
+In 1974 he moved to the Centre for Research on Perception and Cognition (in the Department of Experimental Psychology) at Sussex University, Brighton, England. In 1981 he introduced the essential matrix to the computer vision community in a paper which also included the eight-point algorithm for the estimation of this matrix.
+He retired in 1988. Following his retirement he examined the problem of how to automate the process of performing music from a score. This work was never published, but his notebooks were meticulously kept and the research is available for reconstruction. The letters, papers and allied material are archived at the Royal Society. One of his latest publications on music cognition was published in Philosophical Transactions A.An example of Longuet-Higgins's writings, introducing the field of music cognition:
+ Longuet-Higgins (1979): — 
+You're browsing, let us imagine, in a music shop, and come across a box of faded pianola rolls. One of them bears an illegible title, and you unroll the first foot or two, to see if you can recognize the work from the pattern of holes in the paper. Are there four beats in the bar, or only three? Does the piece begin on the tonic, or some other note? Eventually you decide that the only way of finding out is to buy the roll, take it home, and play it on the pianola. Within seconds your ears have told you what your eyes were quite unable to make out—that you are now the proud possessor of a piano arrangement of "Colonel Bogey". 
+His work on developing computational models of music understanding was recognized in the nineties by the award of an Honorary Doctorate of Music by the University of Sheffield. At the time of his death (in 2004) he was Professor Emeritus at the University of Sussex.
+
+
+=== Honours and awards ===
+Christopher Longuet-Higgins was elected a Fellow of the Royal Society in 1958, a Foreign Associate of the US National Academy of Sciences in 1968 a Fellow of the Royal Society of Edinburgh (FRSE) in 1969, and a Fellow of the Royal Society of Arts (FRSA) in 1970. He was a Fellow of the International Academy of Quantum Molecular Science. He had honorary doctorates from the universities of Bristol, Essex, Sheffield, Sussex and York. Among his notable prizes were the Jasper Ridley prize in music from Balliol College, Oxford, the Harrison memorial prize from the Chemical Society, and the Naylor prize from the London Mathematical Society. He was a governor of the BBC from 1979 to 1984.
+In 2005 the Longuet-Higgins Prize for "Fundamental Contributions in Computer Vision that Have Withstood the Test of Time" was created in his honor. The prize is awarded every year at the IEEE Computer Vision and Pattern Recognition Conference for up to two distinguished papers published at that same conference ten years earlier.
+
+
+== Personal life ==
+Longuet-Higgins died on 27 March 2004, aged 80. Although he respected many of the features of the Church of England, he was an atheist.
+
+
+== See also ==
+Geometric phase
+Diborane § History
+William Lipscomb § Boron chemistry and the nature of the chemical bond
+Woodward-Hoffmann rules § Correlation diagrams
+Molecular Symmetry § Molecular rotation and molecular nonrigidity
+
+
+== References ==

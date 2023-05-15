@@ -1,0 +1,32 @@
+Giuseppe Veronese (7 May 1854 – 17 July 1917) was an Italian mathematician. He was born in Chioggia, near Venice.
+
+
+== Education ==
+Veronese earned his laurea in mathematics from the Istituto Tecnico di Venezia in 1872.
+
+
+== Work ==
+Although Veronese's work was severely criticised as unsound by Peano, he is now recognised as having priority on many ideas that have since become parts of transfinite numbers and model theory, and as one of the respected authorities of the time, his work served to focus Peano and others on the need for greater rigor.
+He is particularly noted for his hypothesis of relative continuity which was the foundation for his development of the first non-Archimedean linear continuum.
+Veronese produced several significant monographs. The most famous appeared in 1891, Fondamenti di geometria a più dimensioni e a più specie di unità rettilinee esposti in forma elementare, normally referred to as Fondamenti di geometria to distinguish it from Veronese' other works also styled Fondamenti. It was this work that was most severely criticised by both Peano and Cantor, however Levi-Civita described it as masterful and Hilbert as profound.
+
+
+== See also ==
+Veronese surface
+
+
+== References ==
+
+Philip Ehrlich (ed) Real Numbers, Generalisations of the Reals, and Theories of Continua, 1994.
+Paola Cantu', Giuseppe Veronese e i fondamenti della geometria [Giuseppe Veronese and the Foundations of Geometry], Milano, Unicopli, "Biblioteca di cultura filosofica, 10", 1999, 270 pp. ISBN 978-88-400-0589-8.
+Philip Ehrlich: The rise of non-Archimedean mathematics and the roots of a misconception. I. The emergence of non-Archimedean systems of magnitudes. Archive for History of Exact Sciences 60 (2006), no. 1, 1–121.
+
+
+== External links ==
+O'Connor, John J.; Robertson, Edmund F., "Giuseppe Veronese", MacTutor History of Mathematics archive, University of St Andrews
+Fondamenti di geometria, full text in Italian, as HTML and as image files.
+Foundations of geometry in higher dimensions and more species of rectilinear units exposed in elemental form. Lessons for school teaching in mathematics, full text in Google-English translation.
+Grundzüge der Geometrie von mehreren Dimensionen und mehreren Arten gradliniger Einheiten in elementarer Form entwickelt,  1894, German translation.
+Peano's dismissal of Veronese' work.
+'Generic points' attributed to Veronese.
+Biography & Bibliography by P. Cantù

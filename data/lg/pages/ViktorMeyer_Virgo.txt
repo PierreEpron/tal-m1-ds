@@ -1,0 +1,75 @@
+Viktor Meyer (8 September 1848 – 8 August 1897) was a German chemist and significant contributor to both organic and inorganic chemistry. He is best known for inventing an apparatus for determining vapour densities, the Viktor Meyer apparatus, and for discovering thiophene, a heterocyclic compound. He is sometimes referred to as Victor Meyer, a name used in some of his publications.
+
+
+== Early life ==
+Viktor Meyer was born in Berlin in 1848, the son of trader and cotton printer Jacques Meyer and mother, Bertha. His parents were Jewish, though he was not actively raised in the Jewish faith. Later, he was confirmed in a Reform Jewish congregation. He married a Christian woman, Hedwig Davidson, and raised his children as such. He entered the gymnasium at the age of ten in the same class as his two-year older brother Richard. Although he had excellent science skills his wish to become an actor was based on his love for poetry. At a visit from his brother Richard, who was studying chemistry at the University of Heidelberg, he became attracted to chemistry.In 1865, when not yet 17 years old but pushed by his parents, Meyer began studying chemistry at the University of Berlin, the same year that August Wilhelm von Hofmann succeeded Eilhard Mitscherlich as the Chair of Chemistry there. After one semester, Meyer went to Heidelberg to work under Robert Bunsen, where he also heard lectures on organic chemistry by Emil Erlenmeyer. As no research was required under Bunsen at the time, Meyer received his doctorate in 1867, at the age of 19. This opened the doors to a very successful career in which he became one of the most important chemists of his time.
+
+
+== Work ==
+Meyer stayed one year with Bunsen for an area wide analysis of spring water. Besides this he was also able to teach some Ph.D. students. In Berlin he joined the group of Adolf Baeyer, one of his best friends in later life, attacking among other problems that of the composition of camphor.At the age of 23 on Baeyer's recommendation, Meyer was engaged by Fehling as his assistant at Stuttgart Polytechnic, but within a year he left to succeed Johannes Wislicenus at Zurich. There he remained for thirteen years, and it was during this period that he devised his well-known method for determining vapour densities, and carried out his experiments on the dissociation of the halogens. In 1882, on the death of Wilhelm Weith (1844–1881), professor of chemistry at Zurich University, he undertook to continue the lectures on benzene derivatives, and this led him to the discovery of thiophen. In 1885 he was chosen to succeed Hans Hübner (1837–1884) in the professorship of chemistry at Göttingen University, where stereo-chemical questions especially engaged his attention; and in 1889, on the resignation of his old master, Bunsen, he was appointed to the chair of chemistry in Heidelberg University. He died on 8 August 1897.
+
+
+== Health and suicide ==
+
+Overworked and overtaxed, Meyer's mental status suffered, leading to several minor and major nervous breakdowns during the last years of his life. He always failed to recover completely, yet continued working. He took pills to fall asleep, but these had a damaging effect on his nervous system. In one of his depressions, Meyer decided to take his own life, and committed suicide by taking cyanide. He died at the age of 48 during the night of 7–8 August 1897 in Heidelberg, just one month away from 49.
+
+
+== Career ==
+
+
+=== Professional accomplishments ===
+
+
+=== Scientific contributions ===
+Synthesis of aromatic carboxylic acids from sulfonic acid and formates (1869).
+Nitroalkanes from alkyl iodides and silver nitrite (1872), used to distinguish 1°, 2°, 3° alcohols, known as the Victor Meyer test.
+Discovery of nitrolic acids (with Locher in 1874).
+Development of a method to distinguish primary, secondary, and tertiary nitroalkanes (1875).
+Starting with studying physical chemistry in 1876, Meyer created a new method for determining gas density in 1878. This method allowed him to demonstrate how arsenious oxide vapours corresponded to the formula As4O6, that mercury, zinc and cadmium yielded monatomic vapours, and that halogen molecules dissociated into atoms on heating, a phenomenon which he studied until his death. The Victor Meyer apparatus accurately measures the volume of a volatilized substance from which the vapor density of the gas can be derived and also the relative mass.
+Proposing glucose is an aldehyde and not a ketone, hereby correcting von Baeyer and van't Hoff (1880).
+Synthesis of aldoximes and ketoximes from hydroxylamine and aldehydes or ketones, hereby discovering a new structural identification and elucidation method (1882, together with Alois Janny).
+Identification of thiophene as a contaminant in benzene derived from coal (1882). Benzene produced by decarboxylation of benzoic acid did not contain this impurity.
+First reliable synthesis of pure sulfur mustard (1886, also see Meyer's account on sulfur mustard)
+Coining of the concepts of stereochemistry and dipole in 1888. Meyer had always been interested in stereochemical problems and was one of the first ones to instruct his pupils with van't Hoff's theory of asymmetric carbon and the Hantzsch-Werner theory.
+Discovery of iodoso compounds in 1892 by reacting o-iodobenzoic acid with nitric acid.
+Observation (1892) that ortho-substituted benzoic acid derivatives are esterified with difficulty. This principle is now known as the Victor Meyer esterification law and was discovered in an attempt to esterify o-iodosobenzoic acid.
+Discovery of iodonium compounds by reacting iodobenzene and iodosobenzene (1894).
+
+
+=== Books ===
+Meyer wrote several notable books:
+
+Tabellen zur qualitativen Analyse (1884, written together with Frederick Treadwell)
+Pyrochemische Untersuchungen (1885)
+Die Thiophengruppe (1888)
+Chemische Probleme der Gegenwart (1890)
+Ergebnisse und Ziele der Stereochemischen Forschung (1890)
+Lehrbuch der organischen Chemie (1893, written together with Paul Jacobson. A very popular book at the time that has been reprinted and reedited several times) Digital editions by the University and State Library Düsseldorf
+Märztage im kanarischen Archipel, ein Ferienausflug nach Teneriffa und Las Palmas (1893, travel guide)
+
+
+=== Honors ===
+In recognition of his brilliant experimental powers, and his numerous contributions to chemical science, he was awarded the Davy Medal by the Royal Society in 1891.
+
+
+== Notes ==
+
+
+== References ==
+Attribution:
+
+This article incorporates text from a publication now in the public domain: Chisholm, Hugh, ed. (1911). "Meyer, Victor". Encyclopædia Britannica. Vol. 18 (11th ed.). Cambridge University Press. p. 349.
+
+
+== Further reading ==
+Bugge, G (1955). Das Buch der grossen Chemiker. Verlag Chemie GmbH.
+Lippmann, E von (1921). Zeittafeln zur Geschichte der organischen Chemie. Julius Springer.
+Lunge, G. (1897). "Victor Meyer". Zeitschrift für Angewandte Chemie. 10 (24): 777–779. Bibcode:1897AngCh..10..777L. doi:10.1002/ange.18970102402.
+Meyer, Richard (1908). "Victor Meyer. 1848 - 1897". Berichte der deutschen chemischen Gesellschaft. 41 (3): 4505–4718. doi:10.1002/cber.190804103190.
+Meyer, Richard (1917). Victor Meyer. Leben und Wirken eines deutschen Chemikers und Naturforschers, 1848-1897. Akademische Verlagsgesellschaft.(note: Richard Meyer is Victor Meyer's brother).
+Pötsch, W (1989). Lexikon bedeutender Chemiker. VEB Bibliographisches Institut Leipzig. ISBN 3-8171-1055-3.
+Richardson, G. M. (1897). "Obituary (for Viktor Meyer)". Journal of the American Chemical Society. 19 (11): 918–921. doi:10.1021/ja02085a010.
+
+
+== External links ==
+"Meyer, Victor" . Encyclopedia Americana. 1920.

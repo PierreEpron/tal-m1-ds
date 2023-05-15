@@ -1,0 +1,36 @@
+Ryogo Kubo (久保 亮五, Kubo Ryōgo, February 15, 1920 – March 31, 1995)  was a Japanese mathematical physicist, best known for his works in statistical physics and non-equilibrium statistical mechanics.
+
+
+== Work ==
+In the early 1950s, Kubo transformed research into the linear response properties of near-equilibrium condensed-matter systems, in particular the understanding of electron transport and conductivity, through the Kubo formalism, a Green's function approach to linear response theory for quantum systems. In 1977 Ryogo Kubo was awarded the Boltzmann Medal for his contributions to the theory of non-equilibrium statistical mechanics, and to the theory of fluctuation phenomena. He is cited particularly for his work in the establishment of the basic relations between transport coefficients and equilibrium time correlation functions: relations with which his name is generally associated.
+
+
+== Publications ==
+Books available in EnglishStatistical mechanics : an advanced course with problems and solutions / Ryogo Kubo, in cooperation with Hiroshi Ichimura, Tsunemaru Usui, Natsuki Hashitsume (1965, 7th edit.1988)
+Many-body theory : lectures / edited by Ryōgo Kubo (1966)
+Dynamical processes in solid state optics / edited by Ryōgo Kubo and Hiroshi Kamimura(1967)
+Thermodynamics : an advanced course with problems and solutions / Kubo Ryogo (1968)
+Statistical physics of charged particle systems / edited by Ryogo Kubo and Taro Kihara (1969)
+Solid state physics / edited by Ryogo Kubo and Takeo Nagamiya ; translator, Scripta-Technica, Inc. ; editor of English ed., Robert S. Knox (1969)
+Physics of quantum fluids / edited by Ryōgo Kubo and Fumihiko Takano (1971)
+Relaxation of elementary excitations : proceedings of the Taniguchi International Symposium, Susono-shi, Japan, October 12–16, 1979 / editors, R. Kubo and E. Hanamura (1980)
+Selected papers of professor Ryogo Kubo on the occasion of his sixtieth birthday / edited by Executive Committee on the Commemoration of Professor Kubo's Sixtieth Birthday (1980)
+Statistical physics / M. Toda, R. Kubo, N. Saitō (1983–1985)
+Equilibrium statistical mechanics / M. Toda, R. Kubo, N. Saitô (1983 2nd edit. 1992)
+Nonequilibrium statistical mechanics / R. Kubo, M. Toda, N. Hashitsume (1985 2nd edit. 1991)
+Evolutionary trends in the physical sciences : proceedings of the Yoshio Nishina centennial symposium, Tokyo, Japan, December 5–7, 1990 (1991)ArticlesRyogo Kubo; Kazuhisa Tomita (1954). "A General Theory of Magnetic Resonance Absorption". Journal of the Physical Society of Japan. Physical Society of Japan. 9 (6): 888–919. Bibcode:1954JPSJ....9..888K. doi:10.1143/JPSJ.9.888.
+Kubo, Ryogo (1957). "Statistical-mechanical theory of irreversible processes. 1. general theory and simple applications to magnetic and conduction problems". J. Phys. Soc. Jpn. 12 (6): 570. Bibcode:1957JPSJ...12..570K. doi:10.1143/JPSJ.12.570. – cited more than 4300 times on Web of Science.
+
+
+== See also ==
+Brendan Scaife
+List of notable textbooks in statistical mechanics
+Timeline of thermodynamics, statistical mechanics, and random processes
+
+
+== References ==
+
+
+== External links ==
+A Japanese physicist's view of Leiden (In 1981 Kubo was Lorentz Professor in Leiden)
+Publication list. Kyoto University.

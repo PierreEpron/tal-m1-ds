@@ -1,0 +1,21 @@
+Horst Feistel (January 30, 1915 – November 14, 1990) was a German-American cryptographer who worked on the design of ciphers at IBM, initiating research that culminated in the development of the Data Encryption Standard (DES) in the 1970s. The structure used in DES, called a Feistel network, is commonly used in many block ciphers.
+
+
+== Life and work ==
+Feistel was born in Berlin, Germany in 1915, and moved to the United States in 1934. During World War II, he was placed under house arrest, but gained US citizenship on 31 January 1944. The following day he was granted a security clearance and began work for the US Air Force Cambridge Research Center (AFCRC) on Identification Friend or Foe (IFF) devices until the 1950s. He was subsequently employed at MIT's Lincoln Laboratory, then the MITRE corporation. Finally, he moved to IBM, where he received an award for his cryptographic work. His research at IBM led to the development of the Lucifer and Data Encryption Standard (DES) ciphers. Feistel was one of the earliest non-government researchers to study the design and theory of block ciphers.
+Feistel lent his name to the Feistel network construction, a common method for constructing block ciphers (for example DES).
+Feistel obtained a bachelor's degree at MIT, and his master's at Harvard, both in physics. He married Leona (Gage) in 1945, with whom he had a daughter, Peggy.
+
+
+== Notes ==
+
+
+== References ==
+Whitfield Diffie, Susan Landau (1998). Privacy on the Line: The Politics of Wiretapping and Encryption.
+Horst Feistel, "Cryptography and Computer Privacy." Scientific American, Vol. 228, No. 5, 1973. (JPEG format scanned)
+Horst Feistel, H, W. Notz, J. Lynn Smith. "Some cryptographic techniques for machine-to-machine data communications." IEEE Proceedings, 63(11), 1545–1554, 1975.
+Levy, Steven. Crypto: How the Code Rebels Beat the Government—Saving Privacy in the Digital Age, 2001.
+
+
+== External links ==
+"Genealogical notes for Horst Feistel". Archived from the original on 2016-03-04.

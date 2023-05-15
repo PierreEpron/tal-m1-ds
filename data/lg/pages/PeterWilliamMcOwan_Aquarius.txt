@@ -1,0 +1,17 @@
+Peter William McOwan was a Professor of Computer Science in the School of Electronic Engineering and Computer Science at Queen Mary, University of London. His research interests were in visual perception, mathematical models for visual processing, in particular motion, cognitive science and biologically inspired hardware and software and science outreach.
+
+
+== Biography ==
+As Vice President for Public Engagement and Student Enterprise at Queen Mary, University of London, McOwan was involved in a number of projects  to enhance understanding and interest in Computer Science and Artificial Intelligence. These include being a co-founder of Computer Science for Fun that promotes Computer Science in schools with its website, free magazines and booklets with Paul Curzon and partner of the OurSpace  project that documents the space experiences of video game developer and astronaut, Richard Garriott.As a result of this work in 2011 he was awarded the IET Mountbatten medal, and was elected a National Teaching Fellow by the Higher Education Academy in 2008.
+
+
+== Key publications ==
+McOwan is coauthor of over 120 papers across a wide range of disciplines, having accumulated over 5000 citations as of 2019. The most cited articles include:
+
+Facial expression recognition based on local binary patterns: A comprehensive study
+A real-time automated system for the recognition of human facial expressions 
+A computational model of the analysis of some first-order and second-order motion patterns by simple and complex cells 
+A paper he co-authored in 2009 "Detecting User Engagement with a Robot Companion Using Task and Social Interaction Features" was given the Ten-Year Technical Impact Award at the International Conference on Multimodal Interaction 2019
+
+
+== References ==

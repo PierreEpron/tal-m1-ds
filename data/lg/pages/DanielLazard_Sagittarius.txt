@@ -1,0 +1,22 @@
+Daniel Lazard (born December 10, 1941) is a French mathematician and computer scientist. He is emeritus professor at Pierre and Marie Curie University.
+
+
+== Career ==
+Daniel Lazard was born in Carpentras, in southern France. His undergraduate education was at the École Normale Supérieure. Following graduate work at the École Normale Supérieure and the University of Paris, he was granted a doctorat d'état in 1968 by the University of Paris.  His dissertation was supervised by the commutative algebraist Pierre Samuel, and was titled "Autour de la platitude" ("Around flatness", or literally "Around the platitude").After 1970, his main area of research changed to computer algebra, particularly multivariate polynomials,  computational algebraic geometry and systems of polynomial equations. To mark his retirement at the end of 2004, there was a conference at Pierre and Marie Curie University devoted to his subject area. In 2009, a special issue of the Journal of Symbolic Computation was published in his honor. To date, Lazard has authored or co-authored more than 40 journal articles, book chapters, conference papers, and other publications.
+
+
+== Selected articles ==
+Lazard, Daniel (1969), "Autour de la platitude", Bulletin de la Société Mathématique de France (in French), 97: 81–128, doi:10.24033/bsmf.1675
+Lazard, Daniel (1981), "Résolution des systèmes d'équations algébriques", Theoretical Computer Science (in French), 15: 77–110, doi:10.1016/0304-3975(81)90064-5
+Lazard, Daniel (2001), translated by Michael Abramson, "Solving systems of algebraic equations", ACM SIGSAM Bulletin, 35 (3): 11–37, doi:10.1145/569746.569750, S2CID 5244703
+Lazard, Daniel (1992), "Solving zero-dimensional algebraic systems", Journal of Symbolic Computation, 13 (2): 117–131, doi:10.1016/s0747-7171(08)80086-7.
+Faugère, Jean-Charles; Gianni, Patrizia; Lazard, Daniel; Mora, Teo (1993), "Efficient computation of zero-dimensional Gröbner bases by change of ordering", Journal of Symbolic Computation, 16 (4): 329–344, doi:10.1006/jsco.1993.1051, MR 1263871
+Lazard, Daniel (2009), "Thirty years of Polynomial System Solving, and now?", Journal of Symbolic Computation, 44 (3): 222–231, doi:10.1016/j.jsc.2008.03.004
+ICPSS, International Conference on Polynomial System Solving, and special issue of Journal of Symbolic Computation, in honor of Daniel Lazard, archived from the original on 26 April 2012
+
+
+== References ==
+
+
+== External links ==
+"Daniel Lazard author profile". MathSciNet. American Mathematical Society.

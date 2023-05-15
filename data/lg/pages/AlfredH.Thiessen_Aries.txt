@@ -1,0 +1,15 @@
+Alfred H. Thiessen (April 8, 1872 – June 7, 1956) was an American meteorologist after whom Thiessen polygons are named.
+Alfred H. Thiessen was born in Troy, New York. He earned a bachelor of science degree from Cornell University in 1898. His service in the Weather Bureau began at Pittsburgh as observer on July 1, 1898. He subsequently was assigned to Helena, Washington, Point Reyes and Manteo as assistant, and to Mount Weather, Raleigh, Indianapolis, Salt Lake City, Portland, Baltimore, and Denver as official in charge. He resigned from the Weather Bureau on December 11, 1920, to accept a commission as Captain in the Regular Army. He left active service, as a major, and was reappointed at the Central Office of the Weather Bureau on March 17, 1941. He retired on April 30, 1942.
+His best known work (1911) dealt with the description of weather prediction with a geometric method for dividing land areas, that although known from Dirichlet Tessellation (1850) and the Voronoi Diagram (1908), apparently had never been used in meteorology for interpolation of measurements. The synonyms Thiessen polygons or Thiessen method have become established for this application.
+Thiessen polygons have also been used to estimate the areas of influence of Mayan city-states.
+
+
+== See also ==
+Voronoi diagram
+
+
+== References ==
+http://www.history.noaa.gov/nwsbios/nwsbios_page72.html
+Voronoi diagram
+A.H. Thiessen. 1911. Precipitation averages for large areas. Monthly Weather Review, 39(7): 1082-1084. PDF copy of article
+Alfred H. Thiessen at Find a Grave

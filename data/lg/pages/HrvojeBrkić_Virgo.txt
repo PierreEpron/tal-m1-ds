@@ -1,0 +1,22 @@
+Hrvoje Brkić (Vinkovci, 17. 9. 1983.), Croatian biophysicist. He was born in Vinkovci, where he attended elementary school and Gymnasium Matija Antun Reljković. In 2007. he finished Physics department of J. J. Strossmayer University of Osijek, and approached to the PhD in Faculty of natural sciences in Zagreb. PhD thesis named Computational studies of Iron dependent dioxygenases, under mentor prof. Sanja Tomić, was defended in 2014th. Till now has co-authored approximately 30 internationally reviewed scientific papers.Currently is employed in both Faculty of medicine in Osijek and Faculty of dental medicine and health, where is engaged in the classes of medical physics and biophysics.
+
+
+== Selected bibliography ==
+Kopačin, Vjekoslav; Kasabašić, Mladen; Faj, Dario; de Saint Hubert, Marijke; Galić, Stipe; Ivković, Ana; Majer, Marija; Brkić, Hrvoje The Development of a computational pregnant female phantom and calculation of fetal dose during a photon breast radiotherapy.  // Radiology and oncology (2022)
+de Saint Hubert, Marijke; Tymińska, Katarzyna; Stolarczyk, Liliana; Brkić, Hrvoje Fetus dose calculation during proton therapy of pregnant phantoms using MCNPX and MCNP6.2 codes.  // Radiation measurements, 149 (2021)
+Tomić, Antonija; Brkić, Hrvoje; Matić, Antonia; Tomić, Sanja Unravelling the inhibitory zinc ion binding site and the metal exchange mechanism in human DPP III.  // PCCP. Physical chemistry chemical physics, 23 (2021)
+(EURADOS WG6) Rabus, Hans; Gomez-Ros, Jose-Maria; Villagrasa, Carmen; Eakins, Jonathan; Vrba, Tomas; Blideanu, Valentin; Zank, Maria; Tanner, Rick; Struelens, Lara; Brkić, Hrvoje et al. Quality assurance for the use of computational methods in dosimetry: activities of EURADOS Working Group 6 "Computational Dosimetry. // Journal of radiological protection, 41 (2021)
+Švabić Kolacio, Manda; Brkić, Hrvoje; Faj, Dario; Smilović Radojčić, Đeni; Rajlić, David; Obajdin; Nevena; Jurković, Slaven Validation of two calculation options built in Elekta Monaco Monte Carlo based algorithm using MCNP code.  // Radiation physics and chemistry, 179 (2021)
+Ivković, Ana; Faj, Dario; Kasabašić, Mladen; Poje Sovilj, Marina; Krpan, Ivana; Grabar Branilović, Marina; Brkić, Hrvoje The influence of shielding reinforcement in a vault with limited dimensions on the neutron dose equivalent in vicinity of medical electron linear accelerator.  // Radiology and oncology, 54 (2020)
+Brkić, Hrvoje; Kasabašić, Mladen; Ivković, Ana; Agić, Dejan; Krpan, Ivana; Faj, Dario Influence of head cover on the neutron dose equivalent in Monte Carlo simulations of high energy Medical linear accelerator.  // Nuclear Technology & Radiation Protection, 33 (2018)
+Agić, Dejan; Brkić, Hrvoje; Tomić, Sanja; Karačić, Zrinka; Špoljarević, Marija; Lisjak, Miroslav; Bešlo, Drago; Abramić, Marija Validation of flavonoids as potential dipeptidyl peptidase III inhibitors: experimental and computational approach.  // Chemical biology & drug design, 89 (2017)
+Brkić, Hrvoje; Ivković, Ana; Kasabašić, Mladen; Poje Sovilj, Marina; Jurković, Slaven; Štimac, Damir; Rubin, Otmar; Faj, Dario The influence of field size and off-axis distance on photoneutron spectra of the 18 MV Siemens Oncor linear accelerator beam.  // Radiation measurements, 93 (2016)
+Brkić, Hrvoje; Kovačević, Borislav; Tomić, Sanja Human 3-hydroxyanthranilate 3, 4-dioxygenase (3HAO) dynamics and reaction, a multilevel computational study.  // Molecular biosystems, 11 (2015)
+Istvanić, Tomislav; Vrselja, Zvonimir; Brkić, Hrvoje; Radić, Radivoje; Lekšan, Igor; Ćurić, Goran Extended Eversion Carotid Endarterectomy: Computation of Hemodynamics.  // Annals of vascular surgery, 29 (2015)
+Brkić, Hrvoje Insight of the iron binding and transport in Dke1 - A Molecular Dynamics Study.  // Croatica chemica acta, 88 (2015)
+Vrselja, Zvonimir; Brkić, Hrvoje; Mrđenović, Stefan; Radić, Radivoje; Ćurić, Goran Function of circle of Willis.  // Journal of cerebral blood flow and metabolism, 34 (2014)
+Hrvoje, Brkić; Daniela, Buongiorno; Michael, Ramek; Grit, Straganz; Sanja, Tomić Dke1 – Structure, Dynamics and Function, A Theoretical and Experimental Study Elucidated the Role of the Binding Site Shape and the H-Bonding Network in Catalysis.  // Journal of biological inorganic chemistry, 17 (2012)
+Rabus, Hans; Zankl, Maria; Gómez-Ros, José Maria; Villagrasa, Carmen; Eakins, Jonathan; Huet, Christelle; Brkić, Hrvoje; Tanner, Rick Lessons learnt from the recent EURADOS intercomparisons in computational dosimetry.  // Radiation measurements (2022)
+
+
+== References ==

@@ -1,0 +1,37 @@
+Stephen Cobb (born 17 October 1952 in Coventry) is an expert on security, privacy, and the risks related to digital technology.Widely published as a technical author in the 1980s, Cobb became known for his efforts to educate consumers and companies in data privacy and information security. In 1996, Cobb became one of the first people to earn the Certified Information System Security Professional (CISSP) qualification. He later co-founded two information security startups, one of which developed innovative anti-spam technology that is still in use today (both firms were sold to NASDAQ listed companies). Cobb has been cited as an information security expert by national media and in congressional testimony. Since September 2019, he has been pursuing independent research from his home town of Coventry, U.K.
+
+
+== Written work ==
+After authoring more than a dozen textbooks on how to use software applications like spreadsheets, databases, and word processors, mostly through McGraw Hill Cobb's first book on PC and LAN Security was published in 1991. In 2002, Cobb published a primer on privacy for businesses. As co-author and editor of the Trusted Email Open Standard Cobb helped present this proposal for securing email to the Federal Trade Commission in 2003. After a brief hiatus from privacy and security research, during which he produced an independent documentary on racial inequality in America (Dare Not Walk Alone, 2006), Cobb co-authored a peer-reviewed paper on the dangers of malicious code use by governments, which he termed "righteous malware". Published by IEEE, the paper was presented by Cobb at NATO CCDCOE's CyCon 2014, the 6th International Conference On Cyber Conflict. Cobb's historical analysis of cybercrime surveys was presented at Virus Bulletin 2015.
+
+
+== Entrepreneurial activities ==
+Cobb co-founded two information security startups that were sold to NASDAQ listed companies. The first was InfoSec Labs, acquired in 1999 by Rainbow Technologies, a maker of encryption products such as the CryptoSwift Hardware Security Module (HSM). The second was ePrivacy Group, the company that created the TurnTide anti-spam technology. This technology was acquired by Symantec in 2004 was still in use a decade later as the Symantec Traffic Shaper.
+
+
+== Security awareness and education ==
+Cobb served for four years on the IT Security Executive Council of CompTIA (2012-2015). He frequently worked with Security Our eCity, a non-profit community-wide security awareness organization based in San Diego. In that role, he helped organize annual Cyber Boot Camps for middle school and high school students that received national attention. Cobb has been an invited speaker on information security and data privacy issues in a dozen countries. He is also a TEDx speaker. Cobb's dissertation for his master of science degree in security and risk management at the University of Leicester addressed aspects of the cybersecurity skills gap.As a security researcher with ESET, Cobb tracked the effects of security breaches on economic activity. For example, in the wake of the Snowden revelations he documented a drop in online shopping and banking. In 2018 he fielded a public opinion survey in North America that paralleled prior studies conducted by the European Union (EU), published as the “Special Eurobarometer: Cyber Security.” This revealed that nine out of 10 Americans surveyed agreed that cybercrime was “an important challenge to the internal security of the USA." The study also revealed high levels of concern about cybercrime in Canada.In an effort to spread awareness of emerging threats Cobb has coined words for two related digital security problems: jackware and siegeware. He described jackware as "ransomware meets car jacking." Siegeware is "the code-enabled ability to make a credible extortion demand based on digitally impaired building functionality."
+
+
+== Awards ==
+In 2019, CompTIA presented Cobb with the Tech Champion Award for Industry. The Tech Champion Awards are presented to "leaders focused on driving innovation, job growth and advancements for the information technology (IT) industry." Previous Tech Champion Award recipients include U.S. Senator Cory Booker and U.S. Representative Anna Eshoo.
+
+
+== References ==
+
+
+== External links ==
+Quoted by Newsweek on FBI-Apple encryption debate
+Cited by American Banker on FBI-Apple encryption debate
+Quoted by the Washington Post on post-Snowden drop in Internet commerce
+Interviewed by Bank InfoSecurity
+Cited by Marketplace on Snowden leaks
+Cited on healthcare data breach by the NY Times
+Quoted by Forbes on state data breach
+Articles by Stephen Cobb on healthcare IT security
+Cited by NBC on Instagram vulnerability
+Collected cybersecurity articles by Stephen Cobb
+Security website, S. Cobb on Security
+Cited by fellow expert on antivirus technology
+Cited by Dell on security of wearables
+Speaking at DEF CON 3, 1995

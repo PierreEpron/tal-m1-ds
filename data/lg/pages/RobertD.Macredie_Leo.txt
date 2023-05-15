@@ -1,0 +1,13 @@
+Robert Duncan Macredie (born 31 July 1968) is a British computer scientist. He served as Professor, Head of department, and Head of the School of Information Systems, Computing and Mathematics at Brunel University, Uxbridge, west London and was, until February 2010, Pro-Vice-Chancellor for Student Experience at Brunel University. Macredie was founder and is editor-in-chief, of the Springer research journal Virtual Reality. He has held a number of UK Research Council and EU Framework grants in the areas of computer science and information systems. He is Governor of the Crest Girls' Academy in Brent, West London.
+
+
+== Biography ==
+Macredie was born in Rotherham, West Riding of Yorkshire and attended Broom Valley junior and infants' school, Oakwood Comprehensive School, and Rotherham College of Arts and Technology, before an undergraduate degree in Physics and Computer Science at the University of Hull. He graduated in 1989, and subsequently completed an SERC-funded PhD in Computer Science before joining the Virtual Environments Research Group (VERG) (now HIVE) at the University of Hull. In 1994 he joined Brunel University as a lecturer, and became full Professor in 1999, Head of department in 2001, Dean of Faculty and Head of School in 2004 and Pro-Vice-Chancellor for the Student Experience in 2006.
+
+
+=== Publications ===
+Modelling for Added Value. Heidelberg, Germany: Springer Verlag. 2001. ISBN 978-3-540-76108-2.
+Component-Based Information Systems. Armonk NY: M. E. Sharpe. 2005. ISBN 978-0-7656-1248-9.
+
+
+== References ==

@@ -1,0 +1,12 @@
+Ulisses M. Braga Neto (born Feb 12 1971) is a Brazilian-American electrical engineer and is currently Professor of Electrical and Computer Engineering at Texas A&M University. His main research areas are statistical pattern recognition, machine learning, signal and image processing, and systems biology. He has worked extensively in the field of error estimation for pattern recognition and machine learning, having published with Edward R. Dougherty the first book dedicated to this topic. Braga-Neto has also published a classroom textbook on Pattern Recognition and Machine Learning. He has also made contributions to the field of Mathematical morphology in signal and image processing.
+
+
+== Biography ==
+Braga Neto was born in Recife, Brazil in 1971. He received the baccalaureate degree in Electrical Engineering from Universidade Federal de Pernambuco in 1992, and the master's degree, also in Electrical Engineering, from the Universidade Estadual de Campinas (UNICAMP) in 1994. He received an M.Sc. degree in Mathematical Sciences in 1998 and M.Sc. and Ph.D. degrees in Electrical and Computer Engineering, in 1998 and 2002, respectively, from Johns Hopkins University. He worked as a post-doctoral researcher at the University of Texas MD Anderson Cancer Center, under the supervision of Louise Strong and Edward R. Dougherty. He worked at the Recife regional center of the Fundação Oswaldo Cruz from 2004 to 2007. He moved back to the U.S. in 2007, when he joined Texas A&M University, where he is currently Professor of Electrical and Computer Engineering.
+
+
+== Work ==
+Braga-Neto invented, with his Ph.D. student Levi McClenny, self-adaptive physics-informed neural networks, which accelerate the convergence of PINNs in the case of difficult (stiff) PDE problems. Braga-Neto introduced, along with Edward R. Dougherty the notion of Bolstered Error Estimation. He also invented the Boolean Kalman Filter algorithm for partially-observed boolean dynamical systems (POBDS). In 2015, Braga Neto published, in collaboration with Edward R. Dougherty, the first book dedicated to the topic of error estimation for pattern recognition and machine learning. He also made contributions to the field of Mathematical Morphology in signal and image processing, particularly on the topic of image connectivity and connected operators.
+
+
+== References ==

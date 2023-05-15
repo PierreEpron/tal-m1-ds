@@ -1,0 +1,33 @@
+Shinichi Mochizuki (望月 新一, Mochizuki Shin'ichi, born March 29, 1969) is a Japanese mathematician working in number theory and arithmetic geometry. He is one of the main contributors to anabelian geometry. His contributions include his solution of the Grothendieck conjecture in anabelian geometry about hyperbolic curves over number fields. Mochizuki has also worked in Hodge–Arakelov theory and p-adic Teichmüller theory. Mochizuki developed inter-universal Teichmüller theory, which has attracted attention from non-mathematicians due to claims it provides a resolution of the abc conjecture.
+
+
+== Biography ==
+
+
+=== Early life ===
+Shinichi Mochizuki was born to parents Kiichi and Anne Mochizuki. When he was five years old, Shinichi Mochizuki and his family left Japan to live in the United States. His father was Fellow of the Center for International Affairs and Center for Middle Eastern Studies at Harvard University (1974–76). Mochizuki attended Phillips Exeter Academy and graduated in 1985.Mochizuki entered Princeton University as an undergraduate student at the age of 16 and graduated as salutatorian with an A.B. in mathematics in 1988. He completed his senior thesis, titled "Curves and their deformations," under the supervision of Gerd Faltings.He remained at Princeton for graduate studies and received his Ph.D. in mathematics in 1992 after completing his doctoral dissertation, titled "The geometry of the compactification of the Hurwitz scheme," also under the supervision of Faltings.After his graduate studies, Mochizuki spent two years at Harvard University and then in 1994 moved back to Japan to join the Research Institute for Mathematical Sciences (RIMS) at Kyoto University in 1992, and was promoted to professor in 2002.
+
+
+=== Career ===
+Mochizuki proved Grothendieck's conjecture on anabelian geometry in 1996. He introduced the Nilcurve concept-Mochizuki (1996).  He was an invited speaker at the International Congress of Mathematicians in 1998. In 2000–2008 he discovered several new theories including the theory of frobenioids, mono-anabelian geometry and the etale theta theory for line bundles over tempered covers of the Tate curve.
+On August 30, 2012 Mochizuki released four preprints, whose total size was about 500 pages, that develop inter-universal Teichmüller theory and apply it to attempt to prove several very famous problems in Diophantine geometry. These include the strong Szpiro conjecture, the hyperbolic Vojta conjecture and the abc conjecture over every number field.  The preprints have not been published.  In September 2018, Mochizuki posted a report on his work by Peter Scholze and Jakob Stix asserting that the third preprint contains an irreparable flaw; he also posted several documents containing his rebuttal of their criticism.  The majority of number theorists have found Mochizuki's preprints very difficult to follow and have not accepted the conjectures as settled, although there are a few prominent exceptions, including Go Yamashita, Ivan Fesenko, and Yuichiro Hoshi, who vouch for the work and have written expositions of the theory.On April 3, 2020, two Japanese mathematicians, Masaki Kashiwara and Akio Tamagawa, announced that Mochizuki's claimed proof of the abc conjecture would be published in Publications of the Research Institute for Mathematical Sciences, a journal of which Mochizuki is chief editor. The announcement was received with skepticism by Kiran Kedlaya and Edward Frenkel, as well as being described by Nature as "unlikely to move many researchers over to Mochizuki's camp." The Special issue on Inter-universal Teichmüller Theory containing Mochizuki's articles was published on March 5, 2021.
+
+
+== Publications ==
+Mochizuki, Shinichi (1997), "A Version of the Grothendieck Conjecture for p-adic Local Fields" (PDF), International Journal of Mathematics, Singapore: World Scientific Pub. Co., 8 (3): 499–506, CiteSeerX 10.1.1.161.7778, doi:10.1142/S0129167X97000251, ISSN 0129-167X
+Mochizuki, Shinichi (1998), "The intrinsic Hodge theory of p-adic hyperbolic curves, Proceedings of the International Congress of Mathematicians, Vol. II (Berlin, 1998)", Documenta Mathematica: 187–196, ISSN 1431-0635, MR 1648069
+Mochizuki, Shinichi (1999), Foundations of p-adic Teichmüller theory, AMS/IP Studies in Advanced Mathematics, vol. 11, Providence, R.I.: American Mathematical Society, ISBN 978-0-8218-1190-0, MR 1700772
+
+
+=== Inter-universal Teichmüller theory ===
+Mochizuki, Shinichi (2011), "Inter-universal Teichmüller Theory: A Progress Report" (PDF), Development of Galois–Teichmüller Theory and Anabelian Geometry, The 3rd Mathematical Society of Japan, Seasonal Institute.
+Mochizuki, Shinichi (2012a), Inter-universal Teichmuller Theory I: Construction of Hodge Theaters (PDF).
+Mochizuki, Shinichi (2012b), Inter-universal Teichmuller Theory II: Hodge–Arakelov-theoretic Evaluation (PDF).
+Mochizuki, Shinichi (2012c), Inter-universal Teichmuller Theory III: Canonical Splittings of the Log-theta-lattice (PDF).
+Mochizuki, Shinichi (2012d), Inter-universal Teichmuller Theory IV: Log-volume Computations and Set-theoretic Foundations (PDF).
+
+
+== References ==
+
+
+== Bibliography ==

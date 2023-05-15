@@ -1,0 +1,26 @@
+Egon Börger (born 13 May 1946) is a German-born computer scientist based in Italy.
+
+
+== Life and work ==
+Börger was born in Bad Laer, Westphalia, Lower Saxony, Germany. Between 1965 and 1971 he studied at the Sorbonne, Paris (France), Université Catholique de Louvain, Institut Supérieur de Philosophie de Louvain and University of Münster (Germany). Between 1972 and 1976, he was at the Università di Salerno in Italy, where he taught the first courses in the newborn Computer Science Degree. 
+Since 1985 he has held a Chair in computer science at the University of Pisa, Italy. Since September 2010, he has been an elected member of the Academia Europaea.Egon Börger is a pioneer of applying logical methods in computer science. He is co-founder of the international conference series CSL. He is also one of the founders of the Abstract State Machines (ASM) formal method for accurate and controlled design and analysis of computer-based systems  and cofounder of the series of international ASM workshops, which in 2008 merged with the regular meetings of the B and Z User Groups to form the international ABZ conference.Börger contributed to the theoretical foundations of the method and initiated its industrial applications in a variety of fields, in particular programming languages, System architecture, requirements and software (re-)engineering, control systems, protocols, web services. 
+To this date, he is one of the leading scientists in ASM-based modeling and verification technology, which he has crucially shaped by his activities. In 2007, he received the Humboldt Research Award.Festschrifts were produced for Börger's 60th and 75th birthdays.
+
+
+== Selected publications ==
+Egon Börger and Robert Stärk, Abstract State Machines: A Method for High-Level System Design and Analysis, Springer-Verlag, 2003. (ISBN 3-540-00702-4)
+Egon Börger Computability, Complexity, Logic (North-Holland, Amsterdam 1989, translated from the German original from 1985, Italian Translation Bollati-Borighieri 1989)
+Egon Börger, The Classical Decision Problem (co-authored by E.Graedel and Y.Gurevich), Springer-Verlag 1997, ISBN 3-540-57073-X, 2nd Edition as "Universitext", Springer-Verlag 2001, ISBN 3-540-42324-9
+Egon Börger, Java and the Java Virtual Machine: Definition, Verification, Validation (co-authored by R. Staerk and J. Schmid), Springer-Verlag ISBN 3-540-42088-6, 2001
+Egon Börger and Alexander Raschke, Modeling Companion for Software Pratitioners, Springer, 2018. (ISBN 978-3-662-56639-8, doi:10.1007/978-3-662-56641-1)
+
+
+== References ==
+
+
+== External links ==
+Egon Börger home page
+Publications, etc.
+Curriculum Vitae
+Egon Börger at DBLP Bibliography Server 
+Egon Börger publications indexed by Microsoft Academic

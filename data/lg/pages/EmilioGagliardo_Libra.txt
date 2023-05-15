@@ -1,0 +1,17 @@
+Emilio Gagliardo  (5 November 1930, Genoa – 15 August 2008, Genoa) was an Italian mathematician working in the field of Analysis.
+
+
+== Life ==
+He did his PhD in Algebraic Geometry at the University of Genoa with Eugenio Togliatti and graduated in 1953.He then became an assistant of Guido Stampacchia and started to study partial differential equations. In 1959 he got his Habilitation and spend some time abroad with Nachman Aronszajn at the University of Kansas and with Jacques-Louis Lions in Nancy. In 1961 he became Professor in Genoa. From 1968 to 1975 he was at the University of Oregon and since 1975 at the University of Padua.
+His main contributions are to the field of parabolic partial differential equations, interpolation in Banach spaces, and Sobolev spaces.
+1964 was awarded the Caccioppoli Prize.
+
+
+== Selected works ==
+Ulteriori proprietà di alcune classi di funzioni in più variabili, Ricerche Mat., 8, 1959, 24–52
+Caratterizzazioni delle tracce sulla frontiera relative ad alcune classi di funzioni in n variabili, Rend. Sem. Mat. Univ. Padova, 27, 1957, 284–305
+with Nachman Aronszajn: Interpolation spaces and interpolation methods, Ann. Mat. Pura Appl., 68, 1965, 51–117
+
+
+== References ==
+Enrico Magenes, obituary in Notiziario UMI, 2009 [1]

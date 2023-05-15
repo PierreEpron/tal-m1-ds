@@ -1,4 +1,5 @@
 import functools
+from pathlib import Path
 from nltk.corpus import stopwords
 import nltk
 nltk.download('stopwords')
@@ -18,7 +19,6 @@ ASTRAL_DATES = {
     'Pisces' : {'start':(2,20), 'end':(3,20)},
 }
 
-
 MONTHS = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december']
 
 def date_to_astral(date, astral_dates=ASTRAL_DATES):
@@ -29,15 +29,18 @@ def date_to_astral(date, astral_dates=ASTRAL_DATES):
         if (m == s[0] and d >= s[1]) or (m == e[0] and d <= e[1]):
             return k
 
+def get_page_path(root, doc):
+    return (root / f"{Path(doc['path']).name.replace('_', '')}_{date_to_astral(doc['birthDate'])}.txt")
+
 def get_spacy_tokens(doc_json):
     return map(
-        lambda t: (doc_json['text'], t['upos'], t['lemma']), 
+        lambda t: (doc_json['text'][t['start']:t['end']], t['pos'], t['lemma']), 
         doc_json['tokens']
     )
 
 def get_stanza_tokens(doc_json):
     return map(
-        lambda t: (doc_json['text'][t['start']:t['end']], t['pos'], t['lemma']), 
+        lambda t:(doc_json['text'], t['upos'], t['lemma']) , 
         functools.reduce(lambda a, b: a + b, doc_json, [])
     )
 
@@ -65,24 +68,23 @@ def clean_tokens(
     ):
         valid_tokens = []
 
-        for t in PARSERS[parser](doc_json):
+        for text, pos, lemma in PARSERS[parser](doc_json):
 
-            t_txt = doc_json['text'][t['start']:t['end']]
-            t_txt = t_txt.lower() if lowercase else t_txt
+            text = text.lower() if lowercase else text
 
-            if is_alpha and not t_txt.isalpha():
+            if is_alpha and not text.isalpha():
                 continue
 
-            if len(t_txt) <= min_size:
+            if len(text) <= min_size:
                 continue
 
-            if t['pos'] in stop_pos:
+            if pos in stop_pos:
                 continue
 
-            if t_txt.lower() in stop_words:
-                continue
+            if text.lower() in stop_words:
+                continue    
 
-            valid_tokens.append(t['lemma'] if keep_lemma else t_txt)
+            valid_tokens.append(lemma if keep_lemma else text)
 
         return valid_tokens
     

@@ -1,0 +1,53 @@
+Gerald Jay Sussman (born February 8, 1947) is the Panasonic Professor of Electrical Engineering at the Massachusetts Institute of Technology (MIT). He received his S.B. and Ph.D. degrees in mathematics from MIT in 1968 and 1973 respectively. He has been involved in artificial intelligence (AI) research at MIT since 1964. His research has centered on understanding the problem-solving strategies used by scientists and engineers, with the goals of automating parts of the process and formalizing it to provide more effective methods of science and engineering education. Sussman has also worked in computer languages, in computer architecture and in Very Large Scale Integration (VLSI) design.
+
+
+== Education ==
+Sussman attended the Massachusetts Institute of Technology as an undergraduate and received his S.B. in mathematics in 1968. He continued his studies at MIT and obtained a Ph.D. in 1973, also in mathematics, under the supervision of Seymour Papert. His doctoral thesis was titled "A Computational Model of Skill Acquisition" focusing on artificial intelligence and machine learning, using a computational performance model named HACKER.
+
+
+== Academic work ==
+Sussman is a coauthor (with Hal Abelson and Julie Sussman) of the introductory computer science textbook Structure and Interpretation of Computer Programs. It was used at MIT for several decades, and has been translated into several languages.Sussman's contributions to artificial intelligence include problem solving by debugging almost-right plans, propagation of constraints applied to electrical circuit analysis and synthesis, dependency-based explanation and dependency-based backtracking, and various language structures for expressing problem-solving strategies. Sussman and his former student, Guy L. Steele Jr., invented the programming language Scheme in 1975.
+Sussman saw that artificial intelligence ideas can be applied to computer-aided design (CAD). Sussman developed, with his graduate students, sophisticated computer-aided design tools for Very Large Scale Integration (VLSI). Steele made the first Scheme chips in 1978. These ideas and the AI-based CAD technology to support them were further developed in the Scheme chips of 1979 and 1981. The technique and experience developed were then used to design other special-purpose computers. Sussman was the principal designer of the Digital Orrery, a machine designed to do high-precision integrations for orbital mechanics experiments. The Orrery was designed and built by a few people in a few months, using AI-based simulation and compiling tools.Using the Digital Orrery, Sussman has worked with Jack Wisdom to discover numerical evidence for chaotic motions in the outer planets. The Digital Orrery is now retired at the Smithsonian Institution in Washington, DC. Sussman was also the lead designer of the Supercomputer Toolkit, another multiprocessor computer optimized for evolving of ordinary differential equations. The Supercomputer Toolkit was used by Sussman and Wisdom to confirm and extend the discoveries made with the Digital Orrery to include the entire planetary system.Sussman has pioneered the use of computational descriptions to communicate methodological ideas in teaching subjects in Electrical Circuits and in Signals and Systems. Over the past decade Sussman and Wisdom have developed a subject that uses computational techniques to communicate a deeper understanding of advanced classical mechanics. In Computer Science: Reflections on the Field, Reflections from the Field, he writes "... computational algorithms are used to express the methods used in the analysis of dynamical phenomena. Expressing the methods in a computer language forces them to be unambiguous and computationally effective. Students are expected to read the programs and to extend them and to write new ones. The task of formulating a method as a computer-executable program and debugging that program is a powerful exercise in the learning process. Also, once formalized procedurally, a mathematical idea becomes a tool that can be used directly to compute results." Sussman and Wisdom, with Meinhard Mayer, have produced a textbook, Structure and Interpretation of Classical Mechanics, to capture these new ideas.
+Sussman and Abelson have also been a part of the free software movement, including releasing MIT/GNU Scheme as free software and serving on the board of directors of the Free Software Foundation.Sussman's work is presented in many videos, such as: with Hal Abelson in a full 20 lecture version of MIT's SICP course, for LispNYC, at the International Conference on Complex Systems, for ArsDigita University, and giving the keynote talk at a Strange Loop conference.
+
+
+== Awards and organizations ==
+For his contributions to computer science education, Sussman received the Association for Computing Machinery (ACM) Karl Karlstrom Outstanding Educator Award in 1990, and the Amar G. Bose award for teaching in 1992.Sussman and Hal Abelson are the only founding directors still active on the board of directors of the Free Software Foundation (FSF).Sussman is a fellow of the Institute of Electrical and Electronics Engineers (IEEE), a member of the National Academy of Engineering (NAE), a fellow of the Association for the Advancement of Artificial Intelligence (AAAI), a fellow of the Association for Computing Machinery (ACM), a fellow of the American Association for the Advancement of Science (AAAS), a fellow of the New York Academy of Sciences (NYAS), and a fellow of the American Academy of Arts and Sciences. He is also a bonded locksmith, a life member of the American Watchmakers-Clockmakers Institute (AWI), a member of the Massachusetts Watchmakers-Clockmakers Association (MWCA), a member of the Amateur Telescope Makers of Boston (ATMOB), and a member of the American Radio Relay League (ARRL).
+
+
+== Personal life ==
+Gerald Sussman is married to computer programmer Julie Sussman.
+
+
+== Select bibliography ==
+Chris Hanson and Gerald Jay Sussman; Software Design for Flexibility, MIT Press, 2021. ISBN 978-0-262-045490.
+Gerald Jay Sussman and Jack Wisdom, with Will Farr; Functional Differential Geometry, MIT Press, 2013. ISBN 978-0-262-01934-7.
+Alexey Radul and Gerald Jay Sussman; "Revised Report on the Propagator Model", documentation and system, August 2010.
+Alexey Radul and Gerald Jay Sussman; "The Art of the Propagator," MIT-CSAIL-TR-2009-002; Abridged version in Proc. 2009 International Lisp Conference, March 2009.
+Structure and Interpretation of Classical Mechanics, second edition, Gerald Jay Sussman and Jack Wisdom, MIT Press, 2014. ISBN 978-0-262-02896-7.
+"Cellular Gate Technology", Thomas F. Knight and Gerald Jay Sussman, Proc. UMC98, First International Conference on Unconventional Models of Computation, Auckland, NZ, January 1998.
+"Sparse Representations for Fast, One-shot learning", Kenneth Yip and Gerald Jay Sussman, Proc. of National Conference on Artificial Intelligence, July 1997. A longer version appears as MIT AI Lab Memo #1633, May 1998
+"A Computational Model for the Acquisition and Use of Phonological Knowledge", Kenneth Yip and Gerald Jay Sussman, MIT Artificial Intelligence Memo 1575, March 1996.
+"Amorphous Computing", Harold Abelson, Don Allen, Daniel Coore, Chris Hanson, George Homsy, Thomas F. Knight, Jr., Radhika Nagpal, Erik Rauch, Gerald Jay Sussman, Ron Weiss, in Communications of the ACM , 43 , 5, May 2000. Also as MIT Artificial Intelligence Memo 1665, August 1999.
+"Comparison between subsonic flow simulation and physical measurements of flue pipes", Panayotis. A. Skordos and Gerald Jay Sussman, Proceedings of ISMA 95, International Symposium on Musical Acoustics, Le Normont, France, July 1995. Also MIT Artificial Intelligence Memo 1535, April 1995.
+"Chaotic Evolution of the Solar System", Gerald Jay Sussman and Jack Wisdom, Science, 257, 3 July 1992.
+"The Supercomputer Toolkit: A general framework for special-purpose computing", with A. Berlin, J. Katzenelson, W. McAllister, G. Rozas, G. J. Sussman, and Jack Wisdom, International Journal of High-Speed Electronics, 3, no. 3, pp. 337--361, 1992.
+"Numerical evidence that the motion of Pluto is chaotic", Gerald Jay Sussman and Jack Wisdom, in Science, 241, 22 July 1988.
+Structure and Interpretation of Computer Programs, Harold Abelson and Gerald Jay Sussman with Julie Sussman, MIT Press and McGraw-Hill, 1985, second edition 1996, ISBN 0-262-01153-0. (published translations in French, Japanese, Polish, Chinese, Korean, and German).
+
+
+== See also ==
+Marvin Minsky
+Seymour Papert
+Terry Winograd
+MDL (programming language)
+Sussman anomaly
+
+
+== References ==
+
+
+== External links ==
+Official website
+Gerald Sussman at the Mathematics Genealogy Project
+Books at the MIT Press

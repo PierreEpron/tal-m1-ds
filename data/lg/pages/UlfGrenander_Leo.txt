@@ -1,0 +1,38 @@
+Ulf Grenander (23 July 1923 – 12 May 2016) was a Swedish statistician and professor of applied mathematics at Brown University.
+His early research was in probability theory, stochastic processes, time series analysis, and statistical theory (particularly the order-constrained estimation of cumulative distribution functions using his sieve estimator). In recent decades, Grenander contributed to computational statistics, image processing, pattern recognition, and artificial intelligence. He coined the term pattern theory to distinguish from pattern recognition.
+
+
+== Honors ==
+In 1966 Grenander was elected to the Royal Academy of Sciences of Sweden, and in 1996 to the US National Academy of Sciences. In 1998 he was an Invited Speaker of the International Congress of Mathematicians in Berlin. He received an honorary doctorate in 1994 from the University of Chicago, and in 2005 from the Royal Institute of Technology of Stockholm, Sweden.
+
+
+== Education ==
+Grenander earned his undergraduate degree at Uppsala University. He earned his Ph.D. at Stockholm University in 1950 under the supervision of Harald Cramér.
+
+
+== Appointments ==
+He was active as a 1950–1951 Associate Professor at Stockholm University, 1951–1952 at University of Chicago, At 1952–1953 University of California–Berkeley, At Stockholm University 1953–1957, at Brown University 1957–1958 and 1958–1966 again at Stockholm University, where he succeeded in 1959 Harald Cramér as the Professor in actuarial science and mathematical statistics. From 1966 until his retirement, Grenander was L. Herbert Ballou University Professor at Brown University. In 1969–1974 he was also professor of Applied Mathematics at The Royal Institute of Technology.
+
+
+== Selected works ==
+Grenander, Ulf (2012). A Calculus of Ideas: A Mathematical Study of Human Thought. World Scientific Publishing. ISBN 978-9814383189.
+Grenander, Ulf; Miller, Michael (2007). Pattern Theory: From Representation to Inference. Oxford University Press. ISBN 978-0199297061.
+Grenander, Ulf (1996). Elements of Pattern Theory. Johns Hopkins University Press. ISBN 978-0801851889.
+Grenander, Ulf (1994). General Pattern Theory. Oxford Science Publications. ISBN 978-0198536710.
+Grenander, Ulf (1982). Mathematical Experiments on the Computer. Academic Press. ISBN 9780123017505.
+Grenander, Ulf (1981). Abstract Inference. Wiley. ISBN 978-0471082675.
+Grenander, Ulf (1963). Probabilities on Algebraic Structures. Wiley.
+Grenander, Ulf (1959). Probability and Statistics: The Harald Cramér Volume. Wiley.
+Szegő, Gábor; Grenander, Ulf (1958). Toeplitz forms and their applications. Chelsea.
+Grenander, Ulf; Rosenblatt, M (1957). Statistical Analysis of Stationary Time Series. American Mathematical Society. ISBN 978-0-8284-0320-7.
+
+
+== References ==
+
+Mukhopadhyay, Nitis (2006). "A conversation with Ulf Grenander". Statistical Science. 21 (3): 404–426. arXiv:math/0701092. Bibcode:2007math......1092M. doi:10.1214/088342305000000313. ISSN 0883-4237. MR 2339138. S2CID 62516244.
+
+
+== External links ==
+Homepage of Ulf Grenander at Brown University
+Pattern Theory: Grenander's Ideas and Examples – a video lecture by David Mumford
+Ulf Grenander at the Mathematics Genealogy Project

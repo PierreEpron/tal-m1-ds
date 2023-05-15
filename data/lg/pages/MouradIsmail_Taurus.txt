@@ -1,0 +1,27 @@
+Mourad E. H. Ismail (born April 27, 1944, in Cairo, Egypt) is a mathematician working on orthogonal polynomials and special functions.
+Ismail received his bachelor's degree from Cairo University. He holds Masters and doctorate degrees from the University of Alberta. He worked at and visited several universities. Currently he holds a research professorship at the University of Central Florida and a Distinguished Scientist Fellowship at King Saud University in Saudi Arabia.
+Ismail is a fellow of the American Mathematical Society and the Institute of Physics. He is among the ISI highly cited scientists. He served on the editorial boards of several journals including Constructive Approximation, Journal of Approximation Theory, Journal of Physics A, and The Ramanujan Journal. He published over 290 research articles, one book and edited several books.
+Most of Ismail's work is joint with other mathematicians and physicists and some of his papers are interdisciplinary. Mourad Ismail works in the area of special functions, orthogonal polynomials and their applications. His research also touches upon approximation theory and continued fractions. He worked on infinite divisibility problems in probability that led to questions about monotonicity properties of special functions. He also worked on monotonicity and inequalities for zeros of orthogonal polynomials. He made several contributions to the asymptotic theory of orthogonal polynomials. He also studied moment problems and found the orthogonality measure for several orthogonal polynomials. This includes the q-ultraspherical polynomials (also known as the Askey–Ismail or Rogers–Askey–Ismail polynomials), the random walk polynomials (also known as
+the Askey–Ismail polynomials), the Al-Salam–Ismail polynomials, and the Chihara–Ismail polynomials. Ismail also worked on q-series and Rogers–Ramanujan identities. Ismail is also interested in the combinatorial theory of orthogonal polynomials and their linearization coefficients.
+
+
+== Publications ==
+Ismail, Mourad E. H. (2005), Classical and Quantum Orthogonal Polynomials in One Variable, ISBN 978-0-521-78201-2
+
+
+== See also ==
+Askey–Bateman project
+
+
+== References ==
+
+Mourad E.H. Ismail home page
+De Gruyter Open
+Microsoft Academic Research
+Distinguished Scientist Fellowship Program 
+
+
+== External links ==
+Kiryakova, Virginia (2009), "Mourad E. H. Ismail" (PDF), Fractional Calculus and Applied Analysis, 12 (4)
+Mourad Ismail at the Mathematics Genealogy Project
+Publications by Mourad Ismail at ResearchGate

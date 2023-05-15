@@ -1,0 +1,207 @@
+John Robert Stallings Jr. (July 22, 1935 – November 24, 2008) was a mathematician known for his seminal contributions to geometric group theory and 3-manifold topology. Stallings was a Professor Emeritus in the Department of Mathematics at the University of California at Berkeley where he had been a faculty member since 1967. He published over 50 papers, predominantly in the areas of geometric group theory and the topology of 3-manifolds. Stallings' most important contributions include a proof, in a 1960 paper, of the Poincaré Conjecture in dimensions greater than six and a proof, in a 1971 paper, of the Stallings theorem about ends of groups.
+
+
+== Biography ==
+John Stallings was born on July 22, 1935, in Morrilton, Arkansas.Stallings received his B.Sc. from University of Arkansas in 1956 (where he was one of the first two graduates in the university's Honors program) and he received a Ph.D. in Mathematics from Princeton University in 1959 under the direction of Ralph Fox.After completing his PhD, Stallings held a number of postdoctoral and faculty positions, including being an NSF postdoctoral fellow at the University of Oxford as well as an instructorship and a faculty appointment at Princeton. Stallings joined the University of California at Berkeley as a faculty member in 1967 where he remained until his retirement in 1994. Even after his retirement, Stallings continued supervising UC Berkeley graduate students until 2005. Stallings was an Alfred P. Sloan Research fellow from 1962 to 1965 and a Miller Institute fellow from 1972 to 1973.
+Over the course of his career, Stallings had 22 doctoral students including Marc Culler, Stephen M. Gersten, and J. Hyam Rubinstein and 100 doctoral descendants.  He published over 50 papers, predominantly in the areas of geometric group theory and the topology of 3-manifolds.
+Stallings delivered an invited address as the International Congress of Mathematicians in Nice in 1970 and a James K. Whittemore Lecture at Yale University in 1969.Stallings received the Frank Nelson Cole Prize in Algebra from the American Mathematical Society in 1970.The conference "Geometric and Topological Aspects of Group Theory", held at the Mathematical Sciences Research Institute in Berkeley in May 2000, was dedicated to the 65th birthday of Stallings.
+In 2002 a special issue of the journal Geometriae Dedicata was dedicated to Stallings on the occasion of his 65th birthday. Stallings died from prostate cancer on November 24, 2008.
+
+
+== Mathematical contributions ==
+Most of Stallings' mathematical contributions are in the areas of geometric group theory and low-dimensional topology (particularly the topology of 3-manifolds) and on the interplay between these two areas.
+An early significant result of Stallings is his 1960 proof of the Poincaré conjecture in dimensions greater than six. (Stallings' proof was obtained independently from and shortly after the different proof of Stephen Smale who established the same result in dimensions bigger than four).
+Using "engulfing" methods similar to those in his proof of the Poincaré conjecture for n > 6, Stallings proved that ordinary Euclidean n-dimensional space has a unique piecewise linear, hence also smooth, structure, if n is not equal to 4. This took on added significance when, as a consequence of work of Michael Freedman and Simon Donaldson in 1982, it was shown that 4-space has exotic smooth structures, in fact uncountably many such.
+In a 1963 paper Stallings constructed an example of a finitely presented group with infinitely generated 3-dimensional integral homology group and, moreover, not of the type 
+  
+    
+      
+        
+          F
+          
+            3
+          
+        
+      
+    
+    {\displaystyle F_{3}}
+  , that is, not admitting a classifying space with a finite 3-skeleton. This example came to be called the Stallings group and is a key example in the study of homological finiteness properties of groups. Robert Bieri later showed that the Stallings group is exactly the kernel of the homomorphism from the direct product of three copies of the free group 
+  
+    
+      
+        
+          F
+          
+            2
+          
+        
+      
+    
+    {\displaystyle F_{2}}
+   to the additive group 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   of integers that sends to 
+  
+    
+      
+        1
+        ∈
+        
+          Z
+        
+      
+    
+    {\displaystyle 1\in \mathbb {Z} }
+   the six elements coming from the choice of free bases for the three copies of 
+  
+    
+      
+        
+          F
+          
+            2
+          
+        
+      
+    
+    {\displaystyle F_{2}}
+  . Bieri also showed that the Stallings group fits into a sequence of examples of groups of type 
+  
+    
+      
+        
+          F
+          
+            n
+          
+        
+      
+    
+    {\displaystyle F_{n}}
+   but not of type 
+  
+    
+      
+        
+          F
+          
+            n
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle F_{n+1}}
+  . The Stallings group is a key object in the version of discrete Morse theory for cubical complexes developed by Mladen Bestvina and Noel Brady and in the study of subgroups of direct products of limit groups.Stallings' most famous theorem in group theory is an algebraic characterization of groups with more than one end (that is, with more than one "connected component at infinity"), which is now known as Stallings' theorem about ends of groups. Stallings proved that a finitely generated group G has more than one end if and only if this group admits a nontrivial splitting as an amalgamated free product or as an HNN extension over a finite group (that is, in terms of Bass–Serre theory, if and only if the group admits a nontrivial action on a tree with finite edge stabilizers). More precisely, the theorem states that a finitely generated group G has more than one end if and only if either G admits a splitting as an amalgamated free product 
+  
+    
+      
+        G
+        =
+        A
+        
+          ∗
+          
+            C
+          
+        
+        B
+      
+    
+    {\displaystyle G=A\ast _{C}B}
+  , where the group C is finite and 
+  
+    
+      
+        C
+        ≠
+        A
+      
+    
+    {\displaystyle C\neq A}
+  , 
+  
+    
+      
+        C
+        ≠
+        B
+      
+    
+    {\displaystyle C\neq B}
+  , or G admits a splitting as an HNN extension 
+  
+    
+      
+        G
+        =
+        ⟨
+        H
+        ,
+        t
+        
+          |
+        
+        
+          t
+          
+            −
+            1
+          
+        
+        K
+        t
+        =
+        L
+        ⟩
+      
+    
+    {\displaystyle G=\langle H,t|t^{-1}Kt=L\rangle }
+   where 
+  
+    
+      
+        K
+        ,
+        L
+        ≤
+        H
+      
+    
+    {\displaystyle K,L\leq H}
+   are finite subgroups of H.
+Stallings proved this result in a series of works, first dealing with the torsion-free case (that is, a group with no nontrivial elements of finite order) and then with the general case. Stalling's theorem yielded a positive solution to the long-standing open problem about characterizing finitely generated groups of cohomological dimension one as exactly the free groups. Stallings' theorem about ends of groups is considered one of the first results in geometric group theory proper since it connects a geometric property of a group (having more than one end) with its algebraic structure (admitting a splitting over a finite subgroup). Stallings' theorem spawned many subsequent alternative proofs by other mathematicians (e.g.) as well as many applications (e.g.). The theorem also motivated several generalizations and relative versions of Stallings' result to other contexts, such as the study of the notion of relative ends of a group with respect to a subgroup, including a connection to CAT(0) cubical complexes. A comprehensive survey discussing, in particular, numerous applications and generalizations of Stallings' theorem, is given in a 2003 paper of C. T. C. Wall.Another influential paper of Stallings is his 1983 article "Topology of finite graphs". Traditionally, the algebraic structure of subgroups of free groups has been studied in combinatorial group theory using combinatorial methods, such as the Schreier rewriting method and Nielsen transformations. Stallings' paper put forward a topological approach based on the methods of covering space theory that also used a simple graph-theoretic framework. The paper introduced the notion of what is now commonly referred to as Stallings subgroup graph for describing subgroups of free groups, and also introduced a foldings technique (used for approximating and algorithmically obtaining the subgroup graphs) and the notion of what is now known as a Stallings folding. Most classical results regarding subgroups of free groups acquired simple and straightforward proofs in this set-up and Stallings' method has become the standard tool in the theory for studying the subgroup structure of free groups, including both the algebraic and algorithmic questions (see ). In particular, Stallings subgroup graphs and Stallings foldings have been the used as a key tools in many attempts to approach the Hanna Neumann conjecture.Stallings subgroup graphs can also be viewed as finite-state automata and they have also found applications in semigroup theory and in computer science.Stallings' foldings method has been generalized and applied to other contexts, particularly in Bass–Serre theory for approximating group actions on trees and studying the subgroup structure of the fundamental groups of graphs of groups. The first paper in this direction was written by Stallings himself, with several subsequent generalizations of Stallings' folding methods in the Bass–Serre theory context by other mathematicians.Stallings' 1991 paper "Non-positively curved triangles of groups" introduced and studied the notion of a triangle of groups. This notion was the starting point for the theory of complexes of groups (a higher-dimensional analog of Bass–Serre theory), developed by André Haefliger and others. Stallings' work pointed out the importance of imposing some sort of "non-positive curvature" conditions on the complexes of groups in order for the theory to work well; such restrictions are not necessary in the one-dimensional case of Bass–Serre theory.
+Among Stallings' contributions to 3-manifold topology, the most well-known is the Stallings fibration theorem. The theorem states that if M is a compact irreducible 3-manifold whose fundamental group contains a normal subgroup, such that this subgroup is finitely generated and such that the quotient group by this subgroup is infinite cyclic, then M fibers over a circle. This is an important structural result in the theory of Haken manifolds that engendered many alternative proofs, generalizations and applications (e.g. ), including a higher-dimensional analog.A 1965 paper of Stallings "How not to prove the Poincaré conjecture" gave a group-theoretic reformulation of the famous Poincaré conjecture. The paper began with a humorous admission: "I have committed the sin of falsely proving Poincaré's Conjecture. But that was in another country; and besides, until now, no one has known about it." Despite its ironic title, Stallings' paper informed much of the subsequent research on exploring the algebraic aspects of the Poincaré conjecture (see, for example,).
+Stallings was also interested in languages, and wrote one of the very few mathematical research papers in the constructed language Interlingua.
+
+
+== Selected works ==
+Stallings, John R. (1960), "Polyhedral homotopy spheres", Bulletin of the American Mathematical Society, 66 (6): 485–488, doi:10.1090/s0002-9904-1960-10511-3, MR 0124905
+Stallings, John R.; Zeeman, E. C. (1962), "The piecewise-linear structure of Euclidean space", Proceedings of the Cambridge Philosophical Society, 58 (3): 481–488, Bibcode:1962PCPS...58..481S, doi:10.1017/S0305004100036756, MR 0149457, S2CID 120418488
+Stallings, John R. (1962), "On fibering certain 3-manifolds", Topology of 3-manifolds and related topics (Proc. The Univ. of Georgia Institute, 1961), Prentice Hall, pp. 95–100, MR 0158375
+Stallings, John R. (1965), "Homology and central series of groups", Journal of Algebra, 2 (2): 170–181, doi:10.1016/0021-8693(65)90017-7, MR 0175956
+Stallings, John (1963), "A finitely presented group whose 3-dimensional integral homology is not finitely generated", American Journal of Mathematics, The Johns Hopkins University Press, 85 (4): 541–543, doi:10.2307/2373106, JSTOR 2373106, MR 0158917
+Stallings, John R. (1968), "On torsion-free groups with infinitely many ends", Annals of Mathematics, Second Series, Annals of Mathematics, 88 (2): 312–334, doi:10.2307/1970577, JSTOR 1970577, MR 0228573
+Stallings, John R. (1971), Group theory and three-dimensional manifolds, Yale University Press, ISBN 978-0-300-01397-9, MR 0415622
+Stallings, John R. (1978), "Constructions of fibred knots and links", Algebraic and geometric topology (Proc. Sympos. Pure Math., Stanford Univ., Stanford, Calif., 1976), Part 2, Proc. Sympos. Pure Math., XXXII, Providence, R.I.: American Mathematical Society, pp. 55–60, MR 0520522
+Stallings, John R. (1983), "Topology of finite graphs", Inventiones Mathematicae, 71 (3): 551–565, Bibcode:1983InMat..71..551S, doi:10.1007/BF02095993, MR 0695906, S2CID 16643207, with over 100 recent citations
+Stallings, John R. (1991), "Folding G-trees", Arboreal group theory (Berkeley, CA, 1988), Mathematical Sciences Research Institute Publications, vol. 19, New York: Springer, pp. 355–368, doi:10.1007/978-1-4612-3142-4_14, ISBN 978-0-387-97518-4, MR 1105341
+Stallings, John R. (1991), "Non-positively curved triangles of groups", Group theory from a geometrical viewpoint (Trieste, 1990), River Edge, NJ: World Scientific, pp. 491–903, ISBN 978-981-02-0442-6, MR 1170374
+
+
+== Notes ==
+
+
+== External links ==
+John R. Stallings at the Mathematics Genealogy Project
+home page of John Stallings.
+Remembering John Stallings, Notices of the American Mathematical Society, vol. 56 (2009), no. 11, pp. 1410 1417

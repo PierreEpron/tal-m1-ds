@@ -1,0 +1,72 @@
+Pavel Sergeyevich Alexandrov (Russian: Па́вел Серге́евич Алекса́ндров), sometimes romanized Paul Alexandroff (7 May 1896 – 16 November 1982), was a Soviet mathematician. He wrote about three hundred papers, making important contributions to set theory and topology. In topology, the Alexandroff compactification and the Alexandrov topology are named after him.
+
+
+== Biography ==
+Alexandrov attended Moscow State University where he was a student of Dmitri Egorov and Nikolai Luzin. Together with Pavel Urysohn, he visited the University of Göttingen in 1923 and 1924. After getting his Ph.D. in 1927, he continued to work at Moscow State University and also joined the Steklov Institute of Mathematics. 
+He was made a member of the Russian Academy of Sciences in 1953.
+
+
+=== Personal life ===
+Luzin challenged Alexandrov to determine if the continuum hypothesis is true. This still unsolved problem was too much for Alexandrov and he had a creative crisis at the end of 1917. The failure was a heavy blow for Alexandrov: "It became clear to me that the work on the continuum problem ended in a serious disaster. I also felt that I could no longer move on to mathematics and, so to speak, to the next tasks, and that some decisive turning point must come in my life."
+Alexander went to Chernihiv, where he participated in the organization of the drama theater. "I met L. V. there. Sobinov, who was at that time the head of the Department of Arts of the Ukrainian People's Commissariat of Education."
+During this period, Alexandrov visited Denikin prison[4] and was ill with typhus.In 1921, he married Ekaterina Romanovna Eiges (1890-1958) who was a poet and memoirist, library worker and mathematician.In 1955, he signed the "Letter of Three Hundred" with criticism of Lysenkoism.Alexandrov made lifelong friends with Andrey Kolmogorov, about whom he said: "In 1979 this friendship [with Kolmogorov] celebrated its fiftieth anniversary and over the whole of this half century there was not only never any breach in it, there was also never any quarrel, in all this time there was never any misunderstanding between us on any question, no matter how important for our lives and our philosophy; even when our opinions on one of these questions differed, we showed complete understanding and sympathy for the views of each other." Researchers have since conjectured that the two men were in a secret gay relationship.He was buried at the Kavezinsky cemetery of the Pushkinsky district of the Moscow region.
+
+
+== Scientific activity ==
+Alexandrov's main works are on topology, set theory, theory of functions of a real variable, geometry, calculus of variations, mathematical logic, and foundations of mathematics.He introduced the new concept of compactness (Alexandrov himself called it "Bicompactness", and applied the term compact to only countably compact spaces, as was customary before him). Together with P. S. Urysohn, Alexandrov showed the full meaning of this concept; in particular, he proved the first general metrization theorem and the famous compactification theorem of any locally compact Hausdorff space by adding a single point.From 1923 P. S. Alexandrov began to study combinatorial topology, and he managed to combine this branch of topology with general topology and significantly advance the resulting theory, which became the basis for modern algebraic topology. It was he who introduced one of the basic concepts of algebraic topology — the concept of an exact sequence. Alexandrov also introduced the notion of a nerve of a covering, which led him (independently of E. Cech) to the discovery of Alexandrov-Cech Cohomology.In 1924, Alexandrov proved that in every open cover of a separable metric space, a locally finite open cover can be inscribed (this very concept, one of the key concepts in general topology, was first introduced by Alexandrov ). in fact, this proved the paracompact nature of separable metric spaces (although the term "paracompact space" was introduced by Jean Dieudonne in 1944, and in 1948 Arthur Harold Stone showed that the requirement of separability can be abandoned).
+He significantly advanced the theory of dimension (in particular, he became the founder of the homological theory of dimension — its basic concepts were defined by Alexandrov in 1932  ). He developed methods of combinatorial research of general topological spaces, proved a number of basic laws of topological duality. In 1927, he generalized Alexander's theorem to the case of an arbitrary closed set.Alexandrov and P. S. Urysohn were the founders of the Moscow topological school, which received international recognition. a number of concepts and theorems of topology bear Alexandrov's name: the Alexandrov compactification, the Alexandrov-Hausdorff theorem on the cardinality of a-sets, the Alexandrov topology, and the Alexandrov — Cech homology and cohomology.
+His books played an important role in the development of science and mathematics education in Russia: Introduction to the General Theory of Sets and Functions, Combinatorial Topology, Lectures on Analytical Geometry, Dimension Theory (together with B. A. Pasynkov) and Introduction to Homological Dimension Theory.
+The textbook Topologie I, written together with Heinz Hopf in German (Alexandroff P., Hopf H. (1935) Topologie Band 1 — Berlin) became the classic course of topology of its time.
+
+
+=== The Luzin Affair ===
+In 1936, Alexandrov was an active participant in the political offensive against his former mentor Luzin that is known as the Luzin affair.
+Despite the fact that P. S. Alexandrov was a student of N. N. Luzin and one of the members of Lusitania, during the persecution of Luzin (the Luzin Affair), Alexandrov was one of the most active persecutors of the scientist. Relations between Luzin and Alexandrov remained very strained until the end of Luzin's life, and Alexandrov became an academician only after Luzin's death.
+
+
+=== Students ===
+Among the students of P. S. Alexandrov, the most famous are Lev Pontryagin, Andrey Tychonoff and Aleksandr Kurosh. The older generation of his students includes L. A. Tumarkin, V. V. Nemytsky, A. N. Cherkasov, N. B. Vedenisov, G. S. Chogoshvili. The group of "Forties" includes Yu. M. Smirnov, K. A. Sitnikov, O. V. Lokutsievsky, E. F. Mishchenko, M. R. Shura-Bura. The generation of the fifties includes A.V. Arkhangelsky, B. A. Pasynkov, V. I. Ponomarev, as well as E. G. Sklyarenko and A. A. Maltsev, who were in graduate school under Yu.M. Smirnov and K. A. Sitnikov, respectively. The group of the youngest students is formed by V. V. Fedorchuk, V. I. Zaitsev and E. V. Shchepin.
+
+
+== Honours and awards ==
+Hero of Socialist Labour
+Stalin Prize
+Order of Lenin, six times (1946, 1953, 1961, 1966, 1969 and 1975)
+Order of the October Revolution
+Order of the Red Banner of Labour
+Order of the Badge of Honour
+Member of the American Philosophical Society (1946)
+Member of the United States National Academy of Sciences (1947)
+
+
+== Books ==
+Alexandroff P., Hopf H. Topologie Bd.1 — B: , 1935
+Aleksandrov, P. S. (1961). Elementary concepts of topology. New York: Dover. ISBN 9780486607474.
+Aleksandrov, P. S. (1998). Combinatorial topology. Mineola, N.Y: Dover Publications. ISBN 9780486401799.
+Aleksandrov, P. S. (2012). An introduction to the theory of groups. Mineola, N.Y: Dover Publications. ISBN 9780486488134.
+
+
+=== Books In Russian ===
+Aleksandrov, P. S. (1978). Theory of Functions of Real Variable and Theory of Topological Spaces (Selected Works). Moscow: Nauka.
+Aleksandrov, P. S. (1978). Theory of Dimensionality and Related Issues. Articles of a General Bature (Selected Works). Moscow: Nauka.
+Aleksandrov, P. S. (1979). The General Theory of homology (Selected Works). Moscow: Nauka.
+Aleksandrov, P. S. (1975). Introduction to Homological Dimension Theory and General Combinatorial Topology. Moscow: Nauka.
+Aleksandrov, P. S. (1980). Introduction to the Theory of Groups. Moscow: Nauka.
+Aleksandrov, P. S. (1977). Introduction to set Theory and General Topology. Moscow: Nauka.
+Aleksandrov, P. S. (1973). Pasynkov B. A. Introduction to the Theory of Dimension. Introduction to the Theory of Topological Spaces and the General Theory of Dimensions. Moscow: Nauka.
+Aleksandrov, P. S. (1947). Combinatorial Topology. Moscow: Fizmatgiz.
+Aleksandrov, P. S. (1950). What is Non-euclidean Geometry. Moscow: Academy of Pedagogical Sciences.
+Aleksandrov, P. S. (1979). Course of Analytical Geometry and Linear Algebra. Moscow: Nauka.
+Aleksandrov, P. S. (1971). Uryson P. S. Memoir on Compact Topological Spaces. Moscow: Nauka.
+Aleksandrov, P. S. (1955). Topological Duality Theorems. Part 1. Closed Sets. Moscow: AS USSR.
+
+
+== Notes ==
+
+
+== External links ==
+O'Connor, John J.; Robertson, Edmund F., "Pavel Alexandrov", MacTutor History of Mathematics archive, University of St Andrews
+Pavel Alexandrov at the Mathematics Genealogy Project
+The 1936 Luzin affair – from the MacTutor History of Mathematics archive
+Lorentz G.G., Mathematics and Politics in the Soviet Union from 1928 to 1953
+Kutateladze S.S., The Tragedy of Mathematics in Russia

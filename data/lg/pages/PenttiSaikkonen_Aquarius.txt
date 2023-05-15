@@ -1,0 +1,16 @@
+Pentti Juhani Saikkonen (born 12 February 1952) is a Finnish statistician specializing in time series analysis.
+Since 2004 he is a professor of statistics at the University of Helsinki.
+A native of Lahti, Saikkonen attended the University of Helsinki, where he earned his licentiate in 1981, and his doctorate in 1986.
+
+
+== Selected publications ==
+Lanne, Markku; Lütkepohl, Helmut; ——— (2002). "Comparison of Unit Root Tests for Time Series with Level Shifts". Journal of Time Series Analysis. 23 (6): 667–685. doi:10.1111/1467-9892.00285. S2CID 52256742.
+——— (1991). "Asymptotically Efficient Estimation of Cointegration Regressions". Econometric Theory. 7 (1): 1–21. doi:10.1017/S0266466600004217. S2CID 122328481.
+Luukkonen, Ritva; ———; Teräsvirta, Timo (1988). "Testing Linearity Against Smooth Transition Autoregressive Models". Biometrika. 75 (3): 491–499. doi:10.1093/biomet/75.3.491.
+
+
+== References ==
+
+
+== External links ==
+Website at the University of Helsinki

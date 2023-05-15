@@ -1,0 +1,98 @@
+David Zilberman (born May 9, 1947) is an Israeli-American agricultural economist, professor and Robinson Chair in the Department of Agricultural and Resource Economics at the University of California, Berkeley. Zilberman has been a professor in the Agricultural and Resource Economics Department at UC Berkeley since 1979.  His research has covered a range of fields including the economics of production technology and risk in agriculture, agricultural and environmental policy, marketing and more recently the economics of climate change, biofuel and biotechnology. He won the 2019 Wolf Prize in Agriculture, was the President of the Agricultural and Applied Economics Association (AAEA), and is a Fellow of the AAEA and Association of Environmental and Resource Economics. David is an avid blogger on the Berkeley Blog and a life-long Golden State Warriors fan.
+
+
+== Biography ==
+Zilberman was born in Jerusalem in Mandatory Palestine. He attended Hebrew University Secondary School. After serving in the Army and working on a Kibutz, he received his B. A. in Economics and Statistics at Tel Aviv University, Israel, and obtained his Ph.D. in Agricultural and Resource Economics at the University of California, Berkeley, in 1979. Zilberman is married to Leorah Abouav-Zilberman and has 3 sons and 6 grandchildren.
+
+
+== Academic career ==
+Zilberman has been teaching, conducting research and serving as an extension specialist at UC Berkeley. His research combines, theory, empirical work and outreach. His research mostly addresses either management or policy problems in the nexus of agriculture, natural resources and the environment. He has been involved in major policy debates, including the transition to water markets, regulation and use of pesticides, and biotechnology and biofuel policies. Zilberman’s research incorporates features of agronomic and biophysical systems into economic models. His work emphasizes heterogeneity of people and location, as well as dynamics and risk.  He has published in academic journals including Science, the Quarterly Journal of Economics, Nature Biotechnology, The American Economic Review, Econometrica, and the Journal of Development Economics.  He is the editor of the Annual Review of Resource Economics.His major areas of research include:
+
+
+=== Innovation and technology adoption ===
+
+
+==== Economics of adoption ====
+The traditional literature of technology diffusion viewed it as a process of imitation. Zilberman modeled diffusion as a result of economic choices by heterogeneous decision makers affected by dynamic processes. Zilberman, Zhao, and Heiman (2013) that choices of others make people aware of new technology, but they assess it according to their preferences and constraints. Differences in adoption behavior reflect economic and demographic heterogeneity. Dynamic processes such as learning by doing and learning by using may reduce the cost and increase the benefit of new technologies and enhance adoption over time. Feder, Just, and Zilberman (1985). studied both modelling of adoption choice (to adopt or not) and adoption intensity (how much to adopt) and emphasized the role of risk and risk aversion, lack of access to credit, and tenancy in slowing adoption of modern technology in developing countries.
+
+
+==== Economics of innovation ====
+The survey by Sunding and Zilberman (2001), views technological innovations as outcomes of multistage activities (research, development, commercialization, marketing, adoption) affected by economic incentives. They suggest that studies of adoption should explicitly analyze the impact of marketing efforts including, advertisement, money back guarantee, sampling and demonstration.
+Graff, Heiman and Zilberman (2002) emphasize the important role of the educational industrial complex in introducing modern innovations. University research may come with new concepts and the right to develop these technologies may move to startups that may become or taken over by major companies. Excellence in research and development and affective technology transfer mechanisms are becoming key to strength in agriculture and industry.
+
+
+==== Biotechnology and bioeconomy ====
+Zilberman et al. (2013) looks at the political economy of biotechnology, especially in cross-continental differences in political economic outcomes with regards to adoption of agricultural biotechnology. This analysis contributed to understanding how the ideologies of GM crops have played out in the U.S. versus Europe and Africa, and the different interest groups that played a role in this dynamic process. Zilberman, Kaplan, and Wesseler (2015) tried to understand the welfare loss associated with delayed adoption of GM technologies due to regulatory barriers. The article examined the specific context of adoption of Golden Rice, which prevents Vitamin A deficiency, as well as major food crops like corn, wheat, and rice in general. This analysis contributed to understanding welfare implications of lack of GM adoption around the world, using simple economic tools and assumptions about yield effects.
+
+
+=== Resource economics ===
+
+
+==== Water ====
+Caswell and Zilberman (1986) developed a framework to assess the economics of irrigation technology. This framework distinguished between applied water and effective water (water utilized by the crop). Irrigation efficiency (the ration of effective to applied water), is higher with modern irrigation technology and on soils with high water holding capacity. They predict that modern irrigation technologies (drip irrigation) will tend to increase yields but may actually increase water use per unit of land. These technologies are more likely to be adopted on sandy soils, higher value crop and locations with higher cost of water. Taylor and Zilberman (2017) analyze the diffusion of drip irrigation in California, showing that it was first adopted on high value crops, the droughts accelerated the diffusion rate and that the collaboration between extension and private sector was crucial for adapting the technology to different crops and regions.
+Zilberman, D., M. Khanna, and L. Lipper (1997), Khanna and Zilberman (2001) extended the notion of water use efficiency for studying the incentives for adoption of modern irrigation technologies to thinking more broadly about technologies that can increase input-use efficiency in a range of other contexts and the economic incentives and barriers to their widespread adoption. These technologies included those that increase energy efficiency of power generation in India, fertilizer use efficiency in corn production in the Midwest and other conservation technologies that can lead to sustainable growth. A key contribution of this work was to show how policy distortions can reduce incentives to adopt technologies that are otherwise economically efficient and environmentally preferred.
+Zilberman et al., (2008) looks at water resource management "in an era of high energy prices". The article found that rising energy prices will hurt pumping of groundwater for agriculture, will increase reliance on hydroelectric, and may cause water to be diverted away from crop agriculture, leading to higher food prices.
+Hamilton et al., (2013) models the collective waste disposal problem under network externalities arising from a networked waste disposal system leading to a centralized processing facility. The article found that this setup optimally results in a spatial pattern of worse "local pollution" and lower usage of the disposal system for waste producers farther away from the central facility.
+Xie and Zilberman 2016, 2017 address whether two common approaches to tackling water scarcity, namely water use efficiency improvement and water storage capacity expansion, complement or substitute each other. These works explore theoretically counter-intuitive, practically relevant implications on infrastructure investment, consumption efficiency, and conservation of water and other resources.
+
+
+==== Land use ====
+Collender and Zilberman (1985)  derived a land allocation rule which is both independent of the nature of the underlying distribution of each element in the choice set and accounts for all moments of that distribution. This decision rule is applied to the choice between cotton and corn in the Mississippi Delta to demonstrate that consideration of just the first two moments of the distribution can often be unjustified and damaging empirically, theoretically, and in terms of the utility of the decision maker.
+
+
+==== Pest management ====
+Lichtenberg and Zilberman (1986) developed a damage control function to assess pesticide impacts. Some of the potential output is lost because of pest damage which depend on the pest population, climatic and biophysical conditions. Pest damage can be reduced by application of pest control tools, but the longterm impact may be compromised because of residence. They show that estimation of pesticide productivity requires precise specification of damage functions and misspecification may lead to significant estimation error. The damage control function has had a wide range of applications, including assessing the impact of GMOs, and is reviewed in Sexton, Lei and Zilberman (2007).
+
+
+=== Environmental economics ===
+
+
+==== Payment for ecosystem services ====
+Wu, Zilberman and Babcock,(2001) developed a conceptual framework to allocate a public fund that is paying producers to utilize lands or other resources in activities that benefit the environment. Traditional policies aimed to maximize total amount of land enrolled in the programs, others aimed to use resources on the land with the best amenities. The paper shows that is economically efficient to target lands that have the highest ration of environment benefit per acre. Babcock et al,(1997) demonstrate with data from the Midwest, that while landowners prefer targeting schemes that purchase the less productive land, targeting land with the highest benefit per dollar spent ratio, may increase environmental amenities by 10-30%.
+Zilberman, Lipper and McCarthy, (2008) study the distributional effect of payment for ecosystem services. They show paying to divert land from production to environmental activities may harm the poor, while working land program may be good for the environment and the poor.
+
+
+==== Bioeconomics ====
+Zivin, Hueth, and Zilberman (2000) develops a bioeconomic model in which a species is considered both a pest and a resource.  Steady state populations and optimal control are shown to depend on a range of regulatory and economic factors.  An application to the case of feral pigs in California, suggests that allowing landowners to capture the recreation benefits associated with wild pigs, and thus transforming their land into a multiple-use resource, results in a larger steady-state population of pigs and increased returns to landowners.
+
+
+==== Animal waste ====
+Ogishi, Zilberman, and Metcalfe (2003) looks at the effectiveness of legislation on controlling animal waste residues has been limited. The article argues that the legislation has not adjusted to recent changes in the structure of livestock production systems, in particular contract farming and industrialization of agriculture. The paper proposes policy reforms that increase liability of large agribusiness firms, also known as integrators, for the negative environmental side effects caused by their producers’ livestock operations. The reforms should also extend the liability to all participants in animal production and consumption activities.
+
+
+==== Environmental regulation ====
+Zivin, Just, and Zilberman (2006) investigates the Coase theorem under stochastic externality. Ronald Coase famously won the Nobel prize for his work claiming that a competitive system with well-defined property right assignments, perfect information, and zero transaction costs would attain Pareto optimality through a process of voluntary bargaining and side payments.  This paper investigates this claim in the context of a stochastic externality problem and finds that, when at least one agent is risk averse, optimal outcomes are not independent of the initial assignment of property rights.  If large, well-connected firms are viewed as (nearly) risk neutral and small firms with limited access to financial management tools are viewed as risk averse, then the results of this paper can easily be translated into practical policy suggestions. When both polluter and pollutee are large, liability rules are of little consequence—agents will bargain to efficient outcomes, i.e. the Coase result obtains. When the polluter is large and the pollutee is small, polluters should face complete liability for damages. When the polluter is small and the pollutee is large, all liability rules will be non-optimal and efforts to contract on verifiable polluter activities, rather than realized damages, will be preferred.
+Zivin and Zilberman (2002) develops and implements an economic model of environmental health risk regulation that is based on scientific constructs utilized in public health. This structural specification allows one to identify a menu of policy options, including the selection of optimal policies where vulnerable subgroups of the population are targeted with special exposure-reducing treatments, so called ‘tagging’.  Analytic results show that the potential economic gains from tagging will depend critically on the quality of existing capital, the degree of returns to scale in treatment technologies, and the size and sensitivity of the vulnerable population. An empirical application of the model to the case of cryptosporidium in drinking water supplies suggest that tagging can substantially reduce the costs of meeting health standards in small and medium-sized water districts.
+
+
+=== Risk management ===
+Du et al.(2015) looks at optimal use of risk management tools when multiple tools are available. Contracts and crop insurers are important means for farmers to mitigate risks in modern U.S. agriculture. This article investigates the effect of crop insurance enrollment on contract terms and farmers’ participation in marketing contracts and shows that improved terms of crop insurance (lower premiums, higher subsidies) make contracts less appealing to farmers as mechanisms for mitigating risk. Therefore, intermediaries may revise their contract offers so that they are more attractive. However, improvements in contract terms are limited by their cost to the intermediaries and will not lead to expanded participation in contracts.
+
+
+=== Real option ===
+Zhao and Zilberman (1999) extend the real options theory to account for partial and endogenous reversibility. The article showed that accounting for costly reversibility is critical in water resource development. The real options framework has since been applied to natural resource management and restoration that account for resource conserving technological changes in the future (Zhao and Zilberman, 2001), to money back guarantees where learning about product quality and fit occurs after purchases have been made (Heiman et al., 2002), and technology adoption and adaptation to climate change where irreversibility plays a critical role (Zilberman, Zhao and Heiman, 2012).
+
+
+=== Supply chain ===
+Ifft et al. (2008) looks at the poultry market participants (chicken farmers, chick producers, commune traders, wholesalers, slaughterhouses, and retail vendors) in and around Ha Noi, VietnamDu et al. (2016) and Lu, Reardon, and Zilberman (2017) present a conceptual framework depicting the issues and strategies of a firm with an innovation (in product or technology or system). To “implement” the innovation in terms of procurement of feedstock (intermediate inputs), production and processing, and marketing, the innovating firm undertakes strategic design of its supply chain. It must decide how much to produce, what segments of the supply chain to undertake in-house versus sourcing externally, and what institutions such as contracts and standards it will use to coordinate the suppliers assuring its external sourcing.
+
+
+== Activities and honors ==
+He is a currently serving as President of the American Agricultural Economics Association (AAEA) and the Association of Environmental and Resource Economists (AERE). He was a recipient of the AAEA 2007 Quality of Communication Award and Outstanding Review of Agricultural Economics Article, the AAEA 2005 Publication of Enduring Quality Award, the 2002 Quality of Research Discovery Award, and the 2000 Cannes Water and the Economy Award. He has served as a consultant for the World Bank, The United Nations Food and Agriculture Organization, the USDA, CGIAR, the Environmental Protection Agency and has served on two National Research Council panels.
+Zilberman has worked in agricultural economics, environmental economics, resource economics, water, climate change, biofuel and agricultural biotechnology with over 250-refereed articles in journals ranging from Science to the Quarterly Journal of Economics. He is an active advocate of agricultural biotechnology, engaging in public debates on issues surrounding genetically modified technologies and intellectual property. He is a frequent contributor to the Berkeley Blog, a blogging platform for UC Berkeley faculty.
+In mid-1990s Zilberman, with fellow economists Vittorio Santaniello and Robert Evenson, established the International Consortium of Agricultural Biotechnology Research which aims to facilitate interaction among researchers and analysts.  In 2001, he was the founding co-director of the Beahrs Environmental Leadership program, which provides training in environmental and natural resource science, policy, and leadership. Since then, the program has graduated 702 alumni from over 114 countries. In 2012, with support from the Macarthur Foundation, he started the UC Berkeley Master of Development Practice (MDP), a 2-year professional degree aimed at development practitioners. For 2019 he received the Wolf Prize in Agriculture.
+
+
+== Awards ==
+Wolf Prize in Agriculture, 2019
+President of Agricultural & Applied Economics Association, 2018-19.
+Honorary member for life, International Association of Agricultural Economics, 2018.
+Member, European Academy of Sciences and Arts, November 2016.
+University of California at Berkeley, College of Natural Resources, Career Achievement Award, 2011.
+Agricultural & Applied Economics Association, Publication of Enduring Quality Award, 2005 and 2010.
+Fellow, Association of Environmental and Resource Economists, 2007.
+UNESCO International Cannes Prize for Water and the Economy, 2000.
+Fellow, American Agricultural Economics Association, 1998.
+
+
+== References ==
