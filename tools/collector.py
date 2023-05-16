@@ -5,6 +5,7 @@ from pathlib import Path
 import wikipedia
 import random
 
+# Query is explained in the report.
 DBPEDIA_QUERIES = {
     'all':"""
         SELECT DISTINCT ?s ?n ?bd ?bp ?dd ?abs WHERE {{

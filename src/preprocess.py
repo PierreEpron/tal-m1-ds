@@ -4,6 +4,7 @@ from nltk.corpus import stopwords
 import nltk
 nltk.download('stopwords')
 
+# Mapping for atral date parsing
 ASTRAL_DATES = {
     'Aries' : {'start':(3,21), 'end':(4,20)},
     'Taurus' : {'start':(4,21), 'end':(5,20)},
@@ -19,9 +20,23 @@ ASTRAL_DATES = {
     'Pisces' : {'start':(2,20), 'end':(3,20)},
 }
 
+# List of the months used in token cleaning
 MONTHS = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december']
 
+
 def date_to_astral(date, astral_dates=ASTRAL_DATES):
+    """
+        Convert a yyyy-mm-dd date into astral sign.
+
+        Parameters
+        ----------
+        date : str, valid_pos to format.
+        astral_dates : Dict, mapping to use for conversion.
+
+        Returns
+        ---------
+        astral_sign : str, the astral sign corresponding to the date. 
+    """
     _, m, d = date.split('-')
     m, d = int(m), int(d)
     for k, v in astral_dates.items():
@@ -29,25 +44,33 @@ def date_to_astral(date, astral_dates=ASTRAL_DATES):
         if (m == s[0] and d >= s[1]) or (m == e[0] and d <= e[1]):
             return k
 
+
 def get_page_path(root, doc):
+    ''' Helper to format page path to requested name: "path/PersonName_AstralSign.txt" '''
     return (root / f"{Path(doc['path']).name.replace('_', '')}_{date_to_astral(doc['birthDate'])}.txt")
 
-def get_spacy_tokens(doc_json):
+
+def get_spacy_tokens(doc):
+    ''' Helper to iterate over spacy token text, pos and lemma for the given doc'''
     return map(
-        lambda t: (doc_json['text'][t['start']:t['end']], t['pos'], t['lemma']), 
-        doc_json['tokens']
+        lambda t: (t.text, t.pos_, t.lemma_), 
+        doc
     )
 
-def get_stanza_tokens(doc_json):
+
+def get_stanza_tokens(doc):
+    ''' Helper to iterate over stanza token text, pos and lemma for the given doc'''
     return map(
-        lambda t:(doc_json['text'], t['upos'], t['lemma']) , 
-        functools.reduce(lambda a, b: a + b, doc_json, [])
+        lambda t:(t.text, t.words[0].upos, t.words[0].lemma) , 
+        functools.reduce(lambda a, b: a + b.sentences, doc, [])
     )
+
 
 PARSERS = {
     'spacy':get_spacy_tokens, 
     'stanza':get_stanza_tokens
 }
+
 
 def clean_tokens(
     parser='spacy',
@@ -59,16 +82,34 @@ def clean_tokens(
     keep_lemma=True,
     remove_month=True
     ):
+    """
+        Wrapper to create a clean_tokens function that take a spacy or a stanza doc and clean it tokens.
+        We use a wrapper here to avoid stop_word merging multiple times.
+
+        Parameters
+        ----------
+        parser : str, default='spacy', from which parser is the doc (spacy, stanza).
+        stop_words : Iterable[str], default=nlt.stopwords.words('english'), words to skip during cleaning.
+        stop_pos : Iterable[str], default=['ADV','PRON','CCONJ','PUNCT','PART','DET','ADP','SPACE','NUM','SYM','X'], POS to skip during cleaning.
+        min_size : int, default=2, minimum size of a token to be kept during cleaning.
+        lowercase : bool, default=True, if True the function lower the output tokens.
+        is_alpha : bool, default=True, if True non alpha token will be skip during cleaning.
+        keep_lemma : bool, default=True, if True the function return lemma of output tokens.
+        remove_month : bool, default=True, if True month will be added to stopwords.
+        Returns
+        ---------
+        astral_sign : List[str], List of cleaned tokens. 
+    """
 
     if remove_month:
         stop_words += MONTHS
 
     def wrapped_clean_tokens(
-        doc_json
+        doc
     ):
         valid_tokens = []
 
-        for text, pos, lemma in PARSERS[parser](doc_json):
+        for text, pos, lemma in PARSERS[parser](doc):
 
             text = text.lower() if lowercase else text
 
